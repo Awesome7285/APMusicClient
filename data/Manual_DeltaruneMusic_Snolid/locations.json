@@ -1,0 +1,1721 @@
+[
+  {
+    "name": "ANOTHER HIM",
+    "region": "Menu",
+    "category": [
+      "Sphere 1"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Beginning",
+    "region": "Menu",
+    "category": [
+      "Sphere 1"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "School",
+    "region": "Menu",
+    "category": [
+      "Sphere 1"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Susie",
+    "region": "Menu",
+    "category": [
+      "Sphere 1"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Door",
+    "region": "Chapter 1",
+    "category": [
+      "Chapter 1"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Cliffs",
+    "region": "Chapter 1",
+    "category": [
+      "Chapter 1"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Chase",
+    "region": "Chapter 1",
+    "category": [
+      "Chapter 1"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The Legend",
+    "region": "Chapter 1",
+    "category": [
+      "Chapter 1"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Lancer",
+    "region": "Chapter 1",
+    "category": [
+      "Chapter 1"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Rude Buster",
+    "region": "Chapter 1",
+    "category": [
+      "Chapter 1"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Empty Town",
+    "region": "Chapter 1",
+    "category": [
+      "Chapter 1"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Weird Birds",
+    "region": "Chapter 1",
+    "category": [
+      "Fields",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key|"
+  },
+  {
+    "name": "Field of Hopes and Dreams",
+    "region": "Chapter 1",
+    "category": [
+      "Fields",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key|"
+  },
+  {
+    "name": "Fanfare (from Rose of Winter)",
+    "region": "Chapter 1",
+    "category": [
+      "Fields",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key|"
+  },
+  {
+    "name": "Lantern",
+    "region": "Chapter 1",
+    "category": [
+      "Fields",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key|"
+  },
+  {
+    "name": "I'm Very Bad",
+    "region": "Chapter 1",
+    "category": [
+      "Fields",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key|"
+  },
+  {
+    "name": "Checker Dance",
+    "region": "Chapter 1",
+    "category": [
+      "Fields",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key|"
+  },
+  {
+    "name": "Quiet Autumn",
+    "region": "Chapter 1",
+    "category": [
+      "Forest",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key|"
+  },
+  {
+    "name": "Scarlet Forest",
+    "region": "Chapter 1",
+    "category": [
+      "Forest",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key|"
+  },
+  {
+    "name": "Thrash Machine",
+    "region": "Chapter 1",
+    "category": [
+      "Forest",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key|"
+  },
+  {
+    "name": "Vs. Lancer",
+    "region": "Chapter 1",
+    "category": [
+      "Forest",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key|"
+  },
+  {
+    "name": "Basement",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "Imminent Death",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "Vs. Susie",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "Card Castle",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "Rouxls Kaard",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "April 2012",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "Hip Shop",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "Gallery",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "Chaos King",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "Darkness Falls",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "The Circus",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "THE WORLD REVOLVING",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "Friendship",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "THE HOLY",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "Your Power",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "A Town Called Hometown",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "You Can Always Come Home",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "Laura Shigihara - Don't Forget",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "Before the Story",
+    "region": "Chapter 1",
+    "category": [
+      "Castle",
+      "Chapter 1"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "Faint Glow",
+    "region": "Chapter 2",
+    "category": [
+      "Chapter 2"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Girl Next Door",
+    "region": "Chapter 2",
+    "category": [
+      "Chapter 2"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "My Castle Town",
+    "region": "Chapter 2",
+    "category": [
+      "Chapter 2"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Ohhhhohohoho!",
+    "region": "Chapter 2",
+    "category": [
+      "Chapter 2"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Queen",
+    "region": "Chapter 2",
+    "category": [
+      "Chapter 2"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "A CYBER'S WORLD?",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber Field",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key|"
+  },
+  {
+    "name": "A Simple Diversion",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber Field",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key|"
+  },
+  {
+    "name": "Almost To The Guys!",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber Field",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key|"
+  },
+  {
+    "name": "Cool Beat",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber Field",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key|"
+  },
+  {
+    "name": "When I Get Mad I Dance Like This",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber Field",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key|"
+  },
+  {
+    "name": "Cyber Battle (Solo)",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber Field",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key|"
+  },
+  {
+    "name": "When I Get Happy I Dance Like This",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber Field",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key|"
+  },
+  {
+    "name": "Sound Studio",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber Field",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key|"
+  },
+  {
+    "name": "Berdly",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber Field",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key|"
+  },
+  {
+    "name": "Berdly (Rejected Concept)",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber Field",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key|"
+  },
+  {
+    "name": "Smart Race",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber Field",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key|"
+  },
+  {
+    "name": "Faint Courage (Game Over)",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber Field",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key|"
+  },
+  {
+    "name": "WELCOME TO THE CITY",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber City",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key|"
+  },
+  {
+    "name": "Mini Studio",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber City",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key|"
+  },
+  {
+    "name": "Holiday Studio",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber City",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key|"
+  },
+  {
+    "name": "Cool Mixtape",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber City",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key|"
+  },
+  {
+    "name": "HEY EVERY !",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber City",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key|"
+  },
+  {
+    "name": "Spamton",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber City",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key|"
+  },
+  {
+    "name": "NOW'S YOUR CHANCE TO BE A",
+    "region": "Chapter 2",
+    "category": [
+      "Cyber City",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key|"
+  },
+  {
+    "name": "Elegant Entrance",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "Bluebird of Misfortune",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "Pandora Palace",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "KEYGEN",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "Acid Tunnel of Love",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "It's Pronounced 'Rules'",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "Lost Girl",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "Ferris Wheel",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "Attack of the Killer Queen",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "Giga Size",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "Powers Combined",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "Knock You Down !!",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "The Dark Truth",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "Digital Roots",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion Basement",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
+  },
+  {
+    "name": "Deal Gone Wrong",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion Basement",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
+  },
+  {
+    "name": "BIG SHOT",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion Basement",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
+  },
+  {
+    "name": "A Real Boy!",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion Basement",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
+  }, 
+  {
+    "name": "Dialtone",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion Basement",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
+  },  
+  {
+    "name": "sans.",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion Basement",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
+  },
+  {
+    "name": "Chill Jailbreak Alarm To Study And Relax To",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion Basement",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
+  },
+  {
+    "name": "You Can Always Come Home (Chapter 2)",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion Basement",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
+  },
+  {
+    "name": "Until Next Time",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion Basement",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
+  },
+  {
+    "name": "Before The Story",
+    "region": "Chapter 2",
+    "category": [
+      "Mansion Basement",
+      "Chapter 2"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
+  },
+  {
+    "name": "Flashback (Excerpt)",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Feature Presentation",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "And Now For Today's Sponsors...!",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "MIKE, the BOARD, please!",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Sandy Board",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Desert Board"
+    ],
+    "requires": "|Desert Board Key|"
+  },
+  {
+    "name": "Adventure Board",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Desert Board"
+    ],
+    "requires": "|Desert Board Key|"
+  },
+  {
+    "name": "Query?",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Desert Board"
+    ],
+    "requires": "|Desert Board Key|"
+  },
+  {
+    "name": "Quiz!",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Desert Board"
+    ],
+    "requires": "|Desert Board Key|"
+  },
+  {
+    "name": "Dig! Dig! To The Center of the Earth!",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Desert Board"
+    ],
+    "requires": "|Desert Board Key|"
+  },
+  {
+    "name": "Pushing Buddies",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Desert Board"
+    ],
+    "requires": "|Desert Board Key|"
+  },
+  {
+    "name": "Ruder Buster",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Desert Board"
+    ],
+    "requires": "|Desert Board Key|"
+  },
+  {
+    "name": "Physical Challenge",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Desert Board"
+    ],
+    "requires": "|Desert Board Key|"
+  },
+  {
+    "name": "Board Clear!",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Desert Board"
+    ],
+    "requires": "|Desert Board Key|"
+  },
+  {
+    "name": "Welcome to the Green Room",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Desert Board"
+    ],
+    "requires": "|Desert Board Key|"
+  },
+  {
+    "name": "Vapor Buster",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Desert Board"
+    ],
+    "requires": "|Desert Board Key|"
+  },
+  {
+    "name": "Paradise, Paradise",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Island Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key|"
+  },
+  {
+    "name": "Raft Ride",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Island Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key|"
+  },
+  {
+    "name": "SOUTH OF THE BORDER!!",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Island Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key|"
+  },
+  {
+    "name": "Sound Check",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Island Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key|"
+  },
+  {
+    "name": "Raise Up Your Bat",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Island Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key|"
+  },
+  {
+    "name": "KING OF ROLYPOLY",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Third Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "Glowing Snow",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Third Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "Big City Board",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Third Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "Doom Board",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Third Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "Metaphysical Challenge",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Third Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "TV WORLD",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Third Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "It's TV Time!",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Third Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "Hall of Fame",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Third Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "Breath",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Third Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "Black Knife",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Third Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "Crickets",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "Third Board"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "Dump",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "S-Rank Board"
+    ],
+    "requires": "|Desert Board Key| AND |S-Rank Room Key|"
+  },
+  {
+    "name": "SWORD",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "S-Rank Board"
+    ],
+    "requires": "|Desert Board Key| AND |S-Rank Room Key|"
+  },
+  {
+    "name": "NORTHERNLIGHT",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "S-Rank Board"
+    ],
+    "requires": "|Desert Board Key| AND |S-Rank Room Key| AND |Island Board Key|"
+  },
+  {
+    "name": "GLACEIR",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "S-Rank Board"
+    ],
+    "requires": "|Desert Board Key| AND |S-Rank Room Key| AND |Island Board Key|"
+  },
+  {
+    "name": "BIT ROOTS",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "S-Rank Board"
+    ],
+    "requires": "|Desert Board Key| AND |S-Rank Room Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "ERAM",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "S-Rank Board"
+    ],
+    "requires": "|Desert Board Key| AND |S-Rank Room Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "BURNING EYES",
+    "region": "Chapter 3",
+    "category": [
+      "Chapter 3",
+      "S-Rank Board"
+    ],
+    "requires": "|Desert Board Key| AND |S-Rank Room Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "Old wooden rafters",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Hymn",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Another day in hometown",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Friends",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Castle Funk",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Knock You Down!! (Rhythm Ver.)",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "Gingerbread House",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "The distance between two",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "C",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "ATRIUM",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Dark Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key|"
+  },
+  {
+    "name": "Dark Sanctuary (Feat. Itoki Hana)",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Dark Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key|"
+  },
+  {
+    "name": "From Now On (Battle 2)",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Dark Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key|"
+  },
+  {
+    "name": "Gyaa Ha ha!",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Dark Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key|"
+  },
+  {
+    "name": "Fireplace",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Dark Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key|"
+  },
+  {
+    "name": "A DARK ZONE",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Dark Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key|"
+  },
+  {
+    "name": "Mysterious Ringing",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Dark Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key|"
+  },
+  {
+    "name": "Ever Higher",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Dark Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key|"
+  },
+  {
+    "name": "Wise words",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Dark Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key|"
+  },
+  {
+    "name": "Piano that may not be played that well",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Dark Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key|"
+  },
+  {
+    "name": "Hammer of Justice",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Dark Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key|"
+  },
+  {
+    "name": "12am",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Second Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key|"
+  },
+  {
+    "name": "The Second Sanctuary",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Second Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key|"
+  },
+  {
+    "name": "Ripple",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Second Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key|"
+  },
+  {
+    "name": "13am",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Second Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key|"
+  },
+  {
+    "name": "The Third Sanctuary",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "Dark Place",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "Heavy Footsteps",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "Crumbling Tower",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "SPAWN",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "GUARDIAN",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "Need a hand!?",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "The place where it rained",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "The Ol' Jitterbug",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "Neverending Night (Feat. Itoki Hana)",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "The LEGEND...?",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "With Hope Crossed On Our Hearts",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "Volume Adjustment",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "Catswing",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "Airwaves",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+    {
+    "name": "Concert for you",
+    "region": "Chapter 4",
+    "category": [
+      "Chapter 4",
+      "Third Sanctuary"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "w.ogg",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "man.ogg",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "(|Chapter 1| AND |Fields Key| AND |Forest Key|) OR (|Chapter 2| AND |Cyber Field Key| AND |Cyber City Key|)"
+  },
+  {
+    "name": "d.ogg",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "man_2.ogg",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks",
+      "Chapter 4"
+    ],
+    "requires": "|Chapter 4| AND |Dark Sanctuary Key| AND (|Second Sanctuary Key| OR |Third Sanctuary Key|)"
+  },
+  {
+    "name": "man_nes.ogg",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks",
+      "Chapter 3"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "findher.ogg",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks",
+      "Chapter 3"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key|"
+  },
+  {
+    "name": "Power of NEO (Unfinished)",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
+  },
+  {
+    "name": "Power of Spamton",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
+  },
+  {
+    "name": "Spamton battle (forgotten)",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key|"
+  },
+  {
+    "name": "Giga Queen (Old)",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "Castle Town (Unfinished)",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Chapter 1|"
+  },
+  {
+    "name": "Rouxls Battle (Old)",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "Queen Battle (Original)",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+  },
+  {
+    "name": "dogcheck.ogg",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Chapter 1| OR (|Chapter 3| AND |Desert Board Key| AND |Island Board Key|)"
+  },
+  {
+    "name": "alarm_titlescreen.ogg",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Chapter 2|"
+  },
+  {
+    "name": "annoying_prophecy.ogg",
+    "region": "Bonus Tracks",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Chapter 4|"
+  },
+  {
+    "name": "BLOOD by Vision Crew",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track",
+      "Chapter 4"
+    ],
+    "requires": "|Chapter 4|"
+  },
+  {
+    "name": "CATCH EM' ALL (Pokerune) by REASAN",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track",
+      "Chapter 3"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "Fight Against The Knight, Who Likes Roaring - SMRPG by Rolobi",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track",
+      "Chapter 3"
+    ],
+    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "FORGET ME NOT V3 by JustStereo & xyz",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track",
+      "Chapter 4"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "FRIENDS 'TIL DEATH by Ann",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track",
+      "Chapter 4"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "FUN VALUE by FAZZY",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track",
+      "Chapter 4"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "FRIEND INSIDE ME Last Rodeo Mix!~ by shadowkristal",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track",
+      "Chapter 3"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "There's no Friend without End by Atticted",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track",
+      "Chapter 3"
+    ],
+    "requires": ""
+  },
+  {
+    "name": "TWISTED by Leafcodes",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track",
+      "Chapter 3"
+    ],
+    "requires": "|Desert Board Key| AND |S-Rank Room Key| AND |Island Board Key| AND |Third Board Key|"
+  },
+  {
+    "name": "MIND BLOWN by Lunaxis",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "Nightmare Knight by Toby Fox",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track"
+    ],
+    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+  },
+  {
+    "name": "THORN KING by cianeatsgrass",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track",
+      "Chapter 4"
+    ],
+    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+  },
+  {
+    "name": "YOUR DONKEY TOO KONG (A DARK ZONE but DK64) by Arkhand",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track",
+      "Chapter 4"
+    ],
+    "requires": "|Dark Sanctuary Key|"
+  },
+  {
+    "name": "PLUG AND PRAY by Lunaxis",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track",
+      "Chapter 3"
+    ],
+    "requires": "|Desert Board Key| AND |S-Rank Room Key|"
+  },
+  {
+    "name": "NOW'S YOUR CHANCE TO BE A [raz-mix] by raspmary",
+    "region": "Fan Tracks",
+    "category": [
+      "Fan Track"
+    ],
+    "requires": "|Cyber Field Key| AND |Cyber City Key|"
+  }
+]

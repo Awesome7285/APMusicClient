@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="icon" href="icons/favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Archipelago</title>
+</head>
+<script type="text/javascript" src="scripts/load_json.js"></script>
+
+<div class="fucking-everything">
+    <div class="left-side">
+        <div id="ap-tracker">
+            <script type="text/javascript" src="scripts/tracker.js"></script>
+        </div>
+    </div>
+
+    <div class="right-side">
+        <div class="a-row">
+            <label>Webhost: </label><input id="ap-host" value="ws://localhost:38281"></input>
+        </div>
+        <div class="a-row">
+            <label>Slot Name: </label><input id="ap-slot" value="Player1">
+        </div>
+        <div class="a-row">
+            <label>Game: </label><select id="ap-game" value="Manual_THMusic_Awesome7285">
+                <option>Manual_THMusic_Awesome7285</option>
+                <option>Manual_mwmm_theburger</option>
+                <option>Manual_DeltaruneMusic_Snolid</option>
+            </select>
+        </div>
+        <button onclick="ap_connect()">Connect</button>
+        <p></p>
+        <script type="text/javascript" src="scripts/ap_connect.js"></script>
+            
+
+        <div id="queue-text">Queue:</div>
+
+        <div id="info-text-game">game</div>
+        <div id="info-text">song</div>
+        <div id="info-text-bottom">song</div>
+        <!-- <div id="info-text-composer">composer</div> -->
+
+        <div class="audio-player">
+            <button id="play-pause">▶</button>
+            <div class="progress-bar-container" id="progress-container">
+                <div class="progress-bar" id="progress-bar"></div>
+            </div>
+        </div>
+        <audio autoplay id="audio" src=""></audio>
+        <div>
+            <!-- <button onclick="choose_track(-1)">Prev Song</button> -->
+            <button onclick="audio.currentTime = 0; audio.play;">Replay Song</button>
+            <!-- <button onclick="choose_track(1);">Next Song</button> -->
+        </div>
+        <!-- <button class="top-button-enabled" id="shuffle" onclick="modeSelectPress('shuffle'); shuffle_mode = !shuffle_mode;">Shuffle</button> -->
+        <script type="text/javascript" src="scripts/audio.js"></script>
+    </div>
+
+
+    <!-- Settings Cog Icon -->
+    <div class="settings-icon" onclick="openModal()">⚙️</div>
+
+    <!-- Popup Modal -->
+    <div class="modal-overlay" id="modalOverlay" onclick="closeModal(event)">
+        <div class="modal" onclick="event.stopPropagation()">
+            <div id="selection-container" class="selection-container">
+                <div class="album-container" id="album-container">
+                    <table>
+                        <tbody id="album-list">
+                            
+                        </tbody>
+                    </table>
+                </div>
+                <div class="album-container" id="song-container">
+                    <table>
+                        <tbody id="song-list">
+        
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <button class="close-btn" onclick="closeModal()">Save & Close</button>
+        </div>
+    </div>
+    <script type="text/javascript" src="scripts/modal.js"></script>
+
+    <script type="text/javascript" src="scripts/initialize_after_connect.js"></script>

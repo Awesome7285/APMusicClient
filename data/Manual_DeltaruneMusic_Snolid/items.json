@@ -1,0 +1,262 @@
+[
+  {
+    "count": 1,
+    "name": "Chapter 1",
+    "category": [
+      "Albums",
+      "Chapter 1"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 2",
+    "category": [
+      "Albums",
+      "Chapter 2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 3",
+    "category": [
+      "Albums",
+      "Chapter 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chapter 4",
+    "category": [
+      "Albums",
+      "Chapter 4"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bonus Tracks",
+    "category": [
+      "Albums",
+      "Bonus"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fan Tracks",
+    "category": [
+      "Albums",
+      "Fan Track"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fields Key",
+    "category": [
+      "Chapter 1"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Forest Key",
+    "category": [
+      "Chapter 1"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Castle Key",
+    "category": [
+      "Chapter 1"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cyber Field Key",
+    "category": [
+      "Chapter 2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cyber City Key",
+    "category": [
+      "Chapter 2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mansion Key",
+    "category": [
+      "Chapter 2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mansion Basement Key",
+    "category": [
+      "Chapter 2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Desert Board Key",
+    "category": [
+      "Chapter 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Island Board Key",
+    "category": [
+      "Chapter 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Third Board Key",
+    "category": [
+      "Chapter 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dark Sanctuary Key",
+    "category": [
+      "Chapter 4"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Second Sanctuary Key",
+    "category": [
+      "Chapter 4"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Third Sanctuary Key",
+    "category": [
+      "Chapter 4"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "S-Rank Room Key",
+    "category": [
+      "Chapter 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": "10",
+    "name": "Shadow Crystal",
+    "category": [],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Listen Wrong Number Song Trap",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Listen findher.ogg Trap",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Listen Ooo Trap",
+    "category": ["Trap"],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Watch a deltarune theory video Trap",
+    "category": ["Trap"],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Think about what Susie is doing right now Trap",
+    "category": [],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Pause for 30 sec trap",
+    "category": ["Trap"],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Gaster Trap (Reset your song)",
+    "category": ["Trap"],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Wrong Enemy Trap",
+    "category": ["Trap"],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Listen to man.ogg before your next song Trap",
+    "category": ["Trap"],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "SiIvagunner Trap",
+    "category": ["Trap"],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Listen to a Deltarune AU song Trap",
+    "category": ["Trap"],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Listen to a Deltarune song but its 1 beat only Trap",
+    "category": ["Trap"],
+    "trap": true
+  },
+  {
+    "count": 10,
+    "name": "Song Skip",
+    "category": ["Skip"],
+    "useful": true
+  },
+  {
+    "count": 5,
+    "name": "FillerSlop",
+    "category": ["Chapter 3"],
+    "filler": true
+  }
+]

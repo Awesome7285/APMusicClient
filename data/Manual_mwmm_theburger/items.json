@@ -1,0 +1,361 @@
+[
+  {
+    "count": 1,
+    "name": "The Essence",
+    "category": [
+      "Goal MacGuffin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Essence for fun",
+    "category": [
+      "Goal MacGuffin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Neil Cipher",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tyler & The Grinch",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kid Cobra",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Detective Hat Kid",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lil Darkie",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "PLAYING WITH POWER!",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Head Chef Heavy",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Guzma",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Heaven Ascension DIO",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Ruler of Everything",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Snailiens",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MONSTERMAU5",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Charles “All-Star” Barkley",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ace D. Copular",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "gSports",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MTT! Tour",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scatman & Hatman",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bad Girlz",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rick Hentai",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cadence",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "River City Girls",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Reanimatedd",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Forum Freakshow",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Black Mamba Farquaad",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hot Ones",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Painful Dreamers",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Netherrack Nightmares",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Elliana",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MAD/EON",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lofi Girl",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gustavo Rocque",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Club Bangers",
+    "category": [
+      "Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scott the Woz",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Susie Haltmann",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dexter’s Dad",
+    "category": [
+      "Bonus Character"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pre-Bracket",
+    "category": [
+      "Era"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Round 1",
+    "category": [
+      "Era"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Losers Round 1",
+    "category": [
+      "Era"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Remix Week",
+    "category": [
+      "Era"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Winners Round 2",
+    "category": [
+      "Era"
+    ],
+    "progression": true
+  },
+  {
+    "count": "43",
+    "name": "Song Skip",
+    "category": [
+      "Song Skips"
+    ],
+    "useful": true
+  },
+  {
+    "count": "87",
+    "name": "+1 Mashup Point™",
+    "filler": true
+  },
+  {
+    "count": "87",
+    "name": "Random Guest Character Stock Icon",
+    "filler": true
+  },
+  {
+    "count": "87",
+    "name": "check if they changed the name of the tyler and the grinch support channel",
+    "filler": true
+  }
+]

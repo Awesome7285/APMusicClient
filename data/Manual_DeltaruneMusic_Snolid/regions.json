@@ -1,0 +1,23 @@
+{
+  "Menu": {
+    "requires": ""
+  },
+  "Chapter 1": {
+    "requires": "|Chapter 1|"
+  },
+  "Chapter 2": {
+    "requires": "|Chapter 2|"
+  },
+  "Chapter 3": {
+    "requires": "|Chapter 3|"
+  },
+  "Chapter 4": {
+    "requires": "|Chapter 4|"
+  },
+  "Bonus Tracks": {
+    "requires": "|Bonus Tracks|"
+  },
+  "Fan Tracks": {
+    "requires": "|Fan Tracks|"
+  }
+}

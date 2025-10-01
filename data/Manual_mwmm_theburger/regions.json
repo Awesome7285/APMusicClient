@@ -1,0 +1,22 @@
+{
+  "Pre-Bracket": {
+    "connects_to": [],
+    "requires": "|Pre-Bracket|"
+  },
+  "Round 1": {
+    "connects_to": [],
+    "requires": "|Round 1|"
+  },
+  "Losers Round 1": {
+    "connects_to": [],
+    "requires": "|Losers Round 1|"
+  },
+  "Remix Week": {
+    "connects_to": [],
+    "requires": "|Remix Week|"
+  },
+  "Winners Round 2": {
+    "connects_to": [],
+    "requires": "|Winners Round 2|"
+  }
+}

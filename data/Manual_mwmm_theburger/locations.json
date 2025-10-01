@@ -1,0 +1,3774 @@
+[
+  {
+    "name": "Whatmageddon",
+    "region": "Pre-Bracket",
+    "category": [
+      "Neil Cipher"
+    ],
+    "requires": "|Neil Cipher|"
+  },
+  {
+    "name": "Neil Cicierega Neil Cicierega",
+    "region": "Pre-Bracket",
+    "category": [
+      "Neil Cipher",
+      "The Ruler of Everything"
+    ],
+    "requires": "|Neil Cipher| AND |The Ruler of Everything|"
+  },
+  {
+    "name": "The All-Seeing, All-Knowing Eye",
+    "region": "Pre-Bracket",
+    "category": [
+      "Neil Cipher"
+    ],
+    "requires": "|Neil Cipher|"
+  },
+  {
+    "name": "Super Flat Zone X",
+    "region": "Pre-Bracket",
+    "category": [
+      "Neil Cipher",
+      "Forum Freakshow",
+      "PLAYING WITH POWER!"
+    ],
+    "requires": "|Neil Cipher| AND |Forum Freakshow| AND |PLAYING WITH POWER!|"
+  },
+  {
+    "name": "Dead Nerves",
+    "region": "Pre-Bracket",
+    "category": [
+      "Neil Cipher",
+      "Ace D. Copular",
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Neil Cipher| AND |Ace D. Copular| AND |Netherrack Nightmares|"
+  },
+  {
+    "name": "M.L.B.",
+    "region": "Pre-Bracket",
+    "category": [
+      "Neil Cipher",
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Neil Cipher| AND |Charles “All-Star” Barkley|"
+  },
+  {
+    "name": "MEGALOVANIA",
+    "region": "Pre-Bracket",
+    "category": [
+      "Netherrack Nightmares",
+      "MTT! Tour",
+      "Club Bangers",
+      "Forum Freakshow",
+      "Cadence",
+      "Guzma",
+      "Neil Cipher",
+      "PLAYING WITH POWER!",
+      "Reanimatedd",
+      "Rick Hentai"
+    ],
+    "requires": "|Netherrack Nightmares| AND |MTT! Tour| AND |Club Bangers| AND |Forum Freakshow| AND |Cadence| AND |Guzma| AND |Neil Cipher| AND |PLAYING WITH POWER!| AND |Reanimatedd| AND |Rick Hentai|"
+  },
+  {
+    "name": "The Bust-Inator",
+    "region": "Round 1",
+    "category": [
+      "Neil Cipher"
+    ],
+    "requires": "|Neil Cipher|"
+  },
+  {
+    "name": "Semi-Charmed A Lula",
+    "region": "Round 1",
+    "category": [
+      "Neil Cipher",
+      "Scatman & Hatman"
+    ],
+    "requires": "|Neil Cipher| AND |Scatman & Hatman|"
+  },
+  {
+    "name": "A Scatman's Mind",
+    "region": "Round 1",
+    "category": [
+      "Neil Cipher",
+      "Scatman & Hatman"
+    ],
+    "requires": "|Neil Cipher| AND |Scatman & Hatman|"
+  },
+  {
+    "name": "Fly Away^4",
+    "region": "Round 1",
+    "category": [
+      "Kid Cobra",
+      "Elliana",
+      "Neil Cipher",
+      "Rick Hentai"
+    ],
+    "requires": "|Neil Cipher| AND |Elliana| AND |Kid Cobra| AND |Rick Hentai|"
+  },
+  {
+    "name": "Redesign The Cum Zone",
+    "region": "Round 1",
+    "category": [
+      "Rick Hentai",
+      "Neil Cipher"
+    ],
+    "requires": "|Neil Cipher| AND |Rick Hentai|"
+  },
+  {
+    "name": "When I Died",
+    "region": "Losers Round 1",
+    "category": [
+      "Neil Cipher"
+    ],
+    "requires": "|Neil Cipher|"
+  },
+  {
+    "name": "Different Forums",
+    "region": "Losers Round 1",
+    "category": [
+      "Neil Cipher",
+      "Forum Freakshow"
+    ],
+    "requires": "|Neil Cipher| AND |Forum Freakshow|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "Top Of The Unholy Totem",
+    "category": [
+      "Neil Cipher",
+      "Forum Freakshow"
+    ],
+    "requires": "|Neil Cipher| AND |Forum Freakshow|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "A Distorted Paradise",
+    "category": [
+      "Neil Cipher",
+      "Forum Freakshow"
+    ],
+    "requires": "|Neil Cipher| AND |Forum Freakshow|"
+  },
+  {
+    "name": "It's Never Gonna End",
+    "region": "Losers Round 1",
+    "category": [
+      "Rick Hentai",
+      "Neil Cipher"
+    ],
+    "requires": "|Neil Cipher| AND |Rick Hentai|"
+  },
+  {
+    "name": "Kill Abraham Lincoln",
+    "region": "Losers Round 1",
+    "category": [
+      "Kid Cobra",
+      "Neil Cipher"
+    ],
+    "requires": "|Neil Cipher| AND |Kid Cobra|"
+  },
+  {
+    "name": "Mouth Lemonade",
+    "region": "Losers Round 1",
+    "category": [
+      "Neil Cipher"
+    ],
+    "requires": "|Neil Cipher|"
+  },
+  {
+    "name": "Father’s Fifty-Fifty",
+    "region": "Remix Week",
+    "category": [
+      "Neil Cipher",
+      "gSports",
+      "Dexter's Dad"
+    ],
+    "requires": "|Neil Cipher| AND |gSports| AND |Dexter’s Dad|"
+  },
+  {
+    "name": "Mouth Mollusk 4K",
+    "region": "Remix Week",
+    "category": [
+      "Neil Cipher",
+      "Snailiens"
+    ],
+    "requires": "|Neil Cipher| AND |Snailiens|"
+  },
+  {
+    "name": "We'll Do It All Again",
+    "region": "Remix Week",
+    "category": [
+      "Neil Cipher",
+      "Bad Girlz"
+    ],
+    "requires": "|Neil Cipher| AND |Bad Girlz|"
+  },
+  {
+    "name": "Aaron Emotions (You Have It)",
+    "region": "Remix Week",
+    "category": [
+      "Neil Cipher"
+    ],
+    "requires": "|Neil Cipher|"
+  },
+  {
+    "name": "Phil Collins Is Back! (After Last Tournament)",
+    "region": "Remix Week",
+    "category": [
+      "Neil Cipher",
+      "Hot Ones"
+    ],
+    "requires": "|Neil Cipher| AND |Hot Ones|"
+  },
+  {
+    "name": "Can You Pls Put The Bin Out? Thx",
+    "region": "Winners Round 2",
+    "category": [
+      "Neil Cipher",
+      "Susie Haltmann"
+    ],
+    "requires": "|Neil Cipher| AND |Susie Haltmann|"
+  },
+  {
+    "name": "Stuck Inside a Loop",
+    "region": "Winners Round 2",
+    "category": [
+      "Neil Cipher"
+    ],
+    "requires": "|Neil Cipher|"
+  },
+  {
+    "name": "Who Are You?",
+    "region": "Pre-Bracket",
+    "category": [
+      "Tyler & The Grinch"
+    ],
+    "requires": "|Tyler & The Grinch|"
+  },
+  {
+    "name": "Freek'n Earfquake (Redux)",
+    "region": "Pre-Bracket",
+    "category": [
+      "Tyler & The Grinch",
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Heaven Ascension DIO|"
+  },
+  {
+    "name": "No Time To Hold Back",
+    "region": "Pre-Bracket",
+    "category": [
+      "Tyler & The Grinch"
+    ],
+    "requires": "|Tyler & The Grinch|"
+  },
+  {
+    "name": "THE STORY OF DARKEESE LATIFAH & SAINT SCROOGE: A CHRISTMAS SPECIAL PART J1-29",
+    "region": "Pre-Bracket",
+    "category": [
+      "Tyler & The Grinch",
+      "Forum Freakshow"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Forum Freakshow|"
+  },
+  {
+    "name": "How the Grinch Stole Madden 08!",
+    "region": "Pre-Bracket",
+    "category": [
+      "Tyler & The Grinch",
+      "Scott the Woz"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Scott the Woz|"
+  },
+  {
+    "name": "Dirt Colored Eyes",
+    "region": "Pre-Bracket",
+    "category": [
+      "Tyler & The Grinch",
+      "Bad Girlz"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Bad Girlz|"
+  },
+  {
+    "name": "Golf Halation",
+    "region": "Round 1",
+    "category": [
+      "Tyler & The Grinch"
+    ],
+    "requires": "|Tyler & The Grinch|"
+  },
+  {
+    "name": "Bad Taste N Side My Mouth",
+    "region": "Round 1",
+    "category": [
+      "Tyler & The Grinch",
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Black Mamba Farquaad|"
+  },
+  {
+    "name": "Music Inspired by Dreamworks & ABC's 'Shrek The Halls'",
+    "region": "Round 1",
+    "category": [
+      "Tyler & The Grinch",
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Black Mamba Farquaad|"
+  },
+  {
+    "name": "Never Feel Happy",
+    "region": "Round 1",
+    "category": [
+      "Tyler & The Grinch",
+      "Club Bangers"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Club Bangers|"
+  },
+  {
+    "name": "BITCH GONE",
+    "region": "Round 1",
+    "category": [
+      "Tyler & The Grinch",
+      "Lil Darkie"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Lil Darkie|"
+  },
+  {
+    "name": "IGOR'S ULTIMATUM",
+    "region": "Losers Round 1",
+    "category": [
+      "Tyler & The Grinch"
+    ],
+    "requires": "|Tyler & The Grinch|"
+  },
+  {
+    "name": "MY SWEET BAUDELAIRE",
+    "region": "Losers Round 1",
+    "category": [
+      "Tyler & The Grinch",
+      "Lofi Girl"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Lofi Girl|"
+  },
+  {
+    "name": "dance in the winter",
+    "region": "Losers Round 1",
+    "category": [
+      "Tyler & The Grinch",
+      "Lofi Girl"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Lofi Girl|"
+  },
+  {
+    "name": "Winter Break",
+    "region": "Losers Round 1",
+    "category": [
+      "Tyler & The Grinch",
+      "Lofi Girl"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Lofi Girl|"
+  },
+  {
+    "name": "Close To Your Wet Hands",
+    "region": "Losers Round 1",
+    "category": [
+      "Tyler & The Grinch",
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Netherrack Nightmares|"
+  },
+  {
+    "name": "BITCH GONE (CactusTeam Remix)",
+    "region": "Losers Round 1",
+    "category": [
+      "Tyler & The Grinch",
+      "Lil Darkie"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Lil Darkie|"
+  },
+  {
+    "name": "IGOR'S ULTIMATUM (Truly A Monster Mix)",
+    "region": "Remix Week",
+    "category": [
+      "Tyler & The Grinch"
+    ],
+    "requires": "|Tyler & The Grinch|"
+  },
+  {
+    "name": "snofall megamix",
+    "region": "Remix Week",
+    "category": [
+      "Tyler & The Grinch",
+      "Lofi Girl"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Lofi Girl|"
+  },
+  {
+    "name": "Scootin' Through Life",
+    "region": "Winners Round 2",
+    "category": [
+      "Tyler & The Grinch",
+      "Detective Hat Kid",
+      "River City Girls"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Detective Hat Kid| AND |River City Girls|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Termites In Your Smile",
+    "category": [
+      "Tyler & The Grinch",
+      "Ace D. Copular"
+    ],
+    "requires": "|Tyler & The Grinch| AND |Ace D. Copular|"
+  },
+  {
+    "name": "COBRA FOR YA MIND",
+    "region": "Pre-Bracket",
+    "category": [
+      "Kid Cobra"
+    ],
+    "requires": "|Kid Cobra|"
+  },
+  {
+    "name": "Turn Down For Wubadubadub",
+    "region": "Pre-Bracket",
+    "category": [
+      "Cadence",
+      "Kid Cobra"
+    ],
+    "requires": "|Cadence| AND |Kid Cobra|"
+  },
+  {
+    "name": "Ameri-Kid Cobra",
+    "region": "Pre-Bracket",
+    "category": [
+      "Kid Cobra"
+    ],
+    "requires": "|Kid Cobra|"
+  },
+  {
+    "region": "Pre-Bracket",
+    "name": "[REDACTED] MYSELF WITH A COILED SPRING",
+    "category": [
+      "Kid Cobra",
+      "Lil Darkie"
+    ],
+    "requires": "|Kid Cobra| AND |Lil Darkie|"
+  },
+  {
+    "name": "Subway Surfer Havoc",
+    "region": "Pre-Bracket",
+    "category": [
+      "Detective Hat Kid",
+      "Kid Cobra"
+    ],
+    "requires": "|Kid Cobra| AND |Detective Hat Kid|"
+  },
+  {
+    "name": "Rocking That Booyah Bassline",
+    "region": "Round 1",
+    "category": [
+      "Kid Cobra"
+    ],
+    "requires": "|Kid Cobra|"
+  },
+  {
+    "region": "Round 1",
+    "name": "Hoopz (Hittin' It With A Natural)",
+    "category": [
+      "Kid Cobra",
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley|"
+  },
+  {
+    "name": "Leavin' Shaq Speechless",
+    "region": "Round 1",
+    "category": [
+      "Kid Cobra",
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "The Edge of Gravity",
+    "category": [
+      "Kid Cobra"
+    ],
+    "requires": "|Kid Cobra|"
+  },
+  {
+    "name": "Tekno Beatdown",
+    "region": "Losers Round 1",
+    "category": [
+      "Kid Cobra",
+      "River City Girls"
+    ],
+    "requires": "|Kid Cobra| AND |River City Girls|"
+  },
+  {
+    "name": "BE CALM ~ RIVER CITY RIPTIDE!!",
+    "region": "Losers Round 1",
+    "category": [
+      "Kid Cobra",
+      "River City Girls"
+    ],
+    "requires": "|Kid Cobra| AND |River City Girls|"
+  },
+  {
+    "name": "The Art of Turf War",
+    "region": "Losers Round 1",
+    "category": [
+      "Kid Cobra",
+      "River City Girls"
+    ],
+    "requires": "|Kid Cobra| AND |River City Girls|"
+  },
+  {
+    "name": "Loser's Lament: A 0-2 Medley",
+    "region": "Losers Round 1",
+    "category": [
+      "Lofi Girl",
+      "Lil Darkie",
+      "PLAYING WITH POWER!",
+      "MTT! Tour",
+      "Guzma",
+      "Forum Freakshow",
+      "Gustavo Rocque",
+      "Kid Cobra"
+    ],
+    "requires": "|Lofi Girl| AND |Lil Darkie| AND |PLAYING WITH POWER!| AND |MTT! Tour| AND |Guzma| AND |Forum Freakshow| AND |Gustavo Rocque| AND |Kid Cobra|"
+  },
+  {
+    "name": "My Name Is Cobra",
+    "region": "Losers Round 1",
+    "category": [
+      "Kid Cobra"
+    ],
+    "requires": "|Kid Cobra|"
+  },
+  {
+    "name": "CAN'T GET ENUF",
+    "region": "Losers Round 1",
+    "category": [
+      "Kid Cobra",
+      "Gustavo Rocque"
+    ],
+    "requires": "|Gustavo Rocque| AND |Kid Cobra|"
+  },
+  {
+    "name": "Condensed Troubles",
+    "region": "Losers Round 1",
+    "category": [
+      "Kid Cobra",
+      "Gustavo Rocque"
+    ],
+    "requires": "|Gustavo Rocque| AND |Kid Cobra|"
+  },
+  {
+    "name": "Paintin' Me Speechless",
+    "region": "Remix Week",
+    "category": [
+      "Kid Cobra",
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Kid Cobra| AND |Charles “All-Star” Barkley|"
+  },
+  {
+    "name": "JACK DA FAITHFUL",
+    "region": "Winners Round 2",
+    "category": [
+      "Kid Cobra",
+      "Club Bangers"
+    ],
+    "requires": "|Kid Cobra| AND |Club Bangers|"
+  },
+  {
+    "name": "Edamame Jump Around",
+    "region": "Winners Round 2",
+    "category": [
+      "Kid Cobra",
+      "Hot Ones"
+    ],
+    "requires": "|Kid Cobra| AND |Hot Ones|"
+  },
+  {
+    "name": "All The [HATERS] Say I'm Pretty Swell!",
+    "region": "Winners Round 2",
+    "category": [
+      "Forum Freakshow",
+      "Kid Cobra",
+      "Reanimatedd"
+    ],
+    "requires": "|Forum Freakshow| AND |Kid Cobra| AND |Reanimatedd|"
+  },
+  {
+    "name": "Murder On The Owl Express!",
+    "region": "Pre-Bracket",
+    "category": [
+      "Detective Hat Kid"
+    ],
+    "requires": "|Detective Hat Kid|"
+  },
+  {
+    "name": "Megamus",
+    "region": "Pre-Bracket",
+    "category": [
+      "Snailiens",
+      "gSports",
+      "Lil Darkie",
+      "Reanimatedd",
+      "Detective Hat Kid"
+    ],
+    "requires": "|Snailiens| AND |gSports| AND |Lil Darkie| AND |Reanimatedd| AND |Detective Hat Kid|"
+  },
+  {
+    "name": "Clocktowers You Loved",
+    "region": "Pre-Bracket",
+    "category": [
+      "Detective Hat Kid",
+      "Bad Girlz"
+    ],
+    "requires": "|Detective Hat Kid| AND |Bad Girlz|"
+  },
+  {
+    "region": "Round 1",
+    "name": "TOPHAMHAT-KID",
+    "category": [
+      "Detective Hat Kid"
+    ],
+    "requires": "|Detective Hat Kid|"
+  },
+  {
+    "name": "Down With The Mafia!!",
+    "region": "Round 1",
+    "category": [
+      "Detective Hat Kid",
+      "Guzma"
+    ],
+    "requires": "|Detective Hat Kid| AND |Guzma|"
+  },
+  {
+    "name": "Discussion -BATTLE-",
+    "region": "Round 1",
+    "category": [
+      "Detective Hat Kid",
+      "Guzma"
+    ],
+    "requires": "|Detective Hat Kid| AND |Guzma|"
+  },
+  {
+    "name": "Your Turn to Fly",
+    "region": "Round 1",
+    "category": [
+      "Detective Hat Kid",
+      "Guzma"
+    ],
+    "requires": "|Detective Hat Kid| AND |Guzma|"
+  },
+  {
+    "name": "Meaning of LOVE",
+    "region": "Round 1",
+    "category": [
+      "Detective Hat Kid",
+      "MTT! Tour"
+    ],
+    "requires": "|Detective Hat Kid| AND |MTT! Tour|"
+  },
+  {
+    "name": "Hats Off To You, Zenigata!",
+    "region": "Round 1",
+    "category": [
+      "Detective Hat Kid",
+      "Scatman & Hatman"
+    ],
+    "requires": "|Detective Hat Kid| AND |Scatman & Hatman|"
+  },
+  {
+    "name": "Talking In The Rain",
+    "region": "Losers Round 1",
+    "category": [
+      "Detective Hat Kid",
+      "MAD/EON"
+    ],
+    "requires": "|Detective Hat Kid| AND |MAD/EON|"
+  },
+  {
+    "name": "Something Ain't Right...",
+    "region": "Winners Round 2",
+    "category": [
+      "Detective Hat Kid"
+    ],
+    "requires": "|Detective Hat Kid|"
+  },
+  {
+    "name": "Mad Vanessa's Mansion",
+    "region": "Winners Round 2",
+    "category": [
+      "Detective Hat Kid",
+      "Reanimatedd"
+    ],
+    "requires": "|Detective Hat Kid| AND |Reanimatedd|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Flying Across the Skyline",
+    "category": [
+      "Detective Hat Kid",
+      "Reanimatedd"
+    ],
+    "requires": "|Detective Hat Kid| AND |Reanimatedd|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "The On Meat Bone",
+    "category": [
+      "Detective Hat Kid",
+      "Reanimatedd"
+    ],
+    "requires": "|Detective Hat Kid| AND |Reanimatedd|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Afraid of Losing Myself",
+    "category": [
+      "Detective Hat Kid",
+      "Reanimatedd"
+    ],
+    "requires": "|Detective Hat Kid| AND |Reanimatedd|"
+  },
+  {
+    "name": "Vapored Clocktowers You Still Love",
+    "region": "Remix Week",
+    "category": [
+      "Detective Hat Kid",
+      "Bad Girlz"
+    ],
+    "requires": "|Detective Hat Kid| AND |Bad Girlz|"
+  },
+  {
+    "name": "Pink Platforming (B-Side)",
+    "region": "Remix Week",
+    "category": [
+      "Detective Hat Kid",
+      "Hot Ones"
+    ],
+    "requires": "|Detective Hat Kid| AND |Hot Ones|"
+  },
+  {
+    "name": "BLOODY BURNING TRAINWRECK:『にゃくざ潮流』",
+    "region": "Remix Week",
+    "category": [
+      "Detective Hat Kid",
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Detective Hat Kid| AND |Heaven Ascension DIO|"
+  },
+  {
+    "name": "Forum Rocker (Chapter 2)",
+    "region": "Remix Week",
+    "category": [
+      "Detective Hat Kid",
+      "MTT! Tour",
+      "Bad Girlz",
+      "Forum Freakshow"
+    ],
+    "requires": "|Detective Hat Kid| AND |MTT! Tour| AND |Bad Girlz| AND |Forum Freakshow|"
+  },
+  {
+    "name": "Your Turn To Cry",
+    "region": "Remix Week",
+    "category": [
+      "Detective Hat Kid",
+      "Guzma"
+    ],
+    "requires": "|Detective Hat Kid| AND |Guzma|"
+  },
+  {
+    "name": "skin like striped spirits",
+    "region": "Remix Week",
+    "category": [
+      "Detective Hat Kid",
+      "Lofi Girl"
+    ],
+    "requires": "|Detective Hat Kid| AND |Lofi Girl|"
+  },
+  {
+    "name": "paint my world",
+    "region": "Winners Round 2",
+    "category": [
+      "Detective Hat Kid",
+      "Netherrack Nightmares",
+      "Lofi Girl"
+    ],
+    "requires": "|Detective Hat Kid| AND |Netherrack Nightmares| AND |Lofi Girl|"
+  },
+  {
+    "name": "SWAMP DRAINED",
+    "region": "Pre-Bracket",
+    "category": [
+      "Lil Darkie"
+    ],
+    "requires": "|Lil Darkie|"
+  },
+  {
+    "name": "Kaard’s Composition",
+    "region": "Pre-Bracket",
+    "category": [
+      "Lil Darkie",
+      "MTT! Tour"
+    ],
+    "requires": "|Lil Darkie| AND |MTT! Tour|"
+  },
+  {
+    "name": "DISINTEGRATING ROAD TO EL DORADO",
+    "region": "Pre-Bracket",
+    "category": [
+      "Lil Darkie",
+      "Reanimatedd"
+    ],
+    "requires": "|Lil Darkie| AND |Reanimatedd|"
+  },
+  {
+    "name": "A BUNCH OF CHEAP WALK CYCLES!",
+    "region": "Pre-Bracket",
+    "category": [
+      "Lil Darkie",
+      "Gustavo Rocque"
+    ],
+    "requires": "|Lil Darkie| AND |Gustavo Rocque|"
+  },
+  {
+    "name": "REACH FXR THE SKY!",
+    "region": "Round 1",
+    "category": [
+      "Lil Darkie"
+    ],
+    "requires": "|Lil Darkie|"
+  },
+  {
+    "name": "THIS DESERT IS NOT FOR DREAMERS ANYMORE",
+    "region": "Round 1",
+    "category": [
+      "Painful Dreamers",
+      "Lil Darkie"
+    ],
+    "requires": "|Lil Darkie| AND |Painful Dreamers|"
+  },
+  {
+    "name": "we don't have to hold on…",
+    "region": "Round 1",
+    "category": [
+      "Painful Dreamers",
+      "Lil Darkie"
+    ],
+    "requires": "|Lil Darkie| AND |Painful Dreamers|"
+  },
+  {
+    "name": "A CHRISTMAS MIRACLE",
+    "region": "Round 1",
+    "category": [
+      "Lil Darkie",
+      "Guzma"
+    ],
+    "requires": "|Lil Darkie| AND |Guzma|"
+  },
+  {
+    "name": "Red and Pink",
+    "region": "Round 1",
+    "category": [
+      "Head Chef Heavy",
+      "Reanimatedd",
+      "Lil Darkie"
+    ],
+    "requires": "|Lil Darkie| AND |Reanimatedd| AND |Head Chef Heavy|"
+  },
+  {
+    "name": "GLASS CRYPT - AR-16 (3-3 Cold)",
+    "region": "Round 1",
+    "category": [
+      "Lil Darkie",
+      "Cadence"
+    ],
+    "requires": "|Lil Darkie| AND |Cadence|"
+  },
+  {
+    "name": "GO SHOOT 'EM ALL!",
+    "region": "Losers Round 1",
+    "category": [
+      "Lil Darkie"
+    ],
+    "requires": "|Lil Darkie|"
+  },
+  {
+    "name": "the high life",
+    "region": "Losers Round 1",
+    "category": [
+      "Lil Darkie",
+      "MAD/EON"
+    ],
+    "requires": "|Lil Darkie| AND |MAD/EON|"
+  },
+  {
+    "name": "MADNESS!",
+    "region": "Losers Round 1",
+    "category": [
+      "Lil Darkie",
+      "MAD/EON"
+    ],
+    "requires": "|Lil Darkie| AND |MAD/EON|"
+  },
+  {
+    "name": "DARKIE58",
+    "region": "Losers Round 1",
+    "category": [
+      "Lil Darkie",
+      "MAD/EON"
+    ],
+    "requires": "|Lil Darkie| AND |MAD/EON|"
+  },
+  {
+    "name": "TUMBLEWEEDS",
+    "region": "Losers Round 1",
+    "category": [
+      "Lil Darkie"
+    ],
+    "requires": "|Lil Darkie|"
+  },
+  {
+    "name": "taken away from me",
+    "region": "Losers Round 1",
+    "category": [
+      "Lil Darkie",
+      "Hot Ones"
+    ],
+    "requires": "|Lil Darkie| AND |Hot Ones|"
+  },
+  {
+    "name": "deadbeat",
+    "region": "Losers Round 1",
+    "category": [
+      "Lil Darkie",
+      "Bad Girlz"
+    ],
+    "requires": "|Lil Darkie| AND |Bad Girlz|"
+  },
+  {
+    "name": "Composition's Kaard",
+    "region": "Remix Week",
+    "category": [
+      "Lil Darkie",
+      "MTT! Tour"
+    ],
+    "requires": "|Lil Darkie| AND |MTT! Tour|"
+  },
+  {
+    "region": "Remix Week",
+    "name": "THIS PLANET IS DYING!!!",
+    "category": [
+      "Painful Dreamers",
+      "Lil Darkie"
+    ],
+    "requires": "|Lil Darkie| AND |Painful Dreamers|"
+  },
+  {
+    "name": "low life scum like you",
+    "region": "Remix Week",
+    "category": [
+      "Lil Darkie",
+      "MAD/EON"
+    ],
+    "requires": "|Lil Darkie| AND |MAD/EON|"
+  },
+  {
+    "name": "IRON CURTAIN",
+    "region": "Winners Round 2",
+    "category": [
+      "Head Chef Heavy",
+      "Lil Darkie"
+    ],
+    "requires": "|Lil Darkie| AND |Head Chef Heavy|"
+  },
+  {
+    "name": "Saturnz Slidez",
+    "region": "Winners Round 2",
+    "category": [
+      "Lil Darkie",
+      "Ace D. Copular"
+    ],
+    "requires": "|Lil Darkie| AND |Ace D. Copular|"
+  },
+  {
+    "name": "Lil Daisuke",
+    "region": "Winners Round 2",
+    "category": [
+      "Lil Darkie"
+    ],
+    "requires": "|Lil Darkie|"
+  },
+  {
+    "name": "Rusty Raps",
+    "region": "Winners Round 2",
+    "category": [
+      "Lil Darkie",
+      "Guzma",
+      "Club Bangers",
+      "Ace D. Copular"
+    ],
+    "requires": "|Lil Darkie| AND |Guzma| AND |Club Bangers| AND |Ace D. Copular|"
+  },
+  {
+    "name": "Now Entering [A] : ...",
+    "region": "Pre-Bracket",
+    "category": [
+      "PLAYING WITH POWER!"
+    ],
+    "requires": "|PLAYING WITH POWER!|"
+  },
+  {
+    "name": "rode here on the vines",
+    "region": "Pre-Bracket",
+    "category": [
+      "PLAYING WITH POWER!",
+      "Painful Dreamers"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |Painful Dreamers|"
+  },
+  {
+    "name": "Let's Make a Chocolate Island !!",
+    "region": "Pre-Bracket",
+    "category": [
+      "PLAYING WITH POWER!",
+      "Snailiens"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |Snailiens|"
+  },
+  {
+    "name": "Pharmacist Mario",
+    "region": "Pre-Bracket",
+    "category": [
+      "PLAYING WITH POWER!",
+      "Club Bangers"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |Club Bangers|"
+  },
+  {
+    "name": "Shake It",
+    "region": "Pre-Bracket",
+    "category": [
+      "PLAYING WITH POWER!",
+      "MONSTERMAU5"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |MONSTERMAU5|"
+  },
+  {
+    "name": "Flat Zone 3",
+    "region": "Round 1",
+    "category": [
+      "PLAYING WITH POWER!"
+    ],
+    "requires": "|PLAYING WITH POWER!|"
+  },
+  {
+    "region": "Round 1",
+    "name": "Into the Blast Zone",
+    "category": [
+      "PLAYING WITH POWER!",
+      "Elliana"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |Elliana|"
+  },
+  {
+    "region": "Round 1",
+    "name": "Out Of The Canopies",
+    "category": [
+      "PLAYING WITH POWER!",
+      "Elliana"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |Elliana|"
+  },
+  {
+    "name": "Nether Starboy",
+    "region": "Round 1",
+    "category": [
+      "PLAYING WITH POWER!",
+      "Hot Ones",
+      "Netherrack Nightmares"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |Hot Ones| AND |Netherrack Nightmares|"
+  },
+  {
+    "name": "Swimming Through the Stickerbrush",
+    "region": "Losers Round 1",
+    "category": [
+      "PLAYING WITH POWER!"
+    ],
+    "requires": "|PLAYING WITH POWER!|"
+  },
+  {
+    "name": "Tetris Type Blu2: The Power Update",
+    "region": "Losers Round 1",
+    "category": [
+      "PLAYING WITH POWER!",
+      "Head Chef Heavy"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |Head Chef Heavy|"
+  },
+  {
+    "name": "Zagrajmy na Pegasusie",
+    "region": "Losers Round 1",
+    "category": [
+      "PLAYING WITH POWER!",
+      "Head Chef Heavy"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |Head Chef Heavy|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "Factory Work Lunch Break",
+    "category": [
+      "PLAYING WITH POWER!",
+      "Head Chef Heavy"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |Head Chef Heavy|"
+  },
+  {
+    "name": "Gorilla Watchez",
+    "region": "Losers Round 1",
+    "category": [
+      "PLAYING WITH POWER!",
+      "Ace D. Copular"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |Ace D. Copular|"
+  },
+  {
+    "name": "Superfast Octopus",
+    "region": "Losers Round 1",
+    "category": [
+      "PLAYING WITH POWER!",
+      "Ace D. Copular"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |Ace D. Copular|"
+  },
+  {
+    "name": "theme of an unbeatable surfer",
+    "region": "Losers Round 1",
+    "category": [
+      "PLAYING WITH POWER!"
+    ],
+    "requires": "|PLAYING WITH POWER!|"
+  },
+  {
+    "name": "Pomegranate Pomeranian",
+    "region": "Losers Round 1",
+    "category": [
+      "The Ruler of Everything",
+      "Guzma",
+      "PLAYING WITH POWER!"
+    ],
+    "requires": "|The Ruler of Everything| AND |Guzma| AND |PLAYING WITH POWER!|"
+  },
+  {
+    "name": "Monstercat vs. The Big Dogs",
+    "region": "Remix Week",
+    "category": [
+      "PLAYING WITH POWER!",
+      "MONSTERMAU5",
+      "Gustavo Rocque"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |MONSTERMAU5| AND |Gustavo Rocque|"
+  },
+  {
+    "name": "now you're one of us",
+    "region": "Remix Week",
+    "category": [
+      "PLAYING WITH POWER!",
+      "Painful Dreamers"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |Painful Dreamers|"
+  },
+  {
+    "name": "Vacation to Dinosaur Island",
+    "region": "Winners Round 2",
+    "category": [
+      "PLAYING WITH POWER!",
+      "Hot Ones"
+    ],
+    "requires": "|PLAYING WITH POWER!| AND |Hot Ones|"
+  },
+  {
+    "name": "Danger Down Under!",
+    "region": "Pre-Bracket",
+    "category": [
+      "Head Chef Heavy"
+    ],
+    "requires": "|Head Chef Heavy|"
+  },
+  {
+    "name": "yoooo wtf they got an olive garden in aperture science",
+    "region": "Pre-Bracket",
+    "category": [
+      "Head Chef Heavy",
+      "Club Bangers"
+    ],
+    "requires": "|Head Chef Heavy| AND |Club Bangers|"
+  },
+  {
+    "region": "Pre-Bracket",
+    "name": "DANCE! DANCE! RASPUTIN!",
+    "category": [
+      "Head Chef Heavy",
+      "Forum Freakshow"
+    ],
+    "requires": "|Head Chef Heavy| AND |Forum Freakshow|"
+  },
+  {
+    "name": "Follow That Car!",
+    "region": "Round 1",
+    "category": [
+      "Head Chef Heavy"
+    ],
+    "requires": "|Head Chef Heavy|"
+  },
+  {
+    "name": "Kart and Payload Insurance: Double Dash!!",
+    "region": "Round 1",
+    "category": [
+      "gSports",
+      "Head Chef Heavy"
+    ],
+    "requires": "|Head Chef Heavy| AND |gSports|"
+  },
+  {
+    "name": "VIBR8R8R8",
+    "region": "Round 1",
+    "category": [
+      "gSports",
+      "Head Chef Heavy"
+    ],
+    "requires": "|Head Chef Heavy| AND |gSports|"
+  },
+  {
+    "name": "Plagues and Piglins",
+    "region": "Round 1",
+    "category": [
+      "Head Chef Heavy",
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Head Chef Heavy| AND |Netherrack Nightmares|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "Heavy Weapon of Choice",
+    "category": [
+      "Head Chef Heavy"
+    ],
+    "requires": "|Head Chef Heavy|"
+  },
+  {
+    "name": "Crypt of Cooking and Karaoke",
+    "region": "Losers Round 1",
+    "category": [
+      "Cadence",
+      "Head Chef Heavy"
+    ],
+    "requires": "|Cadence| AND |Head Chef Heavy|"
+  },
+  {
+    "region": "Remix Week",
+    "name": "Neurotoxin Alfredo",
+    "category": [
+      "Club Bangers",
+      "Head Chef Heavy"
+    ],
+    "requires": "|Head Chef Heavy| AND |Club Bangers|"
+  },
+  {
+    "name": "MANN VS MACHINE NEO ~ 7th Wave",
+    "region": "Remix Week",
+    "category": [
+      "MTT! Tour",
+      "Head Chef Heavy"
+    ],
+    "requires": "|MTT! Tour| AND |Head Chef Heavy|"
+  },
+  {
+    "name": "Follow That Car! (Trap Remix)",
+    "region": "Remix Week",
+    "category": [
+      "Head Chef Heavy",
+      "Forum Freakshow"
+    ],
+    "requires": "|Head Chef Heavy| AND |Forum Freakshow|"
+  },
+  {
+    "name": "THE FURNISHING BLOW",
+    "region": "Remix Week",
+    "category": [
+      "Forum Freakshow",
+      "Scott the Woz",
+      "Head Chef Heavy",
+      "gSports"
+    ],
+    "requires": "|Head Chef Heavy| AND |Forum Freakshow| AND |Scott the Woz| AND |gSports|"
+  },
+  {
+    "name": "Schadenfreude",
+    "region": "Winners Round 2",
+    "category": [
+      "Bad Girlz",
+      "Head Chef Heavy"
+    ],
+    "requires": "|Bad Girlz| AND |Head Chef Heavy|"
+  },
+  {
+    "name": "The Big Bad Boss",
+    "region": "Pre-Bracket",
+    "category": [
+      "Guzma"
+    ],
+    "requires": "|Guzma|"
+  },
+  {
+    "name": "U, Me, Us",
+    "region": "Pre-Bracket",
+    "category": [
+      "Guzma",
+      "Hot Ones"
+    ],
+    "requires": "|Hot Ones| AND |Guzma|"
+  },
+  {
+    "name": "Living On A Program Too",
+    "region": "Pre-Bracket",
+    "category": [
+      "Guzma",
+      "MTT! Tour",
+      "Susie Haltmann"
+    ],
+    "requires": "|Guzma| AND |MTT! Tour| AND |Susie Haltmann|"
+  },
+  {
+    "name": "Card Edge (aka Quagsire)",
+    "region": "Round 1",
+    "category": [
+      "Guzma"
+    ],
+    "requires": "|Guzma|"
+  },
+  {
+    "name": "Late Night Ball Out",
+    "region": "Round 1",
+    "category": [
+      "Guzma",
+      "Bad Girlz"
+    ],
+    "requires": "|Guzma| AND |Bad Girlz|"
+  },
+  {
+    "name": "Bad Bone Rocket",
+    "region": "Losers Round 1",
+    "category": [
+      "Guzma"
+    ],
+    "requires": "|Guzma|"
+  },
+  {
+    "name": "One Last Fight to the Finish!",
+    "region": "Losers Round 1",
+    "category": [
+      "Guzma",
+      "Cadence"
+    ],
+    "requires": "|Guzma| AND |Cadence|"
+  },
+  {
+    "name": "Gun The Jewels",
+    "region": "Losers Round 1",
+    "category": [
+      "Guzma",
+      "Cadence"
+    ],
+    "requires": "|Guzma| AND |Cadence|"
+  },
+  {
+    "name": "Hasta La Viiistar!",
+    "region": "Losers Round 1",
+    "category": [
+      "Guzma",
+      "Cadence"
+    ],
+    "requires": "|Guzma| AND |Cadence|"
+  },
+  {
+    "name": "HM02",
+    "region": "Losers Round 1",
+    "category": [
+      "Guzma"
+    ],
+    "requires": "|Guzma|"
+  },
+  {
+    "name": "A Life re:P-R-O-G-R-A-M-M-E-D",
+    "region": "Remix Week",
+    "category": [
+      "Guzma",
+      "Susie Haltmann"
+    ],
+    "requires": "|Guzma| AND |Susie Haltmann|"
+  },
+  {
+    "name": "Time Moves Again",
+    "region": "Pre-Bracket",
+    "category": [
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Heaven Ascension DIO|"
+  },
+  {
+    "name": "Dio's Dastardly Destructive Depository",
+    "region": "Pre-Bracket",
+    "category": [
+      "The Ruler of Everything",
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|The Ruler of Everything| AND |Heaven Ascension DIO|"
+  },
+  {
+    "name": "Yell \"Cannonball\"",
+    "region": "Pre-Bracket",
+    "category": [
+      "Elliana",
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Elliana| AND |Heaven Ascension DIO|"
+  },
+  {
+    "name": "Stone-Bottomed Oceans",
+    "region": "Round 1",
+    "category": [
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Heaven Ascension DIO|"
+  },
+  {
+    "name": "Today I'll Steal A Kiss",
+    "region": "Round 1",
+    "category": [
+      "Heaven Ascension DIO",
+      "River City Girls"
+    ],
+    "requires": "|Heaven Ascension DIO| AND |River City Girls|"
+  },
+  {
+    "name": "Gotta Gimme A Chance!",
+    "region": "Round 1",
+    "category": [
+      "Heaven Ascension DIO",
+      "River City Girls"
+    ],
+    "requires": "|Heaven Ascension DIO| AND |River City Girls|"
+  },
+  {
+    "name": "Spectres Of Misfortune",
+    "region": "Round 1",
+    "category": [
+      "Heaven Ascension DIO",
+      "River City Girls"
+    ],
+    "requires": "|Heaven Ascension DIO| AND |River City Girls|"
+  },
+  {
+    "name": "BadBoyz4Breakfast",
+    "region": "Round 1",
+    "category": [
+      "Heaven Ascension DIO",
+      "Bad Girlz"
+    ],
+    "requires": "|Heaven Ascension DIO| AND |Bad Girlz|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "Weird Vaseline",
+    "category": [
+      "Rick Hentai",
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Rick Hentai| AND |Heaven Ascension DIO|"
+  },
+  {
+    "name": "This Wickedness Consumes Me",
+    "region": "Winners Round 2",
+    "category": [
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Heaven Ascension DIO|"
+  },
+  {
+    "name": "Blood",
+    "region": "Winners Round 2",
+    "category": [
+      "Charles “All-Star” Barkley",
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "NO MORE BALLERS",
+    "category": [
+      "Charles “All-Star” Barkley",
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "ENTER: MONSTAR",
+    "category": [
+      "Charles “All-Star” Barkley",
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Black Hole Ballin' ~ Event Horizon Over Heaven",
+    "category": [
+      "Charles “All-Star” Barkley",
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Heaven Ascension DIO| AND |Charles “All-Star” Barkley|"
+  },
+  {
+    "name": "「SANDS OF TIME」",
+    "region": "Remix Week",
+    "category": [
+      "Heaven Ascension DIO",
+      "The Ruler of Everything"
+    ],
+    "requires": "|Heaven Ascension DIO| AND |The Ruler of Everything|"
+  },
+  {
+    "name": "Stand Tall, Breathe Out",
+    "region": "Remix Week",
+    "category": [
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Heaven Ascension DIO|"
+  },
+  {
+    "name": "Spectres of Misfortune [Other Side Mix]",
+    "region": "Remix Week",
+    "category": [
+      "Heaven Ascension DIO",
+      "River City Girls"
+    ],
+    "requires": "|Heaven Ascension DIO| AND |River City Girls|"
+  },
+  {
+    "name": "Sukuna Flow",
+    "region": "Winners Round 2",
+    "category": [
+      "Heaven Ascension DIO"
+    ],
+    "requires": "|Heaven Ascension DIO|"
+  },
+  {
+    "name": "Things Forgotten, Lost Their Time",
+    "region": "Pre-Bracket",
+    "category": [
+      "The Ruler of Everything"
+    ],
+    "requires": "|The Ruler of Everything|"
+  },
+  {
+    "name": "Good Day, All Star!",
+    "region": "Pre-Bracket",
+    "category": [
+      "The Ruler of Everything",
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|The Ruler of Everything|"
+  },
+  {
+    "name": "hi opal !",
+    "region": "Pre-Bracket",
+    "category": [
+      "The Ruler of Everything",
+      "Lofi Girl"
+    ],
+    "requires": "|The Ruler of Everything| AND |Lofi Girl|"
+  },
+  {
+    "region": "Round 1",
+    "name": "Labyrinth",
+    "category": [
+      "The Ruler of Everything"
+    ],
+    "requires": "|The Ruler of Everything|"
+  },
+  {
+    "name": "METTATON'S MAGICAL MECHANICAL MATCH!",
+    "region": "Round 1",
+    "category": [
+      "The Ruler of Everything",
+      "MTT! Tour"
+    ],
+    "requires": "|The Ruler of Everything| AND |MTT! Tour|"
+  },
+  {
+    "name": "Monster Party",
+    "region": "Round 1",
+    "category": [
+      "The Ruler of Everything",
+      "MTT! Tour"
+    ],
+    "requires": "|The Ruler of Everything| AND |MTT! Tour|"
+  },
+  {
+    "name": "Be Beautiful",
+    "region": "Round 1",
+    "category": [
+      "The Ruler of Everything",
+      "Bad Girlz"
+    ],
+    "requires": "|The Ruler of Everything| AND |Bad Girlz|"
+  },
+  {
+    "name": "The Reflection Chamber",
+    "region": "Winners Round 2",
+    "category": [
+      "The Ruler of Everything"
+    ],
+    "requires": "|The Ruler of Everything|"
+  },
+  {
+    "name": "Lord of the Flies",
+    "region": "Winners Round 2",
+    "category": [
+      "The Ruler of Everything",
+      "Ace D. Copular"
+    ],
+    "requires": "|The Ruler of Everything| AND |Ace D. Copular|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Beyond the Clouds",
+    "category": [
+      "The Ruler of Everything",
+      "Ace D. Copular"
+    ],
+    "requires": "|The Ruler of Everything| AND |Ace D. Copular|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "The Butterfly Effect",
+    "category": [
+      "The Ruler of Everything",
+      "Ace D. Copular"
+    ],
+    "requires": "|The Ruler of Everything| AND |Ace D. Copular|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "SAVE US FROM HIM",
+    "category": [
+      "The Ruler of Everything",
+      "Ace D. Copular"
+    ],
+    "requires": "|The Ruler of Everything| AND |Ace D. Copular|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "misfortune.mid",
+    "category": [
+      "The Ruler of Everything"
+    ],
+    "requires": "|The Ruler of Everything|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "merely dreaming we were snow",
+    "category": [
+      "The Ruler of Everything",
+      "Painful Dreamers"
+    ],
+    "requires": "|The Ruler of Everything| AND |Painful Dreamers|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Daydreams in Seas of Blue",
+    "category": [
+      "The Ruler of Everything",
+      "Painful Dreamers"
+    ],
+    "requires": "|The Ruler of Everything| AND |Painful Dreamers|"
+  },
+  {
+    "name": "Keep An Eye On Gravity",
+    "region": "Pre-Bracket",
+    "category": [
+      "Snailiens"
+    ],
+    "requires": "|Snailiens|"
+  },
+  {
+    "name": "LeviDating",
+    "region": "Pre-Bracket",
+    "category": [
+      "Snailiens",
+      "MTT! Tour"
+    ],
+    "requires": "|Snailiens| AND |MTT! Tour|"
+  },
+  {
+    "name": "Pasteltrain",
+    "region": "Pre-Bracket",
+    "category": [
+      "Snailiens",
+      "Cadence"
+    ],
+    "requires": "|Snailiens| AND |Cadence|"
+  },
+  {
+    "name": "Shooting Star Signs",
+    "region": "Pre-Bracket",
+    "category": [
+      "Snailiens"
+    ],
+    "requires": "|Snailiens|"
+  },
+  {
+    "name": "Bonito Island",
+    "region": "Round 1",
+    "category": [
+      "Snailiens"
+    ],
+    "requires": "|Snailiens|"
+  },
+  {
+    "name": "CUUTIE",
+    "region": "Round 1",
+    "category": [
+      "Snailiens",
+      "MONSTERMAU5"
+    ],
+    "requires": "|Snailiens| AND |MONSTERMAU5|"
+  },
+  {
+    "region": "Round 1",
+    "name": "We're Not Alone (ALIENS =ROAM= @MON& U$)",
+    "category": [
+      "Snailiens",
+      "MONSTERMAU5"
+    ],
+    "requires": "|Snailiens| AND |MONSTERMAU5|"
+  },
+  {
+    "region": "Round 1",
+    "name": "ATTACK 0F TH3 MART1ANS",
+    "category": [
+      "Snailiens",
+      "MONSTERMAU5"
+    ],
+    "requires": "|Snailiens| AND |MONSTERMAU5|"
+  },
+  {
+    "region": "Round 1",
+    "name": "Everybody's Beautiful",
+    "category": [
+      "Snailiens",
+      "Forum Freakshow"
+    ],
+    "requires": "|Snailiens| AND |Forum Freakshow|"
+  },
+  {
+    "region": "Round 1",
+    "name": "Interstellar Slow Drive",
+    "category": [
+      "gSports",
+      "River City Girls",
+      "Snailiens"
+    ],
+    "requires": "|gSports| AND |River City Girls| AND |Snailiens|"
+  },
+  {
+    "name": "Baptism of Fire",
+    "region": "Round 1",
+    "category": [
+      "Club Bangers",
+      "Hot Ones",
+      "Snailiens"
+    ],
+    "requires": "|Club Bangers| AND |Hot Ones| AND |Snailiens|"
+  },
+  {
+    "name": "Doctor's Sick",
+    "region": "Round 1",
+    "category": [
+      "Snailiens",
+      "MONSTERMAU5"
+    ],
+    "requires": "|Snailiens| AND |MONSTERMAU5|"
+  },
+  {
+    "name": "Wish Upon A Star",
+    "region": "Losers Round 1",
+    "category": [
+      "Snailiens"
+    ],
+    "requires": "|Snailiens|"
+  },
+  {
+    "name": "Musk Rush",
+    "region": "Losers Round 1",
+    "category": [
+      "Snailiens",
+      "Gustavo Rocque"
+    ],
+    "requires": "|Snailiens| AND |Gustavo Rocque|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "Sunshine In My Pocket",
+    "category": [
+      "Snailiens",
+      "Gustavo Rocque"
+    ],
+    "requires": "|Snailiens| AND |Gustavo Rocque|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "Bird Calls",
+    "category": [
+      "Snailiens",
+      "Gustavo Rocque"
+    ],
+    "requires": "|Snailiens| AND |Gustavo Rocque|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "Sea the Stars",
+    "category": [
+      "Snailiens",
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Snailiens| AND |Black Mamba Farquaad|"
+  },
+  {
+    "name": "Pastel Fever",
+    "region": "Remix Week",
+    "category": [
+      "Snailiens",
+      "Forum Freakshow"
+    ],
+    "requires": "|Snailiens| AND |Forum Freakshow|"
+  },
+  {
+    "name": "Sunshine In Mmyy Ppaarrttyy",
+    "region": "Remix Week",
+    "category": [
+      "Snailiens",
+      "Forum Freakshow",
+      "Gustavo Rocque",
+      "Club Bangers"
+    ],
+    "requires": "|Snailiens| AND |Forum Freakshow| AND |Gustavo Rocque| AND |Club Bangers|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "WE'RE WITH YOU",
+    "category": [
+      "Snailiens",
+      "MTT! Tour",
+      "Bad Girlz"
+    ],
+    "requires": "|Snailiens| AND |MTT! Tour| AND |Bad Girlz|"
+  },
+  {
+    "name": "Your New Frontier",
+    "region": "Winners Round 2",
+    "category": [
+      "Snailiens"
+    ],
+    "requires": "|Snailiens|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Peppermint Latte",
+    "category": [
+      "Snailiens",
+      "Lofi Girl"
+    ],
+    "requires": "|Snailiens| AND |Lofi Girl|"
+  },
+  {
+    "name": "CA7 & MAU5",
+    "region": "Pre-Bracket",
+    "category": [
+      "MONSTERMAU5"
+    ],
+    "requires": "|MONSTERMAU5|"
+  },
+  {
+    "region": "Pre-Bracket",
+    "name": "MONSTERS' ENERGY DR!NK",
+    "category": [
+      "MONSTERMAU5"
+    ],
+    "requires": "|MONSTERMAU5|"
+  },
+  {
+    "name": "Summertime Stroll",
+    "region": "Pre-Bracket",
+    "category": [
+      "MONSTERMAU5",
+      "Hot Ones"
+    ],
+    "requires": "|MONSTERMAU5| AND |Hot Ones|"
+  },
+  {
+    "name": "L2V3LS (CB Deep Club Dumpster Dive Remix)",
+    "region": "Pre-Bracket",
+    "category": [
+      "MONSTERMAU5",
+      "Club Bangers"
+    ],
+    "requires": "|MONSTERMAU5| AND |Club Bangers|"
+  },
+  {
+    "region": "Round 1",
+    "name": "Isle of Unity",
+    "category": [
+      "MONSTERMAU5"
+    ],
+    "requires": "|MONSTERMAU5|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "Grief Haze Shadow",
+    "category": [
+      "MONSTERMAU5",
+      "Elliana"
+    ],
+    "requires": "|MONSTERMAU5| AND |Elliana|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "New Record",
+    "category": [
+      "MONSTERMAU5"
+    ],
+    "requires": "|MONSTERMAU5|"
+  },
+  {
+    "name": "D4NC1NG D0ꓘ0?!",
+    "region": "Winners Round 2",
+    "category": [
+      "MONSTERMAU5"
+    ],
+    "requires": "|MONSTERMAU5|"
+  },
+  {
+    "name": "1 0NLY W4N7 Y0U",
+    "region": "Winners Round 2",
+    "category": [
+      "MONSTERMAU5",
+      "Bad Girlz"
+    ],
+    "requires": "|MONSTERMAU5| AND |Bad Girlz|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "TURN IT UP!",
+    "category": [
+      "MONSTERMAU5",
+      "Bad Girlz"
+    ],
+    "requires": "|MONSTERMAU5| AND |Bad Girlz|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "☆ P4R7Y 4N1M4L5 ☆",
+    "category": [
+      "MONSTERMAU5",
+      "Bad Girlz"
+    ],
+    "requires": "|MONSTERMAU5| AND |Bad Girlz|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "AAAAH",
+    "category": [
+      "MONSTERMAU5",
+      "Bad Girlz"
+    ],
+    "requires": "|MONSTERMAU5| AND |Bad Girlz|"
+  },
+  {
+    "region": "Remix Week",
+    "name": "Sofi's Rebound",
+    "category": [
+      "Charles “All-Star” Barkley",
+      "MONSTERMAU5"
+    ],
+    "requires": "|Charles “All-Star” Barkley| AND |MONSTERMAU5|"
+  },
+  {
+    "name": "mmm... organs :p",
+    "region": "Winners Round 2",
+    "category": [
+      "MONSTERMAU5",
+      "Bad Girlz"
+    ],
+    "requires": "|MONSTERMAU5| AND |Bad Girlz|"
+  },
+  {
+    "name": "Party Overtime",
+    "region": "Winners Round 2",
+    "category": [
+      "MONSTERMAU5",
+      "Bad Girlz"
+    ],
+    "requires": "|MONSTERMAU5| AND |Bad Girlz|"
+  },
+  {
+    "name": "Hellfire",
+    "region": "Winners Round 2",
+    "category": [
+      "MONSTERMAU5",
+      "Forum Freakshow"
+    ],
+    "requires": "|MONSTERMAU5| AND |Forum Freakshow|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "MAU5T0RM",
+    "category": [
+      "MONSTERMAU5",
+      "Forum Freakshow"
+    ],
+    "requires": "|MONSTERMAU5| AND |Forum Freakshow|"
+  },
+  {
+    "name": "Sun's Up",
+    "region": "Pre-Bracket",
+    "category": [
+      "Hot Ones"
+    ],
+    "requires": "|Hot Ones|"
+  },
+  {
+    "name": "sangr14",
+    "region": "Pre-Bracket",
+    "category": [
+      "Hot Ones",
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Hot Ones| AND |Netherrack Nightmares|"
+  },
+  {
+    "name": "The Prince of Fire",
+    "region": "Pre-Bracket",
+    "category": [
+      "MAD/EON",
+      "Hot Ones"
+    ],
+    "requires": "|MAD/EON| AND |Hot Ones|"
+  },
+  {
+    "name": "i miss u",
+    "region": "Pre-Bracket",
+    "category": [
+      "Hot Ones"
+    ],
+    "requires": "|Hot Ones|"
+  },
+  {
+    "name": "Fuck The Rules",
+    "region": "Round 1",
+    "category": [
+      "Hot Ones"
+    ],
+    "requires": "|Hot Ones|"
+  },
+  {
+    "name": "Daylight & Heart",
+    "region": "Round 1",
+    "category": [
+      "Hot Ones",
+      "Lofi Girl"
+    ],
+    "requires": "|Hot Ones| AND |Lofi Girl|"
+  },
+  {
+    "name": "Afterbreeze",
+    "region": "Round 1",
+    "category": [
+      "Hot Ones",
+      "Lofi Girl"
+    ],
+    "requires": "|Hot Ones| AND |Lofi Girl|"
+  },
+  {
+    "name": "Hollywood Sunset",
+    "region": "Round 1",
+    "category": [
+      "Hot Ones",
+      "Lofi Girl"
+    ],
+    "requires": "|Hot Ones| AND |Lofi Girl|"
+  },
+  {
+    "name": "Hours of History",
+    "region": "Round 1",
+    "category": [
+      "Hot Ones",
+      "Gustavo Rocque"
+    ],
+    "requires": "|Hot Ones| AND |Gustavo Rocque|"
+  },
+  {
+    "name": "Summer In Hollywood",
+    "region": "Losers Round 1",
+    "category": [
+      "Hot Ones"
+    ],
+    "requires": "|Hot Ones|"
+  },
+  {
+    "name": "After Last Summertime",
+    "region": "Winners Round 2",
+    "category": [
+      "Hot Ones"
+    ],
+    "requires": "|Hot Ones|"
+  },
+  {
+    "name": "Soothing Shoals",
+    "region": "Winners Round 2",
+    "category": [
+      "Hot Ones",
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Hot Ones| AND |Black Mamba Farquaad|"
+  },
+  {
+    "name": "Faded Sunlight",
+    "region": "Winners Round 2",
+    "category": [
+      "Hot Ones",
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Hot Ones| AND |Black Mamba Farquaad|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Laelius de Amicitia",
+    "category": [
+      "Hot Ones",
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Hot Ones| AND |Black Mamba Farquaad|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Rock The Boat",
+    "category": [
+      "Hot Ones",
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Hot Ones| AND |Black Mamba Farquaad|"
+  },
+  {
+    "name": "PUNCH A TREE | MINECRAFT paRODY OF SANCTUARY",
+    "region": "Remix Week",
+    "category": [
+      "Hot Ones",
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Hot Ones| AND |Netherrack Nightmares|"
+  },
+  {
+    "name": "Slow Dancing In My Dream Dream Dreams",
+    "region": "Remix Week",
+    "category": [
+      "MTT! Tour",
+      "Hot Ones",
+      "MAD/EON"
+    ],
+    "requires": "|MTT! Tour| AND |Hot Ones| AND |MAD/EON|"
+  },
+  {
+    "name": "FEAR AND MISERY",
+    "region": "Remix Week",
+    "category": [
+      "Hot Ones"
+    ],
+    "requires": "|Hot Ones|"
+  },
+  {
+    "name": "She's Still Superfast",
+    "region": "Remix Week",
+    "category": [
+      "Ace D. Copular",
+      "Hot Ones"
+    ],
+    "requires": "|Ace D. Copular| AND |Hot Ones|"
+  },
+  {
+    "name": "Pineapple Passion (There's No Pineapples Left in River City)",
+    "region": "Winners Round 2",
+    "category": [
+      "River City Girls",
+      "Hot Ones"
+    ],
+    "requires": "|River City Girls| AND |Hot Ones|"
+  },
+  {
+    "name": "The Water's Gettin' Warm",
+    "region": "Pre-Bracket",
+    "category": [
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Black Mamba Farquaad|"
+  },
+  {
+    "name": "The Black Mamba Glowup",
+    "region": "Pre-Bracket",
+    "category": [
+      "Black Mamba Farquaad",
+      "Gustavo Rocque"
+    ],
+    "requires": "|Black Mamba Farquaad| AND |Gustavo Rocque|"
+  },
+  {
+    "name": "Walking On Water",
+    "region": "Pre-Bracket",
+    "category": [
+      "Ace D. Copular",
+      "Black Mamba Farquaad",
+      "Painful Dreamers"
+    ],
+    "requires": "|Ace D. Copular| AND |Black Mamba Farquaad| AND |Painful Dreamers|"
+  },
+  {
+    "region": "Round 1",
+    "name": "Duloc Rock!",
+    "category": [
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Black Mamba Farquaad|"
+  },
+  {
+    "name": "ocean tide",
+    "region": "Round 1",
+    "category": [
+      "Black Mamba Farquaad",
+      "Lofi Girl"
+    ],
+    "requires": "|Black Mamba Farquaad| AND |Lofi Girl|"
+  },
+  {
+    "name": "Blue Skies of the New World",
+    "region": "Losers Round 1",
+    "category": [
+      "Susie Haltmann",
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Susie Haltmann| AND |Black Mamba Farquaad|"
+  },
+  {
+    "name": "The Harbor Is Mine",
+    "region": "Winners Round 2",
+    "category": [
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Black Mamba Farquaad|"
+  },
+  {
+    "name": "SHREK/IS/LOVE",
+    "region": "Remix Week",
+    "category": [
+      "Black Mamba Farquaad",
+      "Rick Hentai"
+    ],
+    "requires": "|Black Mamba Farquaad| AND |Rick Hentai|"
+  },
+  {
+    "name": "owT ratS llA",
+    "region": "Remix Week",
+    "category": [
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Black Mamba Farquaad|"
+  },
+  {
+    "name": "Mile High Club",
+    "region": "Remix Week",
+    "category": [
+      "Painful Dreamers",
+      "Elliana",
+      "Ace D. Copular",
+      "Rick Hentai",
+      "Black Mamba Farquaad"
+    ],
+    "requires": "|Painful Dreamers| AND |Elliana| AND |Ace D. Copular| AND |Rick Hentai| AND |Black Mamba Farquaad|"
+  },
+  {
+    "name": "Peace of Mind",
+    "region": "Winners Round 2",
+    "category": [
+      "Black Mamba Farquaad",
+      "Club Bangers"
+    ],
+    "requires": "|Black Mamba Farquaad| AND |Club Bangers|"
+  },
+  {
+    "name": "Start The Game",
+    "region": "Pre-Bracket",
+    "category": [
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Charles “All-Star” Barkley|"
+  },
+  {
+    "name": "Stolen Talent",
+    "region": "Pre-Bracket",
+    "category": [
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Charles “All-Star” Barkley|"
+  },
+  {
+    "region": "Round 1",
+    "name": "Don't You Call This A Regular Jam!",
+    "category": [
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Charles “All-Star” Barkley|"
+  },
+  {
+    "name": "Court Control",
+    "region": "Round 1",
+    "category": [
+      "Elliana",
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Charles “All-Star” Barkley| AND |Elliana|"
+  },
+  {
+    "name": "A Touch of Gnarls Barkley",
+    "region": "Losers Round 1",
+    "category": [
+      "Charles “All-Star” Barkley",
+      "Scatman & Hatman"
+    ],
+    "requires": "|Charles “All-Star” Barkley| AND |Scatman & Hatman|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "I Ain't Stupid",
+    "category": [
+      "Charles “All-Star” Barkley",
+      "Scatman & Hatman"
+    ],
+    "requires": "|Charles “All-Star” Barkley| AND |Scatman & Hatman|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Siriusly Crazy (Live)",
+    "category": [
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Charles “All-Star” Barkley|"
+  },
+  {
+    "name": "Flight of the Ballin' Phoenix",
+    "region": "Winners Round 2",
+    "category": [
+      "Elliana",
+      "Charles “All-Star” Barkley"
+    ],
+    "requires": "|Charles “All-Star” Barkley| AND |Elliana|"
+  },
+  {
+    "name": "Fifteen Seconds",
+    "region": "Winners Round 2",
+    "category": [
+      "Charles “All-Star” Barkley",
+      "River City Girls",
+      "MAD/EON"
+    ],
+    "requires": "|Charles “All-Star” Barkley| AND |River City Girls| AND |MAD/EON|"
+  },
+  {
+    "name": "G-Code",
+    "region": "Pre-Bracket",
+    "category": [
+      "Ace D. Copular"
+    ],
+    "requires": "|Ace D. Copular|"
+  },
+  {
+    "name": "Roughnecked Collar",
+    "region": "Pre-Bracket",
+    "category": [
+      "Ace D. Copular",
+      "Bad Girlz",
+      "Cadence"
+    ],
+    "requires": "|Ace D. Copular| AND |Bad Girlz| AND |Cadence|"
+  },
+  {
+    "name": "Uncomplicated Underground",
+    "region": "Pre-Bracket",
+    "category": [
+      "Netherrack Nightmares",
+      "Ace D. Copular"
+    ],
+    "requires": "|Netherrack Nightmares| AND |Ace D. Copular|"
+  },
+  {
+    "name": "lewdWORLDorder",
+    "region": "Pre-Bracket",
+    "category": [
+      "Ace D. Copular",
+      "Rick Hentai"
+    ],
+    "requires": "|Ace D. Copular| AND |Rick Hentai|"
+  },
+  {
+    "name": "1999",
+    "region": "Round 1",
+    "category": [
+      "Ace D. Copular"
+    ],
+    "requires": "|Ace D. Copular|"
+  },
+  {
+    "name": "Gangreen Skans",
+    "region": "Round 1",
+    "category": [
+      "Club Bangers",
+      "Ace D. Copular"
+    ],
+    "requires": "|Club Bangers| AND |Ace D. Copular|"
+  },
+  {
+    "region": "Round 1",
+    "name": "Bruce Willis Wants Me Dead",
+    "category": [
+      "Club Bangers",
+      "Ace D. Copular"
+    ],
+    "requires": "|Club Bangers| AND |Ace D. Copular|"
+  },
+  {
+    "name": "Sleeping Powder Can't Be Beat",
+    "region": "Round 1",
+    "category": [
+      "Ace D. Copular",
+      "Cadence"
+    ],
+    "requires": "|Ace D. Copular| AND |Cadence|"
+  },
+  {
+    "name": "i'll be fine...",
+    "region": "Round 1",
+    "category": [
+      "Lofi Girl",
+      "Ace D. Copular"
+    ],
+    "requires": "|Ace D. Copular| AND |Lofi Girl|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Signalz",
+    "category": [
+      "Ace D. Copular"
+    ],
+    "requires": "|Ace D. Copular|"
+  },
+  {
+    "name": "Conquest, War, and Flatulence",
+    "region": "Remix Week",
+    "category": [
+      "Ace D. Copular",
+      "Elliana",
+      "Club Bangers"
+    ],
+    "requires": "|Club Bangers| AND |Ace D. Copular| AND |Elliana|"
+  },
+  {
+    "name": "i feel fine!",
+    "region": "Remix Week",
+    "category": [
+      "Lofi Girl",
+      "Ace D. Copular"
+    ],
+    "requires": "|Ace D. Copular| AND |Lofi Girl|"
+  },
+  {
+    "name": "All We Need!",
+    "region": "Pre-Bracket",
+    "category": [
+      "gSports"
+    ],
+    "requires": "|gSports|"
+  },
+  {
+    "name": "Focused Love",
+    "region": "Pre-Bracket",
+    "category": [
+      "gSports",
+      "River City Girls"
+    ],
+    "requires": "|gSports| AND |River City Girls|"
+  },
+  {
+    "name": "Driving 2 Woo Hoo: Hold The Brakes!",
+    "region": "Pre-Bracket",
+    "category": [
+      "Bad Girlz",
+      "Gustavo Rocque",
+      "gSports"
+    ],
+    "requires": "|Bad Girlz| AND |Gustavo Rocque| AND |gSports|"
+  },
+  {
+    "name": "PEPSI MAN TICO TICO !!! ペプシ",
+    "region": "Pre-Bracket",
+    "category": [
+      "Scatman & Hatman",
+      "gSports"
+    ],
+    "requires": "|Scatman & Hatman| AND |gSports|"
+  },
+  {
+    "region": "Round 1",
+    "name": "Saxy Spiral: Type 4",
+    "category": [
+      "gSports"
+    ],
+    "requires": "|gSports|"
+  },
+  {
+    "name": "Eumig and Chitlins",
+    "region": "Round 1",
+    "category": [
+      "Club Bangers",
+      "gSports"
+    ],
+    "requires": "|Club Bangers| AND |gSports|"
+  },
+  {
+    "name": "Goodbye Cruiser, Hello Wuhu",
+    "region": "Winners Round 2",
+    "category": [
+      "Scott the Woz",
+      "gSports"
+    ],
+    "requires": "|Scott the Woz| AND |gSports|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Roll Up, Spit Fire",
+    "category": [
+      "gSports"
+    ],
+    "requires": "|gSports|"
+  },
+  {
+    "name": "START YOUR ENGINES",
+    "region": "Winners Round 2",
+    "category": [
+      "gSports",
+      "Elliana"
+    ],
+    "requires": "|gSports| AND |Elliana|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Rare Footage",
+    "category": [
+      "gSports",
+      "Elliana"
+    ],
+    "requires": "|gSports| AND |Elliana|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "You Blew Up My Truck",
+    "category": [
+      "gSports",
+      "Elliana"
+    ],
+    "requires": "|gSports| AND |Elliana|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Midnight's Last Stand",
+    "category": [
+      "gSports",
+      "Elliana"
+    ],
+    "requires": "|gSports| AND |Elliana|"
+  },
+  {
+    "name": "taking my time",
+    "region": "Remix Week",
+    "category": [
+      "gSports",
+      "Lofi Girl"
+    ],
+    "requires": "|gSports| AND |Lofi Girl|"
+  },
+  {
+    "name": "Death of a Rockstar",
+    "region": "Winners Round 2",
+    "category": [
+      "Gustavo Rocque",
+      "gSports"
+    ],
+    "requires": "|Gustavo Rocque| AND |gSports|"
+  },
+  {
+    "name": "Phantom Trio",
+    "region": "Pre-Bracket",
+    "category": [
+      "MTT! Tour"
+    ],
+    "requires": "|MTT! Tour|"
+  },
+  {
+    "name": "TARI COREBUR COREBUR",
+    "region": "Pre-Bracket",
+    "category": [
+      "MTT! Tour",
+      "Rick Hentai"
+    ],
+    "requires": "|MTT! Tour| AND |Rick Hentai|"
+  },
+  {
+    "name": "But Nobody Came",
+    "region": "Round 1",
+    "category": [
+      "MTT! Tour"
+    ],
+    "requires": "|MTT! Tour|"
+  },
+  {
+    "name": "Chasing That Rush",
+    "region": "Round 1",
+    "category": [
+      "MTT! Tour",
+      "Gustavo Rocque"
+    ],
+    "requires": "|MTT! Tour| AND |Gustavo Rocque|"
+  },
+  {
+    "name": "What's That Noise?",
+    "region": "Losers Round 1",
+    "category": [
+      "MTT! Tour"
+    ],
+    "requires": "|MTT! Tour|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "The Legend of the Phoenix",
+    "category": [
+      "MTT! Tour",
+      "Club Bangers"
+    ],
+    "requires": "|MTT! Tour| AND |Club Bangers|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "Shut the Hotel Door",
+    "category": [
+      "MTT! Tour",
+      "Club Bangers"
+    ],
+    "requires": "|MTT! Tour| AND |Club Bangers|"
+  },
+  {
+    "region": "Losers Round 1",
+    "name": "SECAM TO THE PIPIS",
+    "category": [
+      "MTT! Tour",
+      "Club Bangers"
+    ],
+    "requires": "|MTT! Tour| AND |Club Bangers|"
+  },
+  {
+    "name": "Digital Hopes And Dreams Dreams Dreams",
+    "region": "Losers Round 1",
+    "category": [
+      "MAD/EON",
+      "MTT! Tour"
+    ],
+    "requires": "|MAD/EON| AND |MTT! Tour|"
+  },
+  {
+    "name": "Taking Over National Television",
+    "region": "Losers Round 1",
+    "category": [
+      "MTT! Tour"
+    ],
+    "requires": "|MTT! Tour|"
+  },
+  {
+    "name": "The Beginning Of The End",
+    "region": "Losers Round 1",
+    "category": [
+      "Cadence",
+      "MTT! Tour"
+    ],
+    "requires": "|Cadence| AND |MTT! Tour|"
+  },
+  {
+    "name": "Manic, Iconic, Metallic",
+    "region": "Losers Round 1",
+    "category": [
+      "Forum Freakshow",
+      "Susie Haltmann",
+      "MTT! Tour"
+    ],
+    "requires": "|Forum Freakshow| AND |Susie Haltmann| AND |MTT! Tour|"
+  },
+  {
+    "name": "#AEROSOL // CORE",
+    "region": "Remix Week",
+    "category": [
+      "MTT! Tour"
+    ],
+    "requires": "|MTT! Tour|"
+  },
+  {
+    "name": "Potion Diamond Funk",
+    "region": "Winners Round 2",
+    "category": [
+      "MTT! Tour",
+      "Netherrack Nightmares"
+    ],
+    "requires": "|MTT! Tour| AND |Netherrack Nightmares|"
+  },
+  {
+    "name": "Minecrap",
+    "region": "Winners Round 2",
+    "category": [
+      "MTT! Tour",
+      "Netherrack Nightmares"
+    ],
+    "requires": "|MTT! Tour| AND |Netherrack Nightmares|"
+  },
+  {
+    "name": "Eurodancin' Around The World",
+    "region": "Pre-Bracket",
+    "category": [
+      "Scatman & Hatman"
+    ],
+    "requires": "|Scatman & Hatman|"
+  },
+  {
+    "name": "Everybody's Back!",
+    "region": "Pre-Bracket",
+    "category": [
+      "Gustavo Rocque",
+      "Scatman & Hatman"
+    ],
+    "requires": "|Gustavo Rocque| AND  |Scatman & Hatman|"
+  },
+  {
+    "name": "Scatman, Hatman, & Madman",
+    "region": "Pre-Bracket",
+    "category": [
+      "Scatman & Hatman",
+      "MAD/EON"
+    ],
+    "requires": "|Scatman & Hatman| AND |MAD/EON|"
+  },
+  {
+    "name": "Children's Origami",
+    "region": "Winners Round 2",
+    "category": [
+      "Scatman & Hatman"
+    ],
+    "requires": "|Scatman & Hatman|"
+  },
+  {
+    "name": "Don't Run From The Sunshine",
+    "region": "Winners Round 2",
+    "category": [
+      "Rick Hentai",
+      "Scatman & Hatman"
+    ],
+    "requires": "|Rick Hentai| AND |Scatman & Hatman|"
+  },
+  {
+    "name": "NTR",
+    "region": "Winners Round 2",
+    "category": [
+      "Rick Hentai",
+      "Scatman & Hatman"
+    ],
+    "requires": "|Rick Hentai| AND |Scatman & Hatman|"
+  },
+  {
+    "name": "&quot;afroman_-_because_i_got_high_(music_video).mp3&quot;",
+    "region": "Winners Round 2",
+    "category": [
+      "Rick Hentai",
+      "Scatman & Hatman"
+    ],
+    "requires": "|Rick Hentai| AND |Scatman & Hatman|"
+  },
+  {
+    "name": "Dansen In My Room (2019 Bootleg Remix)",
+    "region": "Winners Round 2",
+    "category": [
+      "Rick Hentai",
+      "Scatman & Hatman"
+    ],
+    "requires": "|Rick Hentai| AND |Scatman & Hatman|"
+  },
+  {
+    "name": "&quot;gnirob_-_the_high_life_(2024_bootleg_flip).mp3&quot;",
+    "region": "Remix Week",
+    "category": [
+      "Rick Hentai",
+      "Scatman & Hatman"
+    ],
+    "requires": "|Rick Hentai| AND |Scatman & Hatman|"
+  },
+  {
+    "name": "we ☆ did ☆ it!",
+    "region": "Remix Week",
+    "category": [
+      "Scatman & Hatman"
+    ],
+    "requires": "|Scatman & Hatman|"
+  },
+  {
+    "name": "Scott the Worlds",
+    "region": "Winners Round 2",
+    "category": [
+      "MAD/EON",
+      "Scatman & Hatman",
+      "Scott the Woz"
+    ],
+    "requires": "|MAD/EON| AND |Scatman & Hatman| AND |Scott the Woz|"
+  },
+  {
+    "name": "Disco Adrenaline",
+    "region": "Pre-Bracket",
+    "category": [
+      "Cadence"
+    ],
+    "requires": "|Cadence|"
+  },
+  {
+    "name": "Pico",
+    "region": "Pre-Bracket",
+    "category": [
+      "Lofi Girl",
+      "Cadence",
+      "Reanimatedd"
+    ],
+    "requires": "|Lofi Girl| AND |Cadence| AND |Reanimatedd|"
+  },
+  {
+    "name": "Para Para Mausoleum シングルトリプル",
+    "region": "Round 1",
+    "category": [
+      "Cadence"
+    ],
+    "requires": "|Cadence|"
+  },
+  {
+    "name": "Momentum Mortis",
+    "region": "Round 1",
+    "category": [
+      "Cadence",
+      "Reanimatedd"
+    ],
+    "requires": "|Cadence| AND |Reanimatedd|"
+  },
+  {
+    "name": "Randumb Retro",
+    "region": "Round 1",
+    "category": [
+      "Cadence",
+      "Reanimatedd"
+    ],
+    "requires": "|Cadence| AND |Reanimatedd|"
+  },
+  {
+    "name": "City of Lost Love",
+    "region": "Losers Round 1",
+    "category": [
+      "Cadence"
+    ],
+    "requires": "|Cadence|"
+  },
+  {
+    "name": "Pico's School of Thought",
+    "region": "Remix Week",
+    "category": [
+      "Lofi Girl",
+      "Cadence",
+      "Reanimatedd"
+    ],
+    "requires": "|Lofi Girl| AND |Cadence| AND |Reanimatedd|"
+  },
+  {
+    "name": "Padded Cell",
+    "region": "Winners Round 2",
+    "category": [
+      "Cadence",
+      "Club Bangers"
+    ],
+    "requires": "|Cadence| AND |Club Bangers|"
+  },
+  {
+    "name": "Back Alley Blitz / I'm Still In A Dream",
+    "region": "Winners Round 2",
+    "category": [
+      "Cadence",
+      "Elliana"
+    ],
+    "requires": "|Cadence| AND |Elliana|"
+  },
+  {
+    "name": "Girl's Fight Out",
+    "region": "Winners Round 2",
+    "category": [
+      "Cadence",
+      "Bad Girlz",
+      "River City Girls",
+      "Elliana"
+    ],
+    "requires": "|Cadence| AND |Bad Girlz| AND |River City Girls| AND |Elliana|"
+  },
+  {
+    "name": "Bad, Bad News",
+    "region": "Pre-Bracket",
+    "category": [
+      "Bad Girlz"
+    ],
+    "requires": "|Bad Girlz|"
+  },
+  {
+    "name": "Raising The Roof",
+    "region": "Pre-Bracket",
+    "category": [
+      "Bad Girlz"
+    ],
+    "requires": "|Bad Girlz|"
+  },
+  {
+    "region": "Round 1",
+    "name": "you are the worst",
+    "category": [
+      "Bad Girlz"
+    ],
+    "requires": "|Bad Girlz|"
+  },
+  {
+    "name": "young love",
+    "region": "Round 1",
+    "category": [
+      "Bad Girlz",
+      "Gustavo Rocque"
+    ],
+    "requires": "|Bad Girlz| AND |Gustavo Rocque|"
+  },
+  {
+    "name": "bad breakup",
+    "region": "Round 1",
+    "category": [
+      "Bad Girlz",
+      "Gustavo Rocque"
+    ],
+    "requires": "|Bad Girlz| AND |Gustavo Rocque|"
+  },
+  {
+    "name": "imma call if it dont work",
+    "region": "Losers Round 1",
+    "category": [
+      "Bad Girlz",
+      "Forum Freakshow"
+    ],
+    "requires": "|Bad Girlz| AND |Forum Freakshow|"
+  },
+  {
+    "name": "Lucifer Solitaria",
+    "region": "Winners Round 2",
+    "category": [
+      "Bad Girlz"
+    ],
+    "requires": "|Bad Girlz|"
+  },
+  {
+    "region": "Remix Week",
+    "name": "Into The Divinity (Megamix Live Edit)",
+    "category": [
+      "MAD/EON",
+      "Bad Girlz"
+    ],
+    "requires": "|MAD/EON| AND |Bad Girlz|"
+  },
+  {
+    "name": "幸せな変態 ♡♡♡ [HAPPY HENTAI!]",
+    "region": "Pre-Bracket",
+    "category": [
+      "Rick Hentai"
+    ],
+    "requires": "|Rick Hentai|"
+  },
+  {
+    "name": "Out Of Sweet Touches",
+    "region": "Pre-Bracket",
+    "category": [
+      "Rick Hentai"
+    ],
+    "requires": "|Rick Hentai|"
+  },
+  {
+    "region": "Round 1",
+    "name": "Fukkirickastley",
+    "category": [
+      "Rick Hentai"
+    ],
+    "requires": "|Rick Hentai|"
+  },
+  {
+    "name": "RAVE CYCLES (( 焚き火です)) ! // ♡☆♡",
+    "region": "Round 1",
+    "category": [
+      "Rick Hentai",
+      "Forum Freakshow"
+    ],
+    "requires": "|Rick Hentai| AND |Forum Freakshow|"
+  },
+  {
+    "name": "Audiophile",
+    "region": "Round 1",
+    "category": [
+      "Rick Hentai",
+      "Forum Freakshow"
+    ],
+    "requires": "|Rick Hentai| AND |Forum Freakshow|"
+  },
+  {
+    "name": "Epic Rap Battles of Megamix. Forum Freakshow vs Rick Hentai.",
+    "region": "Round 1",
+    "category": [
+      "Rick Hentai",
+      "Forum Freakshow"
+    ],
+    "requires": "|Rick Hentai| AND |Forum Freakshow|"
+  },
+  {
+    "name": "Feelings That Can't Be Ignored",
+    "region": "Winners Round 2",
+    "category": [
+      "Rick Hentai"
+    ],
+    "requires": "|Rick Hentai|"
+  },
+  {
+    "name": "D.A.A.N.A.C.C.E CYCLES ((スポットライトの下で)) ! // ♡☆♡",
+    "region": "Remix Week",
+    "category": [
+      "Rick Hentai",
+      "Forum Freakshow"
+    ],
+    "requires": "|Rick Hentai| AND |Forum Freakshow|"
+  },
+  {
+    "name": "take-on-mi",
+    "region": "Winners Round 2",
+    "category": [
+      "MAD/EON",
+      "Rick Hentai"
+    ],
+    "requires": "|MAD/EON| AND |Rick Hentai|"
+  },
+  {
+    "name": "Claustrophobia",
+    "region": "Winners Round 2",
+    "category": [
+      "MAD/EON",
+      "Rick Hentai"
+    ],
+    "requires": "|MAD/EON| AND |Rick Hentai|"
+  },
+  {
+    "name": "Consider Your Ground STAMPED!",
+    "region": "Winners Round 2",
+    "category": [
+      "Reanimatedd",
+      "Rick Hentai"
+    ],
+    "requires": "|Reanimatedd| AND |Rick Hentai|"
+  },
+  {
+    "name": "It Takes 2 Players To Tango!",
+    "region": "Pre-Bracket",
+    "category": [
+      "River City Girls"
+    ],
+    "requires": "|River City Girls|"
+  },
+  {
+    "name": "Let's Go Paint The Town RED!",
+    "region": "Pre-Bracket",
+    "category": [
+      "River City Girls"
+    ],
+    "requires": "|River City Girls|"
+  },
+  {
+    "name": "Keep the Crazy Groovin'",
+    "region": "Pre-Bracket",
+    "category": [
+      "River City Girls"
+    ],
+    "requires": "|River City Girls|"
+  },
+  {
+    "name": "Lovely Surf~",
+    "region": "Losers Round 1",
+    "category": [
+      "River City Girls"
+    ],
+    "requires": "|River City Girls|"
+  },
+  {
+    "name": "Tama City Anthem",
+    "region": "Winners Round 2",
+    "category": [
+      "River City Girls",
+      "Lofi Girl"
+    ],
+    "requires": "|River City Girls| AND |Lofi Girl|"
+  },
+  {
+    "name": "Whose World Is It?",
+    "region": "Pre-Bracket",
+    "category": [
+      "Reanimatedd"
+    ],
+    "requires": "|Reanimatedd|"
+  },
+  {
+    "name": "Electrose Thribello",
+    "region": "Round 1",
+    "category": [
+      "Reanimatedd"
+    ],
+    "requires": "|Reanimatedd|"
+  },
+  {
+    "name": "Screaming Sleepyedds",
+    "region": "Losers Round 1",
+    "category": [
+      "Reanimatedd",
+      "Painful Dreamers"
+    ],
+    "requires": "|Reanimatedd| AND |Painful Dreamers|"
+  },
+  {
+    "name": "asdfmovie80",
+    "region": "Winners Round 2",
+    "category": [
+      "Reanimatedd"
+    ],
+    "requires": "|Reanimatedd|"
+  },
+  {
+    "name": "Off The Meds",
+    "region": "Pre-Bracket",
+    "category": [
+      "Forum Freakshow"
+    ],
+    "requires": "|Forum Freakshow|"
+  },
+  {
+    "name": "Memed Back To Life",
+    "region": "Pre-Bracket",
+    "category": [
+      "MAD/EON",
+      "Forum Freakshow"
+    ],
+    "requires": "|MAD/EON| AND |Forum Freakshow|"
+  },
+  {
+    "name": "Straight To Voicemail",
+    "region": "Round 1",
+    "category": [
+      "Forum Freakshow"
+    ],
+    "requires": "|Forum Freakshow|"
+  },
+  {
+    "name": "Firepowder",
+    "region": "Round 1",
+    "category": [
+      "Forum Freakshow",
+      "Painful Dreamers"
+    ],
+    "requires": "|Forum Freakshow| AND |Painful Dreamers|"
+  },
+  {
+    "name": "172.88.69.251",
+    "region": "Losers Round 1",
+    "category": [
+      "Forum Freakshow"
+    ],
+    "requires": "|Forum Freakshow|"
+  },
+  {
+    "name": "Mega Aqruh Tunnel 420",
+    "region": "Losers Round 1",
+    "category": [
+      "Forum Freakshow"
+    ],
+    "requires": "|Forum Freakshow|"
+  },
+  {
+    "name": "The Wii Sobriety Test",
+    "region": "Losers Round 1",
+    "category": [
+      "Scott the Woz",
+      "Forum Freakshow"
+    ],
+    "requires": "|Scott the Woz| AND |Forum Freakshow|"
+  },
+  {
+    "name": "BEWARE. I AM THE BOOGIEMAN.",
+    "region": "Winners Round 2",
+    "category": [
+      "Forum Freakshow"
+    ],
+    "requires": "|Forum Freakshow|"
+  },
+  {
+    "name": "You Were In My Dream Last Night",
+    "region": "Pre-Bracket",
+    "category": [
+      "Painful Dreamers"
+    ],
+    "requires": "|Painful Dreamers|"
+  },
+  {
+    "name": "THE END iiS NiiGH",
+    "region": "Pre-Bracket",
+    "category": [
+      "Painful Dreamers"
+    ],
+    "requires": "|Painful Dreamers|"
+  },
+  {
+    "name": "The Joy Won't Love You Like I Do",
+    "region": "Round 1",
+    "category": [
+      "Painful Dreamers"
+    ],
+    "requires": "|Painful Dreamers|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "Nowhere Train",
+    "category": [
+      "Painful Dreamers"
+    ],
+    "requires": "|Painful Dreamers|"
+  },
+  {
+    "name": "Still Waking Up At 3AM",
+    "region": "Winners Round 2",
+    "category": [
+      "Netherrack Nightmares",
+      "Painful Dreamers"
+    ],
+    "requires": "|Netherrack Nightmares| AND |Painful Dreamers|"
+  },
+  {
+    "name": "WonderSomnia",
+    "region": "Winners Round 2",
+    "category": [
+      "Netherrack Nightmares",
+      "Painful Dreamers"
+    ],
+    "requires": "|Netherrack Nightmares| AND |Painful Dreamers|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "更車賈滑串句龜龜契金",
+    "category": [
+      "Netherrack Nightmares",
+      "Painful Dreamers"
+    ],
+    "requires": "|Netherrack Nightmares| AND |Painful Dreamers|"
+  },
+  {
+    "region": "Winners Round 2",
+    "name": "There Are Monsters Nearby (Potion of Fire Resistance)",
+    "category": [
+      "Netherrack Nightmares",
+      "Painful Dreamers"
+    ],
+    "requires": "|Netherrack Nightmares| AND |Painful Dreamers|"
+  },
+  {
+    "name": "Still Awake At 3AM",
+    "region": "Remix Week",
+    "category": [
+      "Netherrack Nightmares",
+      "Painful Dreamers"
+    ],
+    "requires": "|Netherrack Nightmares| AND |Painful Dreamers|"
+  },
+  {
+    "name": "Monsters! (You May Not Rest Now...)",
+    "region": "Remix Week",
+    "category": [
+      "Netherrack Nightmares",
+      "Painful Dreamers"
+    ],
+    "requires": "|Netherrack Nightmares| AND |Painful Dreamers|"
+  },
+  {
+    "name": "Vengeful Digger: Modded",
+    "region": "Pre-Bracket",
+    "category": [
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Netherrack Nightmares|"
+  },
+  {
+    "name": "hyperabstraction",
+    "region": "Round 1",
+    "category": [
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Netherrack Nightmares|"
+  },
+  {
+    "name": "Bury Me In Cobblestone",
+    "region": "Round 1",
+    "category": [
+      "Netherrack Nightmares",
+      "MAD/EON"
+    ],
+    "requires": "|Netherrack Nightmares| AND |MAD/EON|"
+  },
+  {
+    "name": "Hell's End",
+    "region": "Round 1",
+    "category": [
+      "Netherrack Nightmares",
+      "MAD/EON"
+    ],
+    "requires": "|Netherrack Nightmares| AND |MAD/EON|"
+  },
+  {
+    "name": "THE BRICKS: AN EPIC MADEON MINECRAFT PARODY",
+    "region": "Round 1",
+    "category": [
+      "Netherrack Nightmares",
+      "MAD/EON"
+    ],
+    "requires": "|Netherrack Nightmares| AND |MAD/EON|"
+  },
+  {
+    "name": "Shreds of Red",
+    "region": "Round 1",
+    "category": [
+      "Netherrack Nightmares",
+      "MAD/EON"
+    ],
+    "requires": "|Netherrack Nightmares| AND |MAD/EON|"
+  },
+  {
+    "name": "drowned1.ogg",
+    "region": "Losers Round 1",
+    "category": [
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Netherrack Nightmares|"
+  },
+  {
+    "name": "Chunk Errors",
+    "region": "Winners Round 2",
+    "category": [
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Netherrack Nightmares|"
+  },
+  {
+    "name": "hyperabstraction (Alpha v1.0.16_02)",
+    "region": "Remix Week",
+    "category": [
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Netherrack Nightmares|"
+  },
+  {
+    "region": "Remix Week",
+    "name": "Vengeful Digger³",
+    "category": [
+      "Netherrack Nightmares"
+    ],
+    "requires": "|Netherrack Nightmares|"
+  },
+  {
+    "name": "Cover Me In Deepslate",
+    "region": "Remix Week",
+    "category": [
+      "Netherrack Nightmares",
+      "MAD/EON"
+    ],
+    "requires": "|Netherrack Nightmares| AND |MAD/EON|"
+  },
+  {
+    "region": "Pre-Bracket",
+    "name": "Aether's Lost Hope",
+    "category": [
+      "Elliana"
+    ],
+    "requires": "|Elliana|"
+  },
+  {
+    "name": "Psycho Soldier",
+    "region": "Pre-Bracket",
+    "category": [
+      "Elliana"
+    ],
+    "requires": "|Elliana|"
+  },
+  {
+    "region": "Round 1",
+    "name": "Squadrons, Deploy!",
+    "category": [
+      "Elliana"
+    ],
+    "requires": "|Elliana|"
+  },
+  {
+    "name": "The War On Nazareth",
+    "region": "Round 1",
+    "category": [
+      "Elliana",
+      "Club Bangers"
+    ],
+    "requires": "|Elliana| AND |Club Bangers|"
+  },
+  {
+    "name": "Bombs Over My Mind",
+    "region": "Winners Round 2",
+    "category": [
+      "Elliana"
+    ],
+    "requires": "|Elliana|"
+  },
+  {
+    "name": "MUSIC MADE ME FEEL NOTHING",
+    "region": "Pre-Bracket",
+    "category": [
+      "MAD/EON"
+    ],
+    "requires": "|MAD/EON|"
+  },
+  {
+    "name": "You May Find It Hard To Breathe",
+    "region": "Pre-Bracket",
+    "category": [
+      "MAD/EON"
+    ],
+    "requires": "|MAD/EON|"
+  },
+  {
+    "name": "Adventurous (live mashup)",
+    "region": "Round 1",
+    "category": [
+      "MAD/EON"
+    ],
+    "requires": "|MAD/EON|"
+  },
+  {
+    "name": "Home (Evil Edit)",
+    "region": "Losers Round 1",
+    "category": [
+      "MAD/EON"
+    ],
+    "requires": "|MAD/EON|"
+  },
+  {
+    "name": "A Joyous Miracle",
+    "region": "Losers Round 1",
+    "category": [
+      "MAD/EON",
+      "Club Bangers"
+    ],
+    "requires": "|MAD/EON| AND |Club Bangers|"
+  },
+  {
+    "name": "Two Steps Back",
+    "region": "Losers Round 1",
+    "category": [
+      "MAD/EON"
+    ],
+    "requires": "|MAD/EON|"
+  },
+  {
+    "name": "THE ADVENTURE NEVER ENDS",
+    "region": "Remix Week",
+    "category": [
+      "MAD/EON"
+    ],
+    "requires": "|MAD/EON|"
+  },
+  {
+    "name": "sketchbook",
+    "region": "Pre-Bracket",
+    "category": [
+      "Lofi Girl"
+    ],
+    "requires": "|Lofi Girl|"
+  },
+  {
+    "name": "sofia's bike",
+    "region": "Round 1",
+    "category": [
+      "Lofi Girl"
+    ],
+    "requires": "|Lofi Girl|"
+  },
+  {
+    "name": "brings out the tiger in you",
+    "region": "Losers Round 1",
+    "category": [
+      "Lofi Girl"
+    ],
+    "requires": "|Lofi Girl|"
+  },
+  {
+    "name": "audio test",
+    "region": "Losers Round 1",
+    "category": [
+      "Lofi Girl"
+    ],
+    "requires": "|Lofi Girl|"
+  },
+  {
+    "name": "feeling anxious",
+    "region": "Winners Round 2",
+    "category": [
+      "Lofi Girl"
+    ],
+    "requires": "|Lofi Girl|"
+  },
+  {
+    "name": "Looking For The Perfect Girl",
+    "region": "Pre-Bracket",
+    "category": [
+      "Gustavo Rocque"
+    ],
+    "requires": "|Gustavo Rocque|"
+  },
+  {
+    "region": "Round 1",
+    "name": "Top Of The List",
+    "category": [
+      "Gustavo Rocque"
+    ],
+    "requires": "|Gustavo Rocque|"
+  },
+  {
+    "name": "Retroland Rocquefeller",
+    "region": "Losers Round 1",
+    "category": [
+      "Gustavo Rocque"
+    ],
+    "requires": "|Gustavo Rocque|"
+  },
+  {
+    "name": "Season Finale",
+    "region": "Losers Round 1",
+    "category": [
+      "Gustavo Rocque"
+    ],
+    "requires": "|Gustavo Rocque|"
+  },
+  {
+    "name": "EdRec Megamix",
+    "region": "Pre-Bracket",
+    "category": [
+      "Club Bangers"
+    ],
+    "requires": "|Club Bangers|"
+  },
+  {
+    "name": "The Titular Club Banger",
+    "region": "Pre-Bracket",
+    "category": [
+      "Club Bangers"
+    ],
+    "requires": "|Club Bangers|"
+  },
+  {
+    "name": "Born To Be A Loser",
+    "region": "Round 1",
+    "category": [
+      "Club Bangers"
+    ],
+    "requires": "|Club Bangers|"
+  },
+  {
+    "name": "Caoutchouc",
+    "region": "Losers Round 1",
+    "category": [
+      "Club Bangers"
+    ],
+    "requires": "|Club Bangers|"
+  },
+  {
+    "name": "FLATATA",
+    "region": "Losers Round 1",
+    "category": [
+      "Club Bangers"
+    ],
+    "requires": "|Club Bangers|"
+  },
+  {
+    "region": "Remix Week",
+    "name": "Return of the Signacut",
+    "category": [
+      "Club Bangers"
+    ],
+    "requires": "|Club Bangers|"
+  },
+  {
+    "region": "Remix Week",
+    "name": "The OFFICIAL Club Banger",
+    "category": [
+      "Club Bangers"
+    ],
+    "requires": "|Club Bangers|"
+  },
+  {
+    "region": "Remix Week",
+    "name": "Gigi Race OST - Ricky Rides Again",
+    "category": [
+      "Scott the Woz",
+      "Club Bangers"
+    ],
+    "requires": "|Scott the Woz| AND |Club Bangers|"
+  },
+  {
+    "name": "Battlefield",
+    "region": "Pre-Bracket",
+    "category": [
+      "Misc"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Round 1",
+    "name": "BRACKET: Megamix",
+    "category": [
+      "Misc"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Breakout (Elevator Mix)",
+    "region": "Round 1",
+    "category": [
+      "Scott the Woz"
+    ],
+    "requires": "|Scott the Woz|"
+  },
+  {
+    "name": "jareds escape (someone stop him)",
+    "region": "Remix Week",
+    "category": [
+      "Scott the Woz"
+    ],
+    "requires": "|Scott the Woz|"
+  },
+  {
+    "name": "holy fuck scott the woz",
+    "region": "Remix Week",
+    "category": [
+      "Scott the Woz"
+    ],
+    "requires": "|Scott the Woz|"
+  },
+  {
+    "name": "Electric Tubes",
+    "region": "Losers Round 1",
+    "category": [
+      "Susie Haltmann"
+    ],
+    "requires": "|Susie Haltmann|"
+  },
+  {
+    "name": "Right Time, Right Place",
+    "region": "Losers Round 1",
+    "category": [
+      "Susie Haltmann"
+    ],
+    "requires": "|Susie Haltmann|"
+  },
+  {
+    "name": "What Dads Are Made For!",
+    "region": "Pre-Bracket",
+    "category": [
+      "Dexter's Dad"
+    ],
+    "requires": "|Dexter’s Dad|"
+  },
+  {
+    "name": "BRACKET: Winners Round 2",
+    "region": "Winners Round 2",
+    "category": [
+      "Misc"
+    ],
+    "requires": []
+  },
+  {
+    "name": "BRACKET: Losers Round 1",
+    "region": "Losers Round 1",
+    "category": [
+      "Misc"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Otherworldly Feline 2: A Tale of Two Kitties",
+    "region": "Remix Week",
+    "category": [
+      "Misc"
+    ],
+    "requires": []
+  },
+  {
+    "name": "A Funky Return To The Afterlife",
+    "region": "Remix Week",
+    "category": [
+      "Misc"
+    ],
+    "requires": []
+  }
+]
