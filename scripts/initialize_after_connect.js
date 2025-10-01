@@ -16,9 +16,9 @@ function doConnect() {
     use_alt_names = meta["use_alt_names"];
 
     if (use_alt_names) {
-        document.getElementById("info-text-bottom").style = "visibility: hidden;"
-    } else {
         document.getElementById("info-text-bottom").style = "visibility: visible;"
+    } else {
+        document.getElementById("info-text-bottom").style = "visibility: hidden;"
     }
 
     // Debug: Check all audio files exist in the folder and are named correctly
