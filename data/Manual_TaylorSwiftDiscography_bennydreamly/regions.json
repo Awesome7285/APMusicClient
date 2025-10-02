@@ -1,0 +1,62 @@
+{
+  "Taylor Swift": {
+    "connects_to": [],
+    "requires": "|Taylor Swift|"
+  },
+  "Fearless": {
+    "connects_to": [],
+    "requires": "|Fearless|"
+  },
+  "Fearless (Taylor's Version)": {
+    "connects_to": [],
+    "requires": "|Fearless (Taylor's Version)| AND |Re-recordings|"
+  },
+  "Speak Now": {
+    "connects_to": [],
+    "requires": "|Speak Now|"
+  },
+  "Speak Now (Taylor's Version)": {
+    "connects_to": [],
+    "requires": "|Speak Now (Taylor's Version)| AND |Re-recordings|"
+  },
+  "Red": {
+    "connects_to": [],
+    "requires": "|Red|"
+  },
+  "Red (Taylor's Version)": {
+    "connects_to": [],
+    "requires": "|Red (Taylor's Version)| AND |Re-recordings|"
+  },
+  "1989": {
+    "connects_to": [],
+    "requires": "|1989|"
+  },
+  "1989 (Taylor's Version)": {
+    "connects_to": [],
+    "requires": "|1989 (Taylor's Version)| AND |Re-recordings|"
+  },
+  "Reputation": {
+    "connects_to": [],
+    "requires": "|Reputation|"
+  },
+  "Lover": {
+    "connects_to": [],
+    "requires": "|Lover|"
+  },
+  "Folklore": {
+    "connects_to": [],
+    "requires": "|Folklore|"
+  },
+  "Evermore": {
+    "connects_to": [],
+    "requires": "|Evermore|"
+  },
+  "Midnights": {
+    "connects_to": [],
+    "requires": "|Midnights|"
+  },
+  "The Tortured Poets Department": {
+    "connects_to": [],
+    "requires": "|The Tortured Poets Department|"
+  }
+}
