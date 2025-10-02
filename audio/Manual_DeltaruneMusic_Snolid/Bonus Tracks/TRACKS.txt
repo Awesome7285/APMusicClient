@@ -1,0 +1,16 @@
+alarm_titlescreen.ogg
+annoying_prophecy.ogg
+Castle Town (Unfinished).mp3
+d.ogg
+dogcheck.ogg
+findher.ogg
+Giga Queen (Old).mp3
+man.ogg
+man_2.ogg
+man_nes.ogg
+Power of NEO (Unfinished).mp3
+Power of Spamton.mp3
+Queen Battle (Original).mp3
+Rouxls Battle (Old).mp3
+Spamton battle (forgotten).mp3
+w.ogg
