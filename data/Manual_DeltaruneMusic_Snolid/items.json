@@ -168,7 +168,9 @@
   {
     "count": "10",
     "name": "Shadow Crystal",
-    "category": [],
+    "category": [
+      "Win"
+    ],
     "progression_skip_balancing": true
   },
   {
@@ -257,6 +259,12 @@
     "count": 5,
     "name": "FillerSlop",
     "category": ["Chapter 3"],
+    "filler": true
+  },
+  {
+    "count": 5,
+    "name": "I'm Old!",
+    "category": ["Chapter 4"],
     "filler": true
   }
 ]
