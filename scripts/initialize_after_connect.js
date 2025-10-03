@@ -22,18 +22,21 @@ function doConnect() {
     }
 
     // Debug: Check all audio files exist in the folder and are named correctly
-    // for (var i = 0; i < locations.length; i++) {
-    //     song = locations[i]
-    //     if (!UrlExists(get_track_directory(song))) {
-    //         console.log(song['original_name'] ?? song['name'])
-    //     }
-    // }
+    //checkSongsExist()
 }
 
-function UrlExists(url)
-{
+function UrlExists(url) {
     var http = new XMLHttpRequest();
     http.open('HEAD', url, false);
     http.send();
     return http.status!=404;
+}
+
+function checkSongsExist() {
+    for (var i = 0; i < locations.length; i++) {
+        song = locations[i]
+        if (!UrlExists(get_track_directory(song))) {
+            console.log(song['original_name'] ?? song['name'])
+        }
+    }
 }
