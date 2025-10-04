@@ -1477,7 +1477,7 @@
     "category": [
       "Bonus Tracks"
     ],
-    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+    "requires": "|Chapter 2| AND |Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
   },
   {
     "name": "man_2.ogg",
@@ -1495,7 +1495,7 @@
       "Bonus Tracks",
       "Chapter 3"
     ],
-    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+    "requires": "|Chapter 3| AND |Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
   },
   {
     "name": "findher.ogg",
@@ -1504,7 +1504,7 @@
       "Bonus Tracks",
       "Chapter 3"
     ],
-    "requires": "|Desert Board Key| AND |Island Board Key|"
+    "requires": "|Chapter 3| AND |Desert Board Key| AND |Island Board Key|"
   },
   {
     "name": "Power of NEO (Unfinished)",
@@ -1512,7 +1512,7 @@
     "category": [
       "Bonus Tracks"
     ],
-    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
+    "requires": "|Chapter 2| AND |Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
   },
   {
     "name": "Power of Spamton",
@@ -1520,7 +1520,7 @@
     "category": [
       "Bonus Tracks"
     ],
-    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
+    "requires": "|Chapter 2| AND |Cyber Field Key| AND |Cyber City Key| AND |Mansion Key| AND |Mansion Basement Key|"
   },
   {
     "name": "Spamton battle (forgotten)",
@@ -1528,7 +1528,7 @@
     "category": [
       "Bonus Tracks"
     ],
-    "requires": "|Cyber Field Key| AND |Cyber City Key|"
+    "requires": "|Chapter 2| AND |Cyber Field Key| AND |Cyber City Key|"
   },
   {
     "name": "Giga Queen (Old)",
@@ -1536,7 +1536,7 @@
     "category": [
       "Bonus Tracks"
     ],
-    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+    "requires": "|Chapter 2| AND |Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
   },
   {
     "name": "Castle Town (Unfinished)",
@@ -1552,7 +1552,7 @@
     "category": [
       "Bonus Tracks"
     ],
-    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+    "requires": "|Chapter 2| AND |Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
   },
   {
     "name": "Queen Battle (Original)",
@@ -1560,7 +1560,7 @@
     "category": [
       "Bonus Tracks"
     ],
-    "requires": "|Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
+    "requires": "|Chapter 2| AND |Cyber Field Key| AND |Cyber City Key| AND |Mansion Key|"
   },
   {
     "name": "dogcheck.ogg",
@@ -1593,7 +1593,7 @@
       "Fan Track",
       "Chapter 4"
     ],
-    "requires": "|Chapter 4|"
+    "requires": "|Chapter 4| AND |Dark Sanctuary Key| AND |Second Sanctuary Key|"
   },
   {
     "name": "CATCH EM' ALL (Pokerune) by REASAN",
@@ -1602,7 +1602,7 @@
       "Fan Track",
       "Chapter 3"
     ],
-    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+    "requires": "|Chapter 3| AND |Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
   },
   {
     "name": "Fight Against The Knight, Who Likes Roaring - SMRPG by Rolobi",
@@ -1611,7 +1611,7 @@
       "Fan Track",
       "Chapter 3"
     ],
-    "requires": "|Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
+    "requires": "|Chapter 3| AND |Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
   },
   {
     "name": "FORGET ME NOT V3 by JustStereo & xyz",
@@ -1620,7 +1620,7 @@
       "Fan Track",
       "Chapter 4"
     ],
-    "requires": ""
+    "requires": "|Chapter 4| AND |Dark Sanctuary Key| AND |Second Sanctuary Key|"
   },
   {
     "name": "FRIENDS 'TIL DEATH by Ann",
@@ -1629,7 +1629,7 @@
       "Fan Track",
       "Chapter 4"
     ],
-    "requires": ""
+    "requires": "|Chapter 4| AND |Dark Sanctuary Key| AND |Second Sanctuary Key|"
   },
   {
     "name": "FUN VALUE by FAZZY",
@@ -1638,7 +1638,7 @@
       "Fan Track",
       "Chapter 4"
     ],
-    "requires": ""
+    "requires": "|Chapter 4| AND |Dark Sanctuary Key| AND |Second Sanctuary Key|"
   },
   {
     "name": "FRIEND INSIDE ME Last Rodeo Mix!~ by shadowkristal",
@@ -1647,7 +1647,7 @@
       "Fan Track",
       "Chapter 3"
     ],
-    "requires": ""
+    "requires": "|Chapter 3| AND |Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
   },
   {
     "name": "There's no Friend without End by Atticted",
@@ -1656,7 +1656,7 @@
       "Fan Track",
       "Chapter 3"
     ],
-    "requires": ""
+    "requires": "|Chapter 3| AND |Desert Board Key| AND |Island Board Key| AND |Third Board Key|"
   },
   {
     "name": "TWISTED by Leafcodes",
@@ -1665,7 +1665,7 @@
       "Fan Track",
       "Chapter 3"
     ],
-    "requires": "|Desert Board Key| AND |S-Rank Room Key| AND |Island Board Key| AND |Third Board Key|"
+    "requires": "|Chapter 3| AND |Desert Board Key| AND |S-Rank Room Key| AND |Island Board Key| AND |Third Board Key|"
   },
   {
     "name": "MIND BLOWN by Lunaxis",
@@ -1673,7 +1673,7 @@
     "category": [
       "Fan Track"
     ],
-    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+    "requires": "|Chapter 1| AND |Fields Key| AND |Forest Key| AND |Castle Key|"
   },
   {
     "name": "Nightmare Knight by Toby Fox",
@@ -1681,7 +1681,7 @@
     "category": [
       "Fan Track"
     ],
-    "requires": "|Fields Key| AND |Forest Key| AND |Castle Key|"
+    "requires": "|Chapter 1| AND |Fields Key| AND |Forest Key| AND |Castle Key|"
   },
   {
     "name": "THORN KING by cianeatsgrass",
@@ -1690,7 +1690,7 @@
       "Fan Track",
       "Chapter 4"
     ],
-    "requires": "|Dark Sanctuary Key| AND |Second Sanctuary Key| AND |Third Sanctuary Key|"
+    "requires": "|Chapter 4| AND |Dark Sanctuary Key| AND |Second Sanctuary Key|"
   },
   {
     "name": "YOUR DONKEY TOO KONG (A DARK ZONE but DK64) by Arkhand",
@@ -1699,7 +1699,7 @@
       "Fan Track",
       "Chapter 4"
     ],
-    "requires": "|Dark Sanctuary Key|"
+    "requires": "|Chapter 4| AND |Dark Sanctuary Key|"
   },
   {
     "name": "PLUG AND PRAY by Lunaxis",
@@ -1708,7 +1708,7 @@
       "Fan Track",
       "Chapter 3"
     ],
-    "requires": "|Desert Board Key| AND |S-Rank Room Key|"
+    "requires": "|Chapter 3| AND |Desert Board Key| AND |S-Rank Room Key|"
   },
   {
     "name": "NOW'S YOUR CHANCE TO BE A [raz-mix] by raspmary",
@@ -1716,6 +1716,6 @@
     "category": [
       "Fan Track"
     ],
-    "requires": "|Cyber Field Key| AND |Cyber City Key|"
+    "requires": "|Chapter 2| AND |Cyber Field Key| AND |Cyber City Key|"
   }
 ]
