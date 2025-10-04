@@ -9,7 +9,7 @@
   },
   {
     "name": "ANOTHER HIM",
-    "region": "Menu",
+    "region": "Sphere 1",
     "category": [
       "Sphere 1"
     ],
@@ -17,7 +17,7 @@
   },
   {
     "name": "Beginning",
-    "region": "Menu",
+    "region": "Sphere 1",
     "category": [
       "Sphere 1"
     ],
@@ -25,7 +25,7 @@
   },
   {
     "name": "School",
-    "region": "Menu",
+    "region": "Sphere 1",
     "category": [
       "Sphere 1"
     ],
@@ -33,7 +33,7 @@
   },
   {
     "name": "Susie",
-    "region": "Menu",
+    "region": "Sphere 1",
     "category": [
       "Sphere 1"
     ],
