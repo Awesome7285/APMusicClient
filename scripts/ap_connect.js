@@ -4,6 +4,7 @@ let data_package;
 let checked_locations;
 let locations;
 let regions;
+let victory;
 let ap_host;
 let ap_slot;
 let ap_game = document.getElementById("ap-game").value;

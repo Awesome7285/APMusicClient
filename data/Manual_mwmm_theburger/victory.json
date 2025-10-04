@@ -1,8 +1,0 @@
-{
-    "name": "Listen to your favorite song :)",
-    "victory": true,
-    "category": [
-      "Goal"
-    ],
-    "requires": "{victory_rule()} AND |@Goal MacGuffin:1| "
-}

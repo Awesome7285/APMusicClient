@@ -10,6 +10,15 @@ function doConnect() {
     currentSong = null;
     queue = [];
 
+    // Find the victory
+    locations.forEach(location => {
+        if (location["victory"]) {
+            victory = location;
+            locations.splice(location, 1);
+            return;
+        }
+    });
+
     // Meta
     colon_names = meta["colon_names"];
     album_type_name = meta["album_type_name"];

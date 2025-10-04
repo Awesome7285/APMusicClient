@@ -7612,5 +7612,10 @@
         ],
         "region": "Forbidden Scrollery",
         "original_name": "兎は舞い降りた"
+    },
+    {
+        "name": "Victory",
+        "requires": "|Final Boss Completed:30|",
+        "victory": true
     }
 ]
