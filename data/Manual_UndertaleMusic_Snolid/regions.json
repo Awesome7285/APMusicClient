@@ -1,0 +1,26 @@
+{
+  "Sphere 1": {
+    "requires": []
+  },
+  "Ruins": {
+    "requires": "|Ruins|"
+  },
+  "Snowdin": {
+    "requires": "|Snowdin|"
+  },
+  "Waterfall": {
+    "requires": "|Waterfall|"
+  },
+  "Hotland": {
+    "requires": "|Hotland|"
+  },
+  "CORE": {
+    "requires": "|CORE|"
+  },
+  "True Lab": {
+    "requires": "|True Lab|"
+  },
+  "New Home": {
+    "requires": "|New Home|"
+  }
+}
