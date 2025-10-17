@@ -74,7 +74,7 @@ function showSongs(album) {
         const cell = document.createElement('td');
         cell.textContent = location_to_track_name(song['name']);
         cell.className = "track-row";
-        cell.id = song["name"];
+        cell.id = song["name"] + "song-button";
         const queue = document.createElement('td');
         queue.textContent = "+1";
         queue.className = "track-row-queue";
@@ -147,7 +147,7 @@ function showSongs(album) {
 
 function selectSong(song) {
     selectedSong = song;
-    var selectedSongElement = document.getElementById(song['name']);
+    var selectedSongElement = document.getElementById(song['name'] + "song-button");
     document.querySelectorAll(".track-row").forEach(btn => btn.style.background = "");
     selectedSongElement.style.background = "#ccc";
 }
