@@ -24,12 +24,14 @@
             <label>Slot Name: </label><input id="ap-slot" value="Player1">
         </div>
         <div class="a-row">
-            <label>Game: </label><select id="ap-game" value="Manual_THMusic_Awesome7285">
-                <option>Manual_THMusic_Awesome7285</option>
-                <option>Manual_mwmm_theburger</option>
-                <option>Manual_DeltaruneMusic_Snolid</option>
-                <option>Manual_TaylorSwiftDiscography_bennydreamly</option>
-            </select>
+            <label>Game: </label><input type="text" id="ap-game" value="Manual_THMusic_Awesome7285" list="gamename">
+                <datalist id="gamename">
+                    <option value="Manual_THMusic_Awesome7285"></option>
+                    <option value="Manual_mwmm_theburger"></option>
+                    <option value="Manual_UndertaleMusic_Snolid"></option>
+                    <option value="Manual_DeltaruneMusic_Snolid"></option>
+                    <option value="Manual_TaylorSwiftDiscography_bennydreamly"></option>
+                </datalist>
         </div>
         <button onclick="ap_connect()">Connect</button>
         <p></p>
