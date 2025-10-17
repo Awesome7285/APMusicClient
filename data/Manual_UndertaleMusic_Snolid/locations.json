@@ -1,0 +1,1196 @@
+[
+  {
+    "name": "U win undertale lol",
+    "victory": true,
+    "category": [
+      "Win"
+    ],
+    "requires": "|SOUL:7| AND |Ruins| AND |Snowdin| AND |Waterfall| AND |Hotland| AND |CORE| AND |True Lab| AND |New Home|"
+  },
+  {
+    "name": "Once Upon a Time",
+    "category": [
+      "Sphere 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Start Menu",
+    "category": [
+      "Sphere 1"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Your Best Friend",
+    "region": "Ruins",
+    "category": [
+      "Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fallen Down",
+    "region": "Ruins",
+    "category": [
+      "Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ruins",
+    "region": "Ruins",
+    "category": [
+      "Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Ruins",
+    "name": "Uwa!! So Temperate",
+    "category": [
+      "Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Ruins",
+    "name": "Anticipation",
+    "category": [
+      "Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Ruins",
+    "name": "Unnecessary Tension",
+    "category": [
+      "Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Enemy Approaching",
+    "region": "Ruins",
+    "category": [
+      "Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ghost Fight",
+    "region": "Ruins",
+    "category": [
+      "Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Determination",
+    "region": "Ruins",
+    "category": [
+      "Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Home (Music Box)",
+    "region": "Ruins",
+    "category": [
+      "Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Heartache",
+    "region": "Ruins",
+    "category": [
+      "Ruins"
+    ],
+    "requires": []
+  },
+  {
+    "name": "sans.",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nyeh Heh Heh!",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Snowy",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Uwa!! So Holiday",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dogbass",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mysterious Place",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Snowdin",
+    "name": "Dogsong",
+    "category": [
+      "Snowdin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Snowdin Town",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shop",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bonetrousle",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dating Start!",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dating Tense!",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dating Fight!",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Premonition",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Danger Mystery",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Undyne",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Waterfall",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Run!",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Quiet Water",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Memory",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bird That Carries You Over A Disproportionately Small Gap",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dummy!",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pathetic House",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spooktune",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spookwave",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ghouliday",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chill",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Thundersnail",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Temmie Village",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tem Shop",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "NGAHHH!!",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spear of Justice",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ooo",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Alphys",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "It's Showtime!",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Metal Crusher",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Another Medium",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Uwa!! So HEATS!!",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Stronger Monsters",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hotel",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Confession",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Live Report",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Death Report",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Spider Dance",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Wrong Enemy !?",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oh! One True Love",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oh! Dungeon",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "It's Raining Somewhere Else",
+    "region": "Hotland",
+    "category": [
+      "Hotland"
+    ],
+    "requires": []
+  },
+  {
+    "name": "CORE Approach",
+    "region": "CORE",
+    "category": [
+      "CORE"
+    ],
+    "requires": []
+  },
+  {
+    "name": "CORE",
+    "region": "CORE",
+    "category": [
+      "CORE"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Last Episode!",
+    "region": "CORE",
+    "category": [
+      "CORE"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Oh My...",
+    "region": "CORE",
+    "category": [
+      "CORE"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Death by Glamour",
+    "region": "CORE",
+    "category": [
+      "CORE"
+    ],
+    "requires": []
+  },
+  {
+    "name": "For the Fans",
+    "region": "CORE",
+    "category": [
+      "CORE"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Long Elevator",
+    "region": "CORE",
+    "category": [
+      "CORE"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Undertale",
+    "region": "New Home",
+    "category": [
+      "New Home"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Song That Might Play When You Fight Sans",
+    "region": "New Home",
+    "category": [
+      "New Home"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Choice",
+    "region": "New Home",
+    "category": [
+      "New Home"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Small Shock",
+    "region": "New Home",
+    "category": [
+      "New Home"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Barrier",
+    "region": "New Home",
+    "category": [
+      "New Home"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bergentruckung",
+    "region": "New Home",
+    "category": [
+      "New Home"
+    ],
+    "requires": []
+  },
+  {
+    "name": "ASGORE",
+    "region": "New Home",
+    "category": [
+      "New Home"
+    ],
+    "requires": []
+  },
+  {
+    "name": "You Idiot",
+    "region": "New Home",
+    "category": [
+      "New Home"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Your Best Nightmare",
+    "region": "New Home",
+    "category": [
+      "New Home"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Finale",
+    "region": "New Home",
+    "category": [
+      "New Home"
+    ],
+    "requires": []
+  },
+  {
+    "name": "An Ending",
+    "region": "New Home",
+    "category": [
+      "New Home"
+    ],
+    "requires": []
+  },
+  {
+    "name": "She's Playing Piano",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Here We Are",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Amalgam",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fallen Down (Reprise)",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Don't Give Up",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hopes and Dreams",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Burn in Despair!",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "SAVE the World",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "His Theme",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Final Power",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Reunited",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Menu (Full)",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Respite",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bring It In, Guys!",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Last Goodbye",
+    "region": "True Lab",
+    "category": [
+      "True Lab"
+    ],
+    "requires": []
+  },
+  {
+    "name": "But the Earth Refused to Die",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Battle Against a True Hero",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Power of \"NEO\"",
+    "region": "CORE",
+    "category": [
+      "CORE"
+    ],
+    "requires": []
+  },
+  {
+    "name": "MEGALOVANIA",
+    "region": "New Home",
+    "category": [
+      "New Home"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Good Night",
+    "region": "New Home",
+    "category": [
+      "New Home"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bereavement",
+    "region": "New Home",
+    "category": [
+      "New Home",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Dog Casino",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Song That Plays When Somebody Verses Sans",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Dog Dating",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Dogtroid",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Dance of Dog",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Sigh of Dog",
+    "category": [
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Room of Dog",
+    "region": "True Lab",
+    "category": [
+      "True Lab",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Doghole",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Strongerer Monsters",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Ultranap",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Absolutely Overfamiliar Shrine",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Mysterious Shrine",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "School",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Pseudo Legendary Tree",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Mad Mew Mew",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "whats up",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Underwater Town",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Snowed In Jazz",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Star",
+    "region": "CORE",
+    "category": [
+      "CORE",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Meat Factory",
+    "region": "CORE",
+    "category": [
+      "CORE",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Happy Town",
+    "region": "CORE",
+    "category": [
+      "CORE",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Trouble Dingle",
+    "region": "CORE",
+    "category": [
+      "CORE",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Gaster's Theme",
+    "region": "CORE",
+    "category": [
+      "CORE",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "abc_123_a",
+    "region": "CORE",
+    "category": [
+      "CORE",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "mus_smile",
+    "region": "CORE",
+    "category": [
+      "CORE",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Abandoned Town",
+    "region": "Ruins",
+    "category": [
+      "Ruins",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Wrong Number Remix",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "The Wrong Number Song",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Dating Start (FM Version)",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Undertale (Unused)",
+    "region": "New Home",
+    "category": [
+      "New Home",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Bonetrousle (Trailer Version)",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Snowdrift",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Memory (10 Years Later)",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "grandpasemi",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Determination (Unused)",
+    "region": "Ruins",
+    "category": [
+      "Ruins",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Ruins (Unused)",
+    "region": "Ruins",
+    "category": [
+      "Ruins",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Alphys Lab (Unused)",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Undyne Battle (Unused)",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Patient",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Bonus Tracks"
+    ],
+    "requires": "|Bonus Tracks|"
+  },
+  {
+    "name": "Truer Than Fiction by Sean Evans ~ Lone",
+    "region": "CORE",
+    "category": [
+      "CORE",
+      "Fan Tracks"
+    ],
+    "requires": "|Fan Tracks|"
+  },
+  {
+    "name": "Stronger Than You (Undertale Animation Parody) by alfa995",
+    "region": "New Home",
+    "category": [
+      "New Home",
+      "Fan Tracks"
+    ],
+    "requires": "|Fan Tracks|"
+  },
+  {
+    "name": "UNDERTALE THE MUSICAL - Animation Song Parody by LHUGUENY",
+    "region": "Ruins",
+    "category": [
+      "Ruins",
+      "Fan Tracks"
+    ],
+    "requires": "|Fan Tracks|"
+  },
+  {
+    "name": "To The Bone (2016 Remastered) by JT Music",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Fan Tracks"
+    ],
+    "requires": "|Fan Tracks|"
+  }
+]

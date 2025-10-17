@@ -1,0 +1,156 @@
+[
+  {
+    "count": 1,
+    "name": "Ruins",
+    "category": [
+      "Area"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Snowdin",
+    "category": [
+      "Area"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Waterfall",
+    "category": [
+      "Area"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hotland",
+    "category": [
+      "Area"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "CORE",
+    "category": [
+      "Area"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "New Home",
+    "category": [
+      "Area"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "True Lab",
+    "category": [
+      "Area"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Listen Wrong Number Song Trap",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Listen Ooo Trap",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Pause for 30 sec trap",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Gaster Trap (Reset your song)",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "SiIvagunner Trap",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Listen to a Undertale AU song Trap",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Listen to a Undertale song but its 1 beat only Trap",
+    "category": [
+      "Trap"
+    ],
+    "trap": true
+  },
+    {
+    "count": 5,
+    "name": "Dog Residue",
+    "category": [
+      "Filler"
+    ],
+    "trap": true
+  },
+  {
+    "count": "5",
+    "name": "Song Skip",
+    "category": [
+      "Skip"
+    ],
+    "useful": true
+  },
+  {
+    "count": "10",
+    "name": "SOUL",
+    "category": [
+      "Win"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bonus Tracks",
+    "category": [
+      "Area",
+      "Bonus Tracks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fan Tracks",
+    "category": [
+      "Area",
+      "Fan Tracks"
+    ],
+    "progression": true
+  }
+]
