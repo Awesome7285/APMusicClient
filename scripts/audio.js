@@ -68,24 +68,50 @@ function update_track_info(song) {
     const trackInfoJP = document.getElementById('info-text-bottom');
     // const trackInfoComposer = document.getElementById('info-text-composer');
 
-    songDir = get_track_directory(song);
+    get_track_directory(song).then(songDir => {
+        audio.src = songDir;
+        audio.autoplay = true;
+    });
 
     trackInfoGame.textContent = `${song['region']}`;
     trackInfoEN.textContent = `${location_to_track_name(song['name'])}`;
     trackInfoJP.textContent = `${song['original_name']}`;
     // trackInfoComposer.textContent = `${song['composer']}`;
-
-    audio.src = songDir;
-    audio.autoplay = true;
 }
 
-function get_track_directory(song) {
-    filename = song['original_name'] ?? song['name']
+async function get_track_directory(song) {
+    let filename = song['original_name'] ?? song['name']
     filename = filename.replace(/[<>:"\/\\|?*]+/g, "");
-    if (!filename.endsWith(".ogg")) {
-        filename += ".mp3"
+    const region = song.region.replace(/[<>:"\/\\|?*]+/g, "");
+
+    const basePath = `./../audio/${ap_game}/${region}/${filename}`;
+
+    // If the location name includes the filename (ogg) then just return
+    if (filename.toLowerCase().endsWith(".ogg")) {
+        return basePath;
     }
-    return `./../audio/${ap_game}/${song['region'].replace(/[<>:"\/\\|?*]+/g, "")}/${filename}`;
+
+    const extensions = [".mp3", ".wav", ".flac", ".m4a", ".aac"];
+
+    // Check which one actually exists
+    for (const ext of extensions) {
+        const testPath = basePath.endsWith(ext) ? basePath : basePath + ext;
+        const exists = await fileExists(testPath);
+        if (exists) return testPath;
+    }
+
+    // Default if all fails
+    return basePath + ".mp3";
+}
+
+// helper function for browsers
+async function fileExists(url) {
+    try {
+        const res = await fetch(url, { method: "HEAD" });
+        return res.ok;
+    } catch {
+        return false;
+    }
 }
 
 audio.addEventListener("ended", (event) => {
