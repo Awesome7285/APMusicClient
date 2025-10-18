@@ -836,6 +836,7 @@
   },
   {
     "name": "Dog Dating",
+    "region": "Sphere 1",
     "category": [
       "Bonus Tracks"
     ],
@@ -843,6 +844,7 @@
   },
   {
     "name": "Dogtroid",
+    "region": "Sphere 1",
     "category": [
       "Bonus Tracks"
     ],
@@ -850,6 +852,7 @@
   },
   {
     "name": "Dance of Dog",
+    "region": "Sphere 1",
     "category": [
       "Bonus Tracks"
     ],
@@ -857,6 +860,7 @@
   },
   {
     "name": "Sigh of Dog",
+    "region": "Sphere 1",
     "category": [
       "Bonus Tracks"
     ],
