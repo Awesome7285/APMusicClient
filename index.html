@@ -55,8 +55,10 @@
         <div>
             <!-- <button onclick="choose_track(-1)">Prev Song</button> -->
             <button onclick="audio.currentTime = 0; audio.play;">Replay Song</button>
+            <button onclick="nextInQueue();">Next in Queue</button>
+        </div>
+        <div>
             <button onclick="sendLocation();">Debug: Send Location</button>
-            <!-- <button onclick="choose_track(1);">Next Song</button> -->
         </div>
         <!-- <button class="top-button-enabled" id="shuffle" onclick="modeSelectPress('shuffle'); shuffle_mode = !shuffle_mode;">Shuffle</button> -->
         <script type="text/javascript" src="scripts/audio.js"></script>
