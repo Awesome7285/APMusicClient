@@ -5,6 +5,7 @@ You can learn more about Manual [here](https://github.com/ManualForArchipelago/M
 
 ### Currently Supported Manuals
 - Touhou Official OST ([Manual_THMusic_Awesome7285](https://github.com/Awesome7285/manual_thmusic_awesome7285))
+- Undertale OST ([Manual_UndertaleMusic_Snolid](https://github.com/SnolidIce/manual_undertalemusic_snolid))
 - Deltarune OST ([Manual_DeltaruneMusic_Snolid](https://github.com/SnolidIce/manual_deltarunemusic_snolid))
 - Mashup Week: Megamix ([Manual_mwmm_theburger](https://github.com/TheBurgerTV2/Mashup-Week-Megamix-Manual-for-AP))
 - Taylor Swift Discography ([Manual_TaylorSwiftDiscography_bennydreamly](https://github.com/benny-dreamly/Manuals/releases?q=TS&expanded=true))
