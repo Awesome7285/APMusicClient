@@ -3146,7 +3146,7 @@
   },
   {
     "name": "Keep the Crazy Groovin'",
-    "region": "Pre-Bracket",
+    "region": "Round 1",
     "category": [
       "River City Girls"
     ],
@@ -3159,15 +3159,6 @@
       "River City Girls"
     ],
     "requires": "|River City Girls|"
-  },
-  {
-    "name": "Tama City Anthem",
-    "region": "Winners Round 2",
-    "category": [
-      "River City Girls",
-      "Lofi Girl"
-    ],
-    "requires": "|River City Girls| AND |Lofi Girl|"
   },
   {
     "name": "Whose World Is It?",
