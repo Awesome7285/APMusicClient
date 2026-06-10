@@ -67,9 +67,10 @@ function update_track_info(song) {
     const trackInfoEN = document.getElementById('info-text');
     const trackInfoJP = document.getElementById('info-text-bottom');
     // const trackInfoComposer = document.getElementById('info-text-composer');
+    const requirements = document.getElementById('requirement-images');
 
     get_track_directory(song).then(songDir => {
-        audio.src = songDir;
+        audio.src = locations[song_index]["url"] ?? songDir;
         audio.autoplay = true;
     });
 
@@ -77,6 +78,15 @@ function update_track_info(song) {
     trackInfoEN.textContent = `${location_to_track_name(song['name'])}`;
     trackInfoJP.textContent = `${song['original_name']}`;
     // trackInfoComposer.textContent = `${song['composer']}`;
+
+    // Show the current song's requirements
+    requirements.innerHTML = "";
+    let requirementsDict = locationGetRequirements(song['name']);
+    let bad = {}; let bad2 = `${song['region']}`; bad[bad2] = 1;
+    requirementsDict = {...bad, ...requirementsDict}
+    console.log(requirementsDict)
+    const requirements_container = addRequirementImages(requirementsDict);
+    requirements.appendChild(requirements_container);
 }
 
 async function get_track_directory(song) {

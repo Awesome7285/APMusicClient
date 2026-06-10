@@ -1,12 +1,15 @@
 const songList = document.getElementById('song-list');
 const albumList = document.getElementById('album-list');
 var selectedSong = null;
+var cachedLogic = {};
+var poptrackerColors = ["#333333", "#00ff00", "#cc0000", "#006400"]
 
 // Open the modal
 function openModal() {
     document.getElementById('modalOverlay').style.display = 'flex';
     get_enabled_games();
     selectedSong = null;
+    cachedLogic = {};
 }
 
 // Close the modal
@@ -32,6 +35,32 @@ function get_enabled_games() {
     
     // Create game option
     Object.keys(regions).forEach(album => {
+        // Cache Logic
+        cachedLogic[album] = 0
+        locations.forEach(song => {
+            if (song["region"] != album) {
+                return;
+            }
+
+            let location = song["name"];
+            let requirements = locationGetRequirements(location);
+            // 0 means grey, 0b01 means green, 0b10 means red
+            if (!checked_locations.includes(data_package["location_name_to_id"][location])) {
+                if (requirementsIsInLogic(requirements)) {
+                    // Green
+                    cachedLogic[album] = cachedLogic[album] | 1
+                } else {
+                    // Red
+                    cachedLogic[album] = cachedLogic[album] | 2
+                }
+            } else {
+                // Grey
+                cachedLogic[album] = cachedLogic[album] | 0
+            }
+            
+        })
+
+        // Actually make the modal
         const row = document.createElement('tr');
         const cell = document.createElement('td');
         cell.textContent = album;
@@ -39,6 +68,8 @@ function get_enabled_games() {
         const img = document.createElement('img');
         const img_container = document.createElement('div');
         img_container.className = "modal-item";
+        const logic_square = document.createElement('div');
+        logic_square.className = "poptracker-square";
         
         // AP Check
         item_obtained = document.getElementById(regionGetRequirements(album));
@@ -48,9 +79,11 @@ function get_enabled_games() {
             if (item_obtained.className == "charImageObtained") {
                 row.addEventListener('click', () => showSongs(album));
                 img.className = "charImageObtained";
+                logic_square.style.backgroundColor = poptrackerColors[cachedLogic[album]];
             } else {
                 cell.style = "color: red; cursor: not-allowed;"
                 img.className = "charImage";
+                logic_square.style.backgroundColor = poptrackerColors[2];
             }
 
             img_container.appendChild(img);
@@ -58,10 +91,14 @@ function get_enabled_games() {
             row.addEventListener('click', () => showSongs(album));
         }
 
+        row.appendChild(logic_square);
         row.appendChild(cell);
         row.appendChild(img_container);
         albumList.appendChild(row);
+
+        
     })
+    console.log(cachedLogic)
 }
 
 function showSongs(album) {
@@ -99,50 +136,58 @@ function showSongs(album) {
         }
 
         row.appendChild(cell);
+
         // Add Images
-        const requirements_container = document.createElement('div');
-        requirements_container.id = "requirements-container";
-        Object.keys(flattenRequirements(requirements)).forEach(item => {
-            const img = document.createElement('img');
-            const img_container = document.createElement('div');
-
-            let amount = requirements[item];
-
-            // Item Amount
-            const count = document.createElement("span");
-            count.textContent = amount;
-            count.style = "display: block;";
-            count.className = "item-count";
-
-            item_tracker = document.getElementById(item);
-            img.src = item_tracker.src;
-            img_container.className = "modal-item";
-            var js_stupidity = {};
-            js_stupidity[item] = amount;
-            if (requirementsIsInLogic(js_stupidity)) {
-                img.className = "charImageObtained";
-                img.title = item + "\n(Obtained)";
-            } else {
-                img.className = "charImage";
-                img.title = item + "\n(Unobtained)";
-            }
-
-            
-
-            // Add
-            img_container.appendChild(img);
-            if (amount > 1) { 
-                img_container.appendChild(count);
-                img.title += "\nRequires: " + amount;
-            }
-            requirements_container.appendChild(img_container);
-        })
+        const requirements_container = addRequirementImages(requirements)
         
-        requirements_container.style = "width: " + (40 * requirements_container.childElementCount);
         row.appendChild(requirements_container);
         row.appendChild(queue);
         songList.appendChild(row);
     });
+}
+
+function addRequirementImages(requirements) {
+    // Add Images
+    const requirements_container = document.createElement('div');
+    requirements_container.id = "requirements-container";
+    Object.keys(flattenRequirements(requirements)).forEach(item => {
+        const img = document.createElement('img');
+        const img_container = document.createElement('div');
+
+        let amount = requirements[item];
+
+        // Item Amount
+        const count = document.createElement("span");
+        count.textContent = amount;
+        count.style = "display: block;";
+        count.className = "item-count";
+
+        item_tracker = document.getElementById(item);
+        img.src = item_tracker.src;
+        img_container.className = "modal-item";
+        var js_stupidity = {};
+        js_stupidity[item] = amount;
+        if (requirementsIsInLogic(js_stupidity)) {
+            img.className = "charImageObtained";
+            img.title = item + "\n(Obtained)";
+        } else {
+            img.className = "charImage";
+            img.title = item + "\n(Unobtained)";
+        }
+
+        
+
+        // Add
+        img_container.appendChild(img);
+        if (amount > 1) { 
+            img_container.appendChild(count);
+            img.title += "\nRequires: " + amount;
+        }
+        requirements_container.appendChild(img_container);
+    })
+    
+    requirements_container.style = "width: " + (40 * requirements_container.childElementCount);
+    return requirements_container
 }
 
 function selectSong(song) {

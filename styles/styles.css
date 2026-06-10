@@ -89,6 +89,13 @@ td:hover {
     background-color: #f0f0f0;
 }
 
+.poptracker-square {
+    width: 25px; 
+    height: 25px; 
+    background-color: #ffffff; 
+    border: 2px solid #000000;
+}
+
 /* Queue */
 #queue-text {
     position: fixed;

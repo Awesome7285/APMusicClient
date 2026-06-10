@@ -8,6 +8,7 @@ let victory;
 let ap_host;
 let ap_slot;
 let ap_game = document.getElementById("ap-game").value;
+let uuid = crypto.randomUUID();
 let connected = false;
 
 // Meta Stuff
@@ -50,10 +51,10 @@ function ap_connect() {
             socket.send(JSON.stringify([{
                 cmd: "Connect",
                 game: ap_game,
-                uuid: crypto.randomUUID(),
+                uuid: uuid,
                 name: ap_slot,
                 password: null,
-                version: { major: 0, minor: 6, build: 3, class: "Version"},
+                version: { major: 0, minor: 6, build: 6, class: "Version"},
                 tags: tags,
                 items_handling: 7,
                 slot_data: false
@@ -62,6 +63,9 @@ function ap_connect() {
                 cmd: "Sync",
             }]))
             // REMAKE TRACKER
+            if (ap_game === "Manual_TouhouMusicDEMO_Awesome7285") {
+                ap_game = "Manual_THMusic_Awesome7285" //TEMP
+            }
             connected = true;
             createTracker();
             doConnect();
@@ -85,6 +89,11 @@ function ap_connect() {
         console.log("Disconnected:", event);
         connected = false;
     });
+}
+
+function ap_disconnect() {
+    socket.close()
+    connected = false;
 }
 
 // Return the Track name from the location with the album name in consideration
@@ -260,4 +269,19 @@ function requirementsIsInLogicOR(requirements) {
         yes = yes || (item_tracker.className === "charImageObtained") && (document.getElementById(item+"-count").textContent >= amount);
     })
     return yes;
+}
+
+//
+function send_victory() {
+    if (connected) {
+
+        socket.send(JSON.stringify([{
+            cmd: "StatusUpdate",
+            status: 30
+        }]));
+
+        
+    } else {
+        console.log("No AP Connection.")
+    }
 }
