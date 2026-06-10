@@ -1,5 +1,4 @@
 var rings = 0;
-const ring_send_amount = document.getElementById("ring-send-amount")
 const ring_send_button = document.getElementById("ring-send")
 const ring_received_text = document.getElementById("ring-received-text")
 const ring_count_text = document.getElementById("ring-count-text")
@@ -31,14 +30,15 @@ function receivedDeathLink(packet) {
     }, 5000);
 }
 
-function sendRingLink() {
+function sendRingLink(element) {
+    const ring_send_amount = document.getElementById(element)
     console.log(ring_send_amount.value)
     socket.send(JSON.stringify([{
         cmd: "Bounce",
         tags: ["RingLink"],
         data: {
             amount: ring_send_amount.value * 1,
-            source: "Ringlink Webclient",
+            source: Math.trunc(generateHash(uuid)/10000000000),
             time: Date.now()
         }
     }]));
@@ -50,7 +50,7 @@ function sendDeathLink() {
         tags: ["DeathLink"],
         data: {
             cause: `${ap_slot} decided to die. RIP.`,
-            source: "Ringlink Webclient",
+            source: ap_slot,
             time: Date.now()
         }
     }]));
@@ -59,6 +59,11 @@ function sendDeathLink() {
 function cheatSendLocation() {
     if (connected) {
         location_name = document.getElementById("location-text").value
+
+        // Victory
+        // if (location_name == "Victory") {
+        //     socket.send(JSON.stringify([{"cmd": "StatusUpdate", "status": ClientStatus.CLIENT_GOAL}]))
+        // }
 
         locs_to_send = [data_package["location_name_to_id"][location_name]]
         socket.send(JSON.stringify([{
@@ -74,3 +79,33 @@ function cheatSendLocation() {
         console.log("No AP Connection.")
     }
 }
+
+function cheatSendHint() {
+    if (connected) {
+        location_name = document.getElementById("hint-text").value
+
+        locs_to_send = [data_package["location_name_to_id"][location_name]]
+
+        packet = {
+            cmd: "LocationScouts",
+            locations: locs_to_send,
+            create_as_hint: 2
+        }
+
+        console.log(packet)
+
+        socket.send(JSON.stringify([packet]));
+        
+    } else {
+        console.log("No AP Connection.")
+    }
+}
+
+const generateHash = (string) => {
+    let hash = 0;
+    for (const char of string) {
+        hash = (hash << 5) - hash + char.charCodeAt(0);
+        hash |= 0; // Constrain to 32bit integer
+    }
+    return hash;
+};

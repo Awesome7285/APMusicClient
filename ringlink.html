@@ -38,13 +38,16 @@
 
         <div id="ringlink-bullshit">
             <div>Your Ring Count: <input id="ring-count-text" value="0" style="width: 50px"><input type="checkbox" id="allow-negative">Allow Negative</radio></div>
-            <div>Send <input id="ring-send-amount" style="width: 50px"> Rings <button id="ring-send" onclick="sendRingLink();">Send -></button></div>
+            <div>Send <input id="ring-send-amount" style="width: 50px"> Rings <button id="ring-send" onclick="sendRingLink('ring-send-amount');">Send -></button></div>
+            <div>Send <input id="ring-send-amount-2" style="width: 50px"> Rings <button id="ring-send" onclick="sendRingLink('ring-send-amount-2');">Send -></button></div>
             <div id="ring-received-text">Received x Rings</div>
             <div>Send Death Link <button id="death-send" onclick="sendDeathLink();">Send -></button></div>
             <div id="death-received-text">You are safe...</div>
             <script type="text/javascript" src="scripts/ringlink.js"></script>
             <br>
             <div>Send Location: <input id="location-text" style="width: 200px"><button id="location-send" onclick="cheatSendLocation();">Send -></button></div>
+            <div>Send Hint Location: <input id="hint-text" style="width: 200px"><button id="hint-send" onclick="cheatSendHint();">Send -></button></div>
+            <div><button id="Victory" onclick="send_victory();">Victory</button></div>
 
         </div>
     </div>
