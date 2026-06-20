@@ -1,5 +1,10 @@
 [
     {
+        "name": "Victory",
+        "requires": "|Final Boss Completed:30|",
+        "victory": true
+    },
+    {
         "name": "HRtP: A Sacred Lot",
         "requires": "",
         "category": [
@@ -8448,10 +8453,5 @@
         "region": "Forbidden Scrollery",
         "original_name": "兎は舞い降りた",
         "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-suzunaan-forbidden-scrollery-vol6-special-edition-music-track-2016/ijuvwwrs/03.%20%E5%85%8E%E3%81%AF%E8%88%9E%E3%81%84%E9%99%8D%E3%82%8A%E3%81%9F.mp3"
-    },
-    {
-        "name": "Victory",
-        "requires": "|Final Boss Completed:30|",
-        "victory": true
     }
 ]

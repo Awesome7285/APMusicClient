@@ -132,6 +132,9 @@ td:hover {
     display: flex;
     flex-direction: column;
 }
+.ap-game {
+    width: 300px;
+}
 
 /* Tracker */
 .tracker-item, .modal-item {
