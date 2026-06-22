@@ -74,7 +74,7 @@ function get_enabled_games() {
         // AP Check
         item_obtained = document.getElementById(regionGetRequirements(album));
         if (item_obtained !== null) {
-            img.src = `./../tracker/${ap_game}/${album_type_name}/${item_obtained.id.replace(/[":]+/g, "")}.png`;
+            img.src = `./../tracker/${album_type_name}/${item_obtained.id.replace(/[":]+/g, "")}.png`;
             
             if (item_obtained.className == "charImageObtained") {
                 row.addEventListener('click', () => showSongs(album));

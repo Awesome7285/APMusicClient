@@ -77,6 +77,11 @@ function update_track_info(song) {
     trackInfoGame.textContent = `${song['region']}`;
     trackInfoEN.textContent = `${location_to_track_name(song['name'])}`;
     trackInfoJP.textContent = `${song['original_name']}`;
+    if (trackInfoJP.textContent === "undefined") {
+        document.getElementById("info-text-bottom").style = "visibility: hidden;"
+    } else {
+        document.getElementById("info-text-bottom").style = "visibility: visible;"
+    }
     // trackInfoComposer.textContent = `${song['composer']}`;
 
     // Show the current song's requirements

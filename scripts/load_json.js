@@ -10,5 +10,5 @@ function load_json_sync(file) {
     } else {
         console.error("Error loading JSON:", request.status);
     }
-    return data
+    return data;
 }

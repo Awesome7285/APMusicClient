@@ -1,21 +1,31 @@
 function createTracker() {
     // Load items from items.json
-    let items = load_json_sync(`./../data/${ap_game}/items.json`);
-    let categories = {};
-    let category_order = [];
+    let items = load_json_sync(`./../data/items.json`);
+
+    let categories = {"Album": []};
+    let category_order = ["Album"];
+    slot_data.enabled_albums.forEach(album => {
+        categories["Album"].push(album);
+    })
     items.forEach(item => {
         let prog = item["progression"] ?? item["progression_skip_balancing"] ?? false;
         if (prog) {
-            // Only check first item in category
-            item_cat = item["category"][0];
-            if (Object.keys(categories).includes(item_cat)) {
-                categories[item_cat].push(item["name"]);
-            } else {
-                categories[item_cat] = [item["name"]];
-                category_order.push(item_cat);
+            // Check if item is in slot data
+            if (Object.keys(slot_data.misc_prog).includes(item["name"]) ) {
+                // Only check first item in category
+                item_cat = item["category"][0];
+                if (Object.keys(categories).includes(item_cat)) {
+                    categories[item_cat].push(item["name"]);
+                } else {
+                    categories[item_cat] = [item["name"]];
+                    category_order.push(item_cat);
+                }
             }
         }
     })
+
+    categories["Bounty"] = ["Bounty"]
+    category_order.push("Bounty");
 
     // Create images tracker based on items.json
     const ap_tracker = document.getElementById("ap-tracker")
@@ -25,7 +35,7 @@ function createTracker() {
         categories[category].forEach(item => {
             var it = document.createElement("div")
             var im = document.createElement("img")
-            im.src = `./../tracker/${ap_game}/${category}/${item.replace(/[<>:"\/\\|?*’]+/g, "")}.png`
+            im.src = `./../tracker/${category}/${item.replace(/[<>:"\/\\|?*’]+/g, "")}.png`
             im.className = "charImage";
             im.id = item;
             im.title = item + "\n(Unobtained)";

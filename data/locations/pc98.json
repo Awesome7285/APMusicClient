@@ -1,0 +1,1120 @@
+[
+    {
+        "name": "HRtP: A Sacred Lot",
+        "requires": "",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "A Sacred Lot",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/xrqcomun/01.%20A%20Sacred%20Lot.mp3"
+    },
+    {
+        "name": "HRtP: Eternal Shrine Maiden",
+        "requires": "",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "永遠の巫女",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/fmumzowr/02.%20Eternal%20Shrine%20Maiden.mp3"
+    },
+    {
+        "name": "HRtP: The Positive and Negative",
+        "requires": "|SinGyoku|",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "The Positive And Negative",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/tsikenfk/03.%20The%20Positive%20and%20Negative.mp3"
+    },
+    {
+        "name": "HRtP: Highly Responsive to Prayers",
+        "requires": "",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "Highly Responsive To Prayers",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/kvwxxwqo/04.%20Highly%20Responsive%20to%20Prayers.mp3"
+    },
+    {
+        "name": "HRtP: Eastern Tale of Fancy",
+        "requires": "",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "東方怪奇談",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/xvknidtj/05.%20Eastern%20Strange%20Discourse.mp3"
+    },
+    {
+        "name": "HRtP: Angel's Legend",
+        "requires": "|YuugenMagan| AND |Mima|",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "天使伝説",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/oqpzewxy/06.%20Angel%27s%20Legend.mp3"
+    },
+    {
+        "name": "HRtP: Oriental Magician",
+        "requires": "",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "Oriental Magician",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/yywnbrgd/07.%20Oriental%20Magician.mp3"
+    },
+    {
+        "name": "HRtP: Small Evil-Crushing Blade",
+        "requires": "",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "破邪の小太刀",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/zlhfcvyf/08.%20Blade%20of%20Banishment.mp3"
+    },
+    {
+        "name": "HRtP: Magic Mirror",
+        "requires": "|Elis| AND |Kikuri|",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "魔鏡",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/gnyboqke/09.%20Magic%20Mirror.mp3"
+    },
+    {
+        "name": "HRtP: the Legend of KAGE",
+        "requires": "",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "The Legend Of KAGE",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/plnejhgn/10.%20the%20Legend%20of%20KAGE.mp3"
+    },
+    {
+        "name": "HRtP: Now, Until the Moment You Die",
+        "requires": "|Sariel|",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "いざ、倒れ逝くその時まで",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/vqqispug/11.%20Now%2C%20Until%20the%20Moment%20You%20Die.mp3"
+    },
+    {
+        "name": "HRtP: Civilization of Magic",
+        "requires": "|Sariel|",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "Civilization Of Magic",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/ueoiyrpy/12.%20Civilization%20of%20Magic.mp3"
+    },
+    {
+        "name": "HRtP: Angel of a Distant Star",
+        "requires": "|Konngara|",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "星幽天使",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/zyxqmohu/13.%20Angel%20of%20a%20Distant%20Star.mp3"
+    },
+    {
+        "name": "HRtP: Iris",
+        "requires": "|HRtP Ending|",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "アイリス",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/bymojcks/14.%20Iris.mp3"
+    },
+    {
+        "name": "HRtP: Theme of Eastern Story",
+        "requires": "",
+        "category": [
+            "01 - Highly Responsive to Prayers"
+        ],
+        "region": "Highly Responsive to Prayers",
+        "original_name": "テーマ・オブ・イースタンストーリー",
+        "url": "https://vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-5-touhou-reiiden-the-highly-responsive-to-prayers/jrirhmpl/15.%20Theme%20of%20Eastern%20Story.mp3"
+    },
+    {
+        "name": "SoEW: Eastern Demon-Sealing Record ~ Pure Land Mandala",
+        "requires": "",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "東方封魔録　～ 浄土曼荼羅",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/yiuxhqiu/01.%20Eastern%20Demon-Sealing%20Record%20~%20Pure%20Land%20Mandala.mp3"
+    },
+    {
+        "name": "SoEW: Hakurei ~ Eastern Wind",
+        "requires": "",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "博麗　～ Eastern Wind",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/znqowtba/02.%20Hakurei%20~%20Eastern%20Wind.mp3"
+    },
+    {
+        "name": "SoEW: She's in a temper!!",
+        "requires": "|Rika|",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "She's In A Temper!!",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/yrnncxfl/03.%20She%27s%20in%20a%20temper%21%21.mp3"
+    },
+    {
+        "name": "SoEW: End of Daylight",
+        "requires": "",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "End Of Daylight",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/meicmcby/04.%20End%20of%20Daylight.mp3"
+    },
+    {
+        "name": "SoEW: Power of Darkness",
+        "requires": "|Meira|",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "やみのちから",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/pedcaynv/05.%20Power%20of%20Darkness.mp3"
+    },
+    {
+        "name": "SoEW: World of Fantasies",
+        "requires": "",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "幻夢界",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/mbsnkkwe/06.%20World%20of%20Fantasies.mp3"
+    },
+    {
+        "name": "SoEW: Bet on Death",
+        "requires": "|Five Magic Stones|",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "死を賭して",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/fnzjweha/07.%20Bet%20on%20Death.mp3"
+    },
+    {
+        "name": "SoEW: Himorogi, Burn in Violet",
+        "requires": "",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "ひもろぎ、むらさきにもえ",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/dprotayp/08.%20Himorogi%2C%20Blazing%20in%20Purple.mp3"
+    },
+    {
+        "name": "SoEW: Love-Colored Magic",
+        "requires": "|Marisa Kirisame (PC-98)|",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "恋色マジック",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/dwxxxvjh/09.%20Love-Colored%20Magic.mp3"
+    },
+    {
+        "name": "SoEW: Eastern Demon-Sealing Record ~ Spectral Boisterous Dance",
+        "requires": "",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "東方封魔録　～ 幽幻乱舞",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/ljldhcop/10.%20Eastern%20Demon-Sealing%20Record%20~%20Spectral%20Boisterous%20Dance.mp3"
+    },
+    {
+        "name": "SoEW: Complete Darkness",
+        "requires": "|Mima|",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "Complete Darkness",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/fizwmwte/11.%20Complete%20Darkness.mp3"
+    },
+    {
+        "name": "SoEW: Extra Love",
+        "requires": "|SoEW Extra Stage Unlock|",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "エキストララブ",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/rxjfzggo/12.%20Extra%20Love.mp3"
+    },
+    {
+        "name": "SoEW: The Tank Girl's Dream",
+        "requires": "|Rika| AND |Evil Eye Sigma| AND |SoEW Extra Stage Unlock|",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "戦車むすめのみるゆめ",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/ctniaewt/13.%20The%20Tank%20Girl%27s%20Dream.mp3"
+    },
+    {
+        "name": "SoEW: Forest of Tono",
+        "requires": "|SoEW Ending|",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "遠野の森",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/eplkqcnk/14.%20Forest%20of%20Tono.mp3"
+    },
+    {
+        "name": "SoEW: Legendary Wonderland",
+        "requires": "|SoEW Ending|",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "昔話わんだーらんど",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/joufsxje/15.%20Legendary%20Wonderland.mp3"
+    },
+    {
+        "name": "SoEW: Hakurei Shrine Grounds",
+        "requires": "",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "博麗神社境内",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/scgbldif/16.%20Hakurei%20Shrine%20Grounds.mp3"
+    },
+    {
+        "name": "SoEW: Sunfall",
+        "requires": "",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "陽落ちて",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/dyjzuasm/17.%20Sunfall.mp3"
+    },
+    {
+        "name": "SoEW: Demon-Sealing Finale",
+        "requires": "",
+        "category": [
+            "02 - Story of Eastern Wonderland"
+        ],
+        "region": "Story of Eastern Wonderland",
+        "original_name": "封魔終演",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-3-touhou-fuumaroku-the-story-of-eastern-wonderland/hcmdeoht/18.%20Demon-Sealing%20Finale.mp3"
+    },
+    {
+        "name": "PoDD: A Dream Transcending Spacetime",
+        "requires": "",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "夢は時空を越えて",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/xhsqcnjf/01.%20A%20Dream%20Transcending%20Space-Time.mp3"
+    },
+    {
+        "name": "PoDD: Selection",
+        "requires": "",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "Selection",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/ajwgrmnd/02.%20Selection.mp3"
+    },
+    {
+        "name": "PoDD: Eastern Mystical Tale of Romance",
+        "requires": "|Reimu Hakurei (PC-98)|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "東方妖恋談",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/eknkmdgw/03.%20Eastern%20Mystical%20Love%20Consultation.mp3"
+    },
+    {
+        "name": "PoDD: Reincarnation",
+        "requires": "|Mima|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "Reincarnation",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/oeelrzwl/04.%20Reincarnation.mp3"
+    },
+    {
+        "name": "PoDD: Dim. Dream",
+        "requires": "|Marisa Kirisame (PC-98)|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "Dim. Dream",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/qwjhgkhh/05.%20Dim.%20Dream.mp3"
+    },
+    {
+        "name": "PoDD: Tabula rasa ~ The Empty Girl",
+        "requires": "|Ellen|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "Tabula Rasa　～ 空白少女",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/mqtwbskv/06.%20Tabula%20rasa%20~%20The%20Empty%20Girl.mp3"
+    },
+    {
+        "name": "PoDD: Maniacal Princess",
+        "requires": "|Kotohime|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "Maniacal Princess",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/wyeygkfv/07.%20Maniacal%20Princess.mp3"
+    },
+    {
+        "name": "PoDD: Vanishing Dream ~ Lost Dream",
+        "requires": "|Kana Anaberal|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "夢消失　～ Lost Dream",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/ojbfyagh/08.%20Vanishing%20Dream%20~%20Lost%20Dream.mp3"
+    },
+    {
+        "name": "PoDD: Visionary Game ~ Dream War",
+        "requires": "|Rikako Asakura|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "夢幻遊戯　～ Dream War",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/peaouidv/09.%20Visionary%20Game%20~%20Dream%20War.mp3"
+    },
+    {
+        "name": "PoDD: Victory Demonstration",
+        "requires": "",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "勝利デモ",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/qubwcxfj/10.%20Victory%20Demonstration.mp3"
+    },
+    {
+        "name": "PoDD: Decisive Magic Battle! ~ Fight it out!",
+        "requires": "",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "魔法決戦！ ～ Fight it out!",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/ewrvdcdm/11.%20Decisive%20Magic%20Battle%21%20~%20Fight%20it%20out%21.mp3"
+    },
+    {
+        "name": "PoDD: Disunified Field Theory of Magic",
+        "requires": "",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "非統一魔法世界論",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/wyebtnie/12.%20Disunified%20Field%20Theory%20of%20Magic.mp3"
+    },
+    {
+        "name": "PoDD: Sailor of Time",
+        "requires": "|Chiyuri Kitashirakawa|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "Sailor Of Time",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/xakzpcrb/13.%20Sailor%20of%20Time.mp3"
+    },
+    {
+        "name": "PoDD: Adoration of Magic",
+        "requires": "",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "魔法鐘愛",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/gdyjxlni/14.%20Adoration%20of%20Magic.mp3"
+    },
+    {
+        "name": "PoDD: Strawberry Crisis!!",
+        "requires": "|Yumemi Okazaki|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "Strawberry Crisis!!",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/aevqsota/15.%20Strawberry%20Crisis%21%21.mp3"
+    },
+    {
+        "name": "PoDD: Dream of Eternity",
+        "requires": "|PoDD Common Ending|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "久遠の夢",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/uxcwyffj/16.%20Dream%20of%20Eternity.mp3"
+    },
+    {
+        "name": "PoDD: Eastern Blue Sky",
+        "requires": "|PoDD Daytime Ending|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "東方の青い空",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/eulvtjno/17.%20Eastern%20Blue%20Sky.mp3"
+    },
+    {
+        "name": "PoDD: Eternal Full Moon",
+        "requires": "|PoDD Nighttime Ending|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "永遠の満月",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/gnwtervb/18.%20Eternal%20Full%20Moon.mp3"
+    },
+    {
+        "name": "PoDD: Maple Dream...",
+        "requires": "|PoDD Common Ending| OR |PoDD Daytime Ending| OR |PoDD Nighttime Ending|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "Maple Dream...",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/wegtympo/19.%20Maple%20Dream....mp3"
+    },
+    {
+        "name": "PoDD: Game Over",
+        "requires": "|Game Over|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "ゲームオーバー",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/zexbqacl/20.%20Game%20Over.mp3"
+    },
+    {
+        "name": "PoDD: Ghostly Person's Holiday",
+        "requires": "|Game Over|",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "霊人の休日",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/xhpfgoct/21.%20Ghostly%20Person%27s%20Holiday.mp3"
+    },
+    {
+        "name": "PoDD: Winds of Time",
+        "requires": "",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "時の風",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/lykfuijt/22.%20Winds%20of%20Time.mp3"
+    },
+    {
+        "name": "PoDD: Starbow Dream",
+        "requires": "",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "スターボウドリーム",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/sinndcav/23.%20Starbow%20Dream.mp3"
+    },
+    {
+        "name": "PoDD: Phantasmagoria",
+        "requires": "",
+        "category": [
+            "03 - Phantasmagoria of Dim. Dream"
+        ],
+        "region": "Phantasmagoria of Dim. Dream",
+        "original_name": "Phantasmagoria",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-4-touhou-yumejikuu-phantasmagoria-of-dim.dream/asnifbqy/24.%20Phantasmagoria.mp3"
+    },
+    {
+        "name": "LLS: Gensokyo ~ Lotus Land Story",
+        "requires": "",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "幻想郷　～ Lotus Land Story",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/inqoybme/1-01.%20Gensokyo%20~%20Lotus%20Land%20Story.mp3"
+    },
+    {
+        "name": "LLS: Witching Dream",
+        "requires": "",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Witching Dream",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/kmhadqvd/1-02.%20Witching%20Dream.mp3"
+    },
+    {
+        "name": "LLS: Selene's light",
+        "requires": "",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Selene's Light",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/hywodzlk/1-03.%20Selene%27s%20light.mp3"
+    },
+    {
+        "name": "LLS: Decoration Battle",
+        "requires": "|Orange|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "装飾戦　～ Decoration Battle",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/rcngqnsz/1-04.%20Decoration%20Battle.mp3"
+    },
+    {
+        "name": "LLS: Break the Sabbath",
+        "requires": "",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Break The Sabbath",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/uyjzxmra/1-05.%20Break%20the%20Sabbath.mp3"
+    },
+    {
+        "name": "LLS: Scarlet Symphony ~ Scarlet Phoneme",
+        "requires": "|Kurumi|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "紅響曲　～ Scarlet Phoneme",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/zxpeflry/1-06.%20Scarlet%20Symphony%20~%20Scarlet%20Phoneme.mp3"
+    },
+    {
+        "name": "LLS: Bad Apple!!",
+        "requires": "",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Bad Apple!!",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/txhstqyu/1-07.%20Bad%20Apple%21%21.mp3"
+    },
+    {
+        "name": "LLS: Spirit Battle ~ Perdition crisis",
+        "requires": "|Elly|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "霊戦　～ Perdition Crisis",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/elqyssnj/1-08.%20Spirit%20Battle%20~%20Perdition%20crisis.mp3"
+    },
+    {
+        "name": "LLS: Alice Maestra",
+        "requires": "",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "アリスマエステラ",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/gfgqmmxd/1-09.%20Alice%20Maestra.mp3"
+    },
+    {
+        "name": "LLS: Maiden's Capriccio ~ Cappriccio",
+        "requires": "|Reimu Hakurei (PC-98)|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "少女綺想曲　～ Capriccio",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/yiwgpivf/1-10.%20Maiden%27s%20Capriccio.mp3"
+    },
+    {
+        "name": "LLS: Vessel of Stars ~ Casket of Star",
+        "requires": "|Marisa Kirisame (PC-98)|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "星の器　～ Casket Of Star",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/phsqbjsj/1-11.%20Vessel%20of%20Stars%20~%20Casket%20of%20Star.mp3"
+    },
+    {
+        "name": "LLS: Lotus Love",
+        "requires": "",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Lotus Love",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/rhmmzlgw/1-12.%20Lotus%20Love.mp3"
+    },
+    {
+        "name": "LLS: Sleeping Terror",
+        "requires": "|Yuuka Kazami (PC-98)|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "眠れる恐怖　～ Sleeping Terror",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/rsqzzzxq/1-13.%20Sleeping%20Terror.mp3"
+    },
+    {
+        "name": "LLS: Dream Land",
+        "requires": "",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Dream Land",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/kcgzewuj/1-14.%20Dream%20Land.mp3"
+    },
+    {
+        "name": "LLS: Faint Dream ~ Inanimate Dream",
+        "requires": "|Yuuka Kazami (PC-98)|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "幽夢　～ Inanimate Dream",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/mjjuvscj/1-15.%20Faint%20Dream%20~%20Inanimate%20Dream.mp3"
+    },
+    {
+        "name": "LLS: The Inevitably Forbidden Game",
+        "requires": "|LLS Extra Stage Unlock|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "禁じざるをえない遊戯",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/mjlavzml/2-01.%20The%20Inevitably%20Forbidden%20Game.mp3"
+    },
+    {
+        "name": "LLS: Illusion of a Maid ~ Icemilk Magic",
+        "requires": "|Mugetsu| AND |LLS Extra Stage Unlock|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "メイド幻想　～ Icemilk Magic",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/vsdnfnye/2-02.%20Illusion%20of%20a%20Maid%20~%20Icemilk%20Magic.mp3"
+    },
+    {
+        "name": "LLS: Cute Devil ~ Innocence",
+        "requires": "|Gengetsu| AND |LLS Extra Stage Unlock|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "かわいい悪魔　～ Innocence",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/zlhcnlol/2-03.%20Cute%20Devil%20~%20Innocence.mp3"
+    },
+    {
+        "name": "LLS: Days",
+        "requires": "|LLS Bad Ending|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Days",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/qwhywmuo/2-04.%20Days.mp3"
+    },
+    {
+        "name": "LLS: Peaceful",
+        "requires": "|LLS Good Ending|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Peaceful",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/iabfvqqg/2-05.%20Peaceful.mp3"
+    },
+    {
+        "name": "LLS: Arcadian Dream",
+        "requires": "|LLS Bad Ending| OR |LLS Good Ending|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Arcadian Dream",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/iwkmdico/2-06.%20Arcadian%20Dream.mp3"
+    },
+    {
+        "name": "LLS: Those Who Live in Illusions",
+        "requires": "|Game Over|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "幻想の住人",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/oalfrrlg/2-07.%20Those%20Who%20Live%20in%20Illusions.mp3"
+    },
+    {
+        "name": "LLS: Lotus Road",
+        "requires": "",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Lotus Road",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/vlrcksil/2-08.%20Lotus%20Road.mp3"
+    },
+    {
+        "name": "LLS: Dreamy pilot",
+        "requires": "",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Dreamy Pilot",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/iiqexbmj/2-09.%20Dreamy%20pilot.mp3"
+    },
+    {
+        "name": "LLS: Incomplete Plot",
+        "requires": "",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Incomplete Plot",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/jslauwxb/2-10.%20Incomplete%20Plot.mp3"
+    },
+    {
+        "name": "LLS: Border Land",
+        "requires": "",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Border Land",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/mfqmokgd/2-11.%20Border%20Land.mp3"
+    },
+    {
+        "name": "LLS: Magic Shop of Raspberry",
+        "requires": "|LLS Extra Stage Unlock|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Magic Shop Of Raspberry",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/vvrwhwkl/2-12.%20Magic%20Shop%20of%20Raspberry.mp3"
+    },
+    {
+        "name": "LLS: Crescent Dream",
+        "requires": "|LLS Bad Ending| OR |LLS Good Ending|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "Crescent Dream",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/bxjetdma/2-13.%20Crescent%20Dream.mp3"
+    },
+    {
+        "name": "LLS: Decoration Battle (Unused Version)",
+        "requires": "|Orange|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "装飾戦　～ Decoration Battle (未使用バージョン)",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/qblymmbx/2-14.%20Decoration%20Battle%20%28Unused%20Version%29.mp3"
+    },
+    {
+        "name": "LLS: Faint Dream ~ Inanimate Dream (Unused Version)",
+        "requires": "|Yuuka Kazami (PC-98)|",
+        "category": [
+            "04 - Lotus Land Story"
+        ],
+        "region": "Lotus Land Story",
+        "original_name": "幽夢　～ Inanimate Dream (未使用バージョン)",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-1-touhou-gensoukyou-lotus-land-story/flniaclw/2-15.%20Faint%20Dream%20~%20Inanimate%20Dream%20%28Unused%20Version%29.mp3"
+    },
+    {
+        "name": "MS: Bizarre Romantic Story ~ Mystic Square",
+        "requires": "",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "怪綺談　～ Mystic Square",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/algzbkvx/01.%20Bizarre%20Romantic%20Story%20~%20Mystic%20Square.mp3"
+    },
+    {
+        "name": "MS: Dream Express",
+        "requires": "",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "Dream Express",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/amievrxm/02.%20Dream%20Express.mp3"
+    },
+    {
+        "name": "MS: Magic Square",
+        "requires": "|Sara|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "魔法陣　～ Magic Square",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/rytyjaci/03.%20Magic%20Square%20~%20Magic%20Square.mp3"
+    },
+    {
+        "name": "MS: Dimension of Reverie",
+        "requires": "",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "夢想時空",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/kbciipzf/04.%20Dimension%20of%20Reverie.mp3"
+    },
+    {
+        "name": "MS: Spiritual Heaven",
+        "requires": "|Louise|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "霊天　～ Spiritual Heaven",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/cwbpxpkg/05.%20Spiritual%20Heaven%20~%20Spiritual%20Heaven.mp3"
+    },
+    {
+        "name": "MS: Romantic Children",
+        "requires": "",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "Romantic Children",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/xwpjaabf/06.%20Romantic%20Children.mp3"
+    },
+    {
+        "name": "MS: Plastic Mind",
+        "requires": "|Alice Margatroid (PC-98)|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "プラスチックマインド",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/xvknmuoi/07.%20Plastic%20Mind.mp3"
+    },
+    {
+        "name": "MS: Maple Wise",
+        "requires": "",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "メイプルワイズ",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/adrwjewu/08.%20Maple%20Wise.mp3"
+    },
+    {
+        "name": "MS: Forbidden Magic",
+        "requires": "|Yuki| AND |Mai|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "禁断の魔法　～ Forbidden Magic",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/jkynrxln/09.%20Forbidden%20Magic%20~%20Forbidden%20Magic.mp3"
+    },
+    {
+        "name": "MS: Crimson Maiden ~ Crimson Dead!!",
+        "requires": "|Yuki|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "真紅の少女　～ Crimson Dead!!",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/iadqtyiv/10.%20Crimson%20Maiden%20~%20Crimson%20Dead%21%21.mp3"
+    },
+    {
+        "name": "MS: Treacherous Maiden ~ Judas Kiss",
+        "requires": "|Mai|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "裏切りの少女　～ Judas Kiss",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/dgvjkxhv/11.%20Treacherous%20Maiden%20~%20Judas%20Kiss.mp3"
+    },
+    {
+        "name": "MS: the Last Judgement",
+        "requires": "",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "The Last Judgement",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/dfqpaghr/12.%20the%20Last%20Judgement.mp3"
+    },
+    {
+        "name": "MS: Doll of Misery",
+        "requires": "|Yumeko|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "悲しき人形　～ Doll Of Misery",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/kcihkhcq/13.%20Doll%20of%20Misery%20~%20Doll%20of%20Misery.mp3"
+    },
+    {
+        "name": "MS: End of the World ~ World's End",
+        "requires": "",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "世界の果て　～ World's End",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/xobrdtjn/14.%20End%20of%20the%20World%20~%20World%27s%20End.mp3"
+    },
+    {
+        "name": "MS: Legendary Illusion ~ Infinite Being",
+        "requires": "|Shinki|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
+        "region": "Mystic Square",
+        "original_name": "神話幻想　～ Infinite Being",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/ncwdyive/15.%20Legendary%20Illusion%20~%20Infinite%20Being.mp3"
+    },
+    {
+        "name": "MS: Alice in Wonderland",
+        "requires": "|MS Extra Stage Unlock|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "不思議の国のアリス",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/kkxjzvfo/16.%20Alice%20in%20Wonderland.mp3"
+    },
+    {
+        "name": "MS: the Grimoire of Alice",
+        "requires": "|Alice Margatroid (PC-98)| AND |MS Extra Stage Unlock|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "The Grimoire Of Alice",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/fkhiuxee/17.%20the%20Grimoire%20of%20Alice.mp3"
+    },
+    {
+        "name": "MS: Shinto Shrine",
+        "requires": "|MS Bad Ending|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "神社",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/jimltksl/18.%20Shinto%20Shrine.mp3"
+    },
+    {
+        "name": "MS: Endless",
+        "requires": "|MS Good Ending|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "Endless",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/cfrtrewu/19.%20Endless.mp3"
+    },
+    {
+        "name": "MS: Eternal Paradise",
+        "requires": "|MS Good Ending|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "久遠の楽園",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/jlencxed/20.%20Eternal%20Paradise.mp3"
+    },
+    {
+        "name": "MS: Mystic Dream",
+        "requires": "|MS Good Ending| OR |MS Bad Ending|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "Mystic Dream",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/fqovlvse/21.%20Mystic%20Dream.mp3"
+    },
+    {
+        "name": "MS: Soul's Resting Place",
+        "requires": "|Game Over|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "魂の休らむ所",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/tfujlcgv/22.%20Soul%27s%20Resting%20Place.mp3"
+    },
+    {
+        "name": "MS: Peaceful Romancer",
+        "requires": "|MS Extra Stage Unlock|",
+        "category": [
+            "05 - Mystic Square"
+        ],
+        "region": "Mystic Square",
+        "original_name": "Peaceful Romancer",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/akyu-s-untouched-score-vol.-2-touhou-kaikidan-mystic-square/nbqdqxod/23.%20Peaceful%20Romancer.mp3"
+    }
+]

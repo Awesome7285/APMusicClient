@@ -1,0 +1,342 @@
+[
+    {
+        "name": "BAiJR: Wind God Girl",
+        "requires": "|Aya Shameimaru|",
+        "category": [
+            "PW01 - Bohemian Archive in Japanese Red"
+        ],
+        "region": "Bohemian Archive in Japanese Red",
+        "original_name": "風神少女",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-bunkachou-bohemian-archive-in-japanese-red-2005/idsbgzdv/01.%20Wind%20God%20Girl.mp3"
+    },
+    {
+        "name": "BAiJR: Adventure of the Lovestruck Tomboy",
+        "requires": "|Cirno|",
+        "category": [
+            "PW01 - Bohemian Archive in Japanese Red"
+        ],
+        "region": "Bohemian Archive in Japanese Red",
+        "original_name": "おてんば恋娘の冒険",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-bunkachou-bohemian-archive-in-japanese-red-2005/thdwvqpb/02.%20Adventure%20of%20the%20Lovestruck%20Tomboy.mp3"
+    },
+    {
+        "name": "BAiJR: Flower Reflecting Mound ~ after Higan Retour",
+        "requires": "",
+        "category": [
+            "PW01 - Bohemian Archive in Japanese Red"
+        ],
+        "region": "Bohemian Archive in Japanese Red",
+        "original_name": "花映塚　～ after Higan Retour",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-bunkachou-bohemian-archive-in-japanese-red-2005/mgudlsge/03.%20Flower%20Viewing%20Mound%20~%20after%20Higan%20Retour.mp3"
+    },
+    {
+        "name": "PMiSS: Japanese Saga",
+        "requires": "",
+        "category": [
+            "PW02 - Perfect Memento in Strict Sense"
+        ],
+        "region": "Perfect Memento in Strict Sense",
+        "original_name": "ジャパニーズサーガ",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-gumon-shiki-perfect-memento-in-strict-sense-2006/xdxeegvk/01.%20Japanese%20Saga.mp3"
+    },
+    {
+        "name": "PMiSS: Child of Are",
+        "requires": "|Hieda no Akyuu|",
+        "category": [
+            "PW02 - Perfect Memento in Strict Sense"
+        ],
+        "region": "Perfect Memento in Strict Sense",
+        "original_name": "阿礼の子供",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-gumon-shiki-perfect-memento-in-strict-sense-2006/njhitury/02.%20Child%20of%20Are.mp3"
+    },
+    {
+        "name": "PMiSS: Fly above Hatoyama at night - Power MIX",
+        "requires": "",
+        "category": [
+            "PW02 - Perfect Memento in Strict Sense"
+        ],
+        "region": "Perfect Memento in Strict Sense",
+        "original_name": "夜の鳩山を飛ぶ - Power MIX",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-gumon-shiki-perfect-memento-in-strict-sense-2006/uccenehy/03.%20Fly%20above%20Hatoyama%20at%20night%20-%20Power%20MIX.mp3"
+    },
+    {
+        "name": "GoM: Magician's Melancholy",
+        "requires": "",
+        "category": [
+            "PW03 - The Grimoire of Marisa"
+        ],
+        "region": "The Grimoire of Marisa",
+        "original_name": "魔法使いの憂鬱",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/the-grimoire-of-marisa-2009/xamhagdz/01.%20Magician%27s%20Melancholy.mp3"
+    },
+    {
+        "name": "GoM: Illusionary Sputnik Night",
+        "requires": "",
+        "category": [
+            "PW03 - The Grimoire of Marisa"
+        ],
+        "region": "The Grimoire of Marisa",
+        "original_name": "スプートニク幻夜",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/the-grimoire-of-marisa-2009/ouihmlvu/02.%20Illusionary%20Sputnik%20Night.mp3"
+    },
+    {
+        "name": "EaLND: Sunny Rutile Flection",
+        "requires": "|Sunny Milk|",
+        "category": [
+            "PW04 - Eastern and Little Nature Deity"
+        ],
+        "region": "Eastern and Little Nature Deity",
+        "original_name": "サニールチルフレクション",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-sangetsusei-eastern-and-little-nature-deity-2007/czqeanmx/01.%20Sunny%20Rutile%20Flection.mp3"
+    },
+    {
+        "name": "EaLND: Can't Sleep Because It's Nighttime",
+        "requires": "|Luna Child|",
+        "category": [
+            "PW04 - Eastern and Little Nature Deity"
+        ],
+        "region": "Eastern and Little Nature Deity",
+        "original_name": "夜だから眠れない",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-sangetsusei-eastern-and-little-nature-deity-2007/dxecxhuz/02.%20Can%27t%20Sleep%20Because%20It%27s%20Nighttime.mp3"
+    },
+    {
+        "name": "EaLND: Like the Brilliance of Fairies",
+        "requires": "|Star Sapphire|",
+        "category": [
+            "PW04 - Eastern and Little Nature Deity"
+        ],
+        "region": "Eastern and Little Nature Deity",
+        "original_name": "妖精燦々として",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-sangetsusei-eastern-and-little-nature-deity-2007/nsbdogrp/03.%20Like%20the%20Brilliance%20of%20Fairies.mp3"
+    },
+    {
+        "name": "SaBND: Sunny Milk's Scarlet Mist Incident",
+        "requires": "|Sunny Milk|",
+        "category": [
+            "PW05 - Strange and Bright Nature Deity"
+        ],
+        "region": "Strange and Bright Nature Deity CD1",
+        "original_name": "サニーミルクの紅霧異変",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-strange-and-bright-nature-deity/msbfxvlu/1-01.%20Sunny%20Milk%27s%20Scarlet%20Mist%20Incident.mp3"
+    },
+    {
+        "name": "SaBND: A Land Resplendent With Nature's Beauty",
+        "requires": "",
+        "category": [
+            "PW05 - Strange and Bright Nature Deity"
+        ],
+        "region": "Strange and Bright Nature Deity CD1",
+        "original_name": "雪月桜花の国",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-strange-and-bright-nature-deity/rwjgedej/1-02.%20A%20Land%20Resplendent%20With%20Nature%27s%20Beauty.mp3"
+    },
+    {
+        "name": "SaBND: Star Voyage 2008",
+        "requires": "",
+        "category": [
+            "PW05 - Strange and Bright Nature Deity"
+        ],
+        "region": "Strange and Bright Nature Deity CD1",
+        "original_name": "スターヴォヤージュ2008",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-strange-and-bright-nature-deity/jqfcwzho/1-03.%20Star%20Voyage%202008.mp3"
+    },
+    {
+        "name": "SaBND: The Refrain of the Lovely Great War",
+        "requires": "",
+        "category": [
+            "PW05 - Strange and Bright Nature Deity"
+        ],
+        "region": "Strange and Bright Nature Deity CD2",
+        "original_name": "可愛い大戦争のリフレーン",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-strange-and-bright-nature-deity/wtbbdnej/2-01.%20The%20Refrain%20of%20the%20Lovely%20Great%20War.mp3"
+    },
+    {
+        "name": "SaBND: Sunny Rutile Flection",
+        "requires": "|Sunny Milk|",
+        "category": [
+            "PW05 - Strange and Bright Nature Deity"
+        ],
+        "region": "Strange and Bright Nature Deity CD2",
+        "original_name": "サニールチルフレクション",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-strange-and-bright-nature-deity/gebxfjfy/2-02.%20Sunny%20Rutile%20Flection.mp3"
+    },
+    {
+        "name": "SaBND: Can't Sleep Because It's Nighttime",
+        "requires": "|Luna Child|",
+        "category": [
+            "PW05 - Strange and Bright Nature Deity"
+        ],
+        "region": "Strange and Bright Nature Deity CD2",
+        "original_name": "夜だから眠れない",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-strange-and-bright-nature-deity/dvulwxxx/2-03.%20Can%27t%20Sleep%20Because%20It%27s%20Nighttime.mp3"
+    },
+    {
+        "name": "SaBND: Like the Brilliance of Fairies",
+        "requires": "|Star Sapphire|",
+        "category": [
+            "PW05 - Strange and Bright Nature Deity"
+        ],
+        "region": "Strange and Bright Nature Deity CD2",
+        "original_name": "妖精燦々として",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-strange-and-bright-nature-deity/viexzgiu/2-04.%20Like%20the%20Brilliance%20of%20Fairies.mp3"
+    },
+    {
+        "name": "SaBND: The Fairy's Adventurous Tale",
+        "requires": "",
+        "category": [
+            "PW05 - Strange and Bright Nature Deity"
+        ],
+        "region": "Strange and Bright Nature Deity CD3",
+        "original_name": "フェアリー冒険譚",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-strange-and-bright-nature-deity/ylhffjhf/3-01.%20The%20Fairy%27s%20Adventurous%20Tale.mp3"
+    },
+    {
+        "name": "SaBND: Two Worlds",
+        "requires": "",
+        "category": [
+            "PW05 - Strange and Bright Nature Deity"
+        ],
+        "region": "Strange and Bright Nature Deity CD3",
+        "original_name": "二つの世界",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-strange-and-bright-nature-deity/fmvppdvt/3-02.%20Two%20Worlds.mp3"
+    },
+    {
+        "name": "SSiB: Youkai Space Travel",
+        "requires": "",
+        "category": [
+            "PW06 - Silent Sinner in Blue"
+        ],
+        "region": "Silent Sinner in Blue",
+        "original_name": "妖怪宇宙旅行",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-bougetsushou-silent-sinner-in-blue.-2008/lurwiclw/01.%20Youkai%20Space%20Travel.mp3"
+    },
+    {
+        "name": "SSiB: Watatsuki's Spell Card ~ Lunatic Blue",
+        "requires": "|Watatsuki no Yorihime| AND |Watatsuki no Toyohime|",
+        "category": [
+            "PW06 - Silent Sinner in Blue"
+        ],
+        "region": "Silent Sinner in Blue",
+        "original_name": "綿月のスペルカード　～ Lunatic Blue",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-bougetsushou-silent-sinner-in-blue.-2008/dylihkfw/02.%20Watatsuki%27s%20Spell%20Card%20~%20Lunatic%20Blue.mp3"
+    },
+    {
+        "name": "SSiB: A Drunkard's Lemuria (Retro Ver)",
+        "requires": "|Amakasu Barley Tenji|",
+        "category": [
+            "PW06 - Silent Sinner in Blue"
+        ],
+        "region": "Silent Sinner in Blue",
+        "original_name": "呑んべぇのレムリア (Retro Ver)",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-bougetsushou-silent-sinner-in-blue.-2008/tbaxlnic/03.%20A%20Drunkard%27s%20Lemuria%20%28Retro%20Ver%29.mp3"
+    },
+    {
+        "name": "OSP: The Hide-and-Seek Lifestyle at the Shrine",
+        "requires": "",
+        "category": [
+            "PW07 - Oriental Sacred Place"
+        ],
+        "region": "Oriental Sacred Place CD1",
+        "original_name": "神域のかくれんぼ暮らし",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-oriental-sacred-place/sdqsrhit/1-01.%20The%20Hide-and-Seek%20Lifestyle%20at%20the%20Shrine.mp3"
+    },
+    {
+        "name": "OSP: Youkai Modern Colony",
+        "requires": "",
+        "category": [
+            "PW07 - Oriental Sacred Place"
+        ],
+        "region": "Oriental Sacred Place CD1",
+        "original_name": "妖怪モダンコロニー",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-oriental-sacred-place/tniaevpn/1-02.%20Youkai%20Modern%20Colony.mp3"
+    },
+    {
+        "name": "OSP: Year-Round Absorbed Curiosity",
+        "requires": "",
+        "category": [
+            "PW07 - Oriental Sacred Place"
+        ],
+        "region": "Oriental Sacred Place CD2",
+        "original_name": "年中夢中の好奇心",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-oriental-sacred-place/tertusgb/2-01.%20Year-Round%20Absorbed%20Curiosity.mp3"
+    },
+    {
+        "name": "OSP: A Midnight Fairy Dance",
+        "requires": "",
+        "category": [
+            "PW07 - Oriental Sacred Place"
+        ],
+        "region": "Oriental Sacred Place CD2",
+        "original_name": "真夜中のフェアリーダンス",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-oriental-sacred-place/pvgtzqhl/2-02.%20A%20Midnight%20Fairy%20Dance.mp3"
+    },
+    {
+        "name": "OSP: Great Fairy Wars ~ Fairy Wars",
+        "requires": "|Sunny Milk| AND |Star Sapphire| AND |Luna Child|",
+        "category": [
+            "PW07 - Oriental Sacred Place"
+        ],
+        "region": "Oriental Sacred Place CD2",
+        "original_name": "妖精大戦争　～ Fairy Wars",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-oriental-sacred-place/lxecavdc/2-03.%20Great%20Fairy%20Wars%20~%20Fairy%20Wars.mp3"
+    },
+    {
+        "name": "OSP: Magus Night",
+        "requires": "|Marisa Kirisame|",
+        "category": [
+            "PW07 - Oriental Sacred Place"
+        ],
+        "region": "Oriental Sacred Place CD3",
+        "original_name": "メイガスナイト",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-oriental-sacred-place/byqjwhvf/3-01.%20Magus%20Night.mp3"
+    },
+    {
+        "name": "OSP: Staking Your Life on a Prank",
+        "requires": "|Sunny Milk| AND |Star Sapphire| AND |Luna Child|",
+        "category": [
+            "PW07 - Oriental Sacred Place"
+        ],
+        "region": "Oriental Sacred Place CD3",
+        "original_name": "いたずらに命をかけて",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-oriental-sacred-place/qoxuigfg/3-02.%20Staking%20Your%20Life%20on%20a%20Prank.mp3"
+    },
+    {
+        "name": "OSP: Old Yuanxian",
+        "requires": "|Seiga Kaku|",
+        "category": [
+            "PW07 - Oriental Sacred Place"
+        ],
+        "region": "Oriental Sacred Place CD3",
+        "original_name": "古きユアンシェン",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-sangetsusei-oriental-sacred-place/suwwsazx/3-03.%20Old%20Distant%20Hermit.mp3"
+    },
+    {
+        "name": "FS: Bibliophile with a Deciphering Eye",
+        "requires": "|Kosuzu Motoori|",
+        "category": [
+            "PW08 - Forbidden Scrollery"
+        ],
+        "region": "Forbidden Scrollery",
+        "original_name": "判読眼のビブロフィリア",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-suzunaan-forbidden-scrollery-vol6-special-edition-music-track-2016/fbsjqcpt/01.%20%E5%88%A4%E8%AA%AD%E7%9C%BC%E3%81%AE%E3%83%93%E3%83%96%E3%83%AD%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A2.mp3"
+    },
+    {
+        "name": "FS: Humans and Youkai Coming and Going at the Canal",
+        "requires": "",
+        "category": [
+            "PW08 - Forbidden Scrollery"
+        ],
+        "region": "Forbidden Scrollery",
+        "original_name": "運河を行き交う人妖",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-suzunaan-forbidden-scrollery-vol6-special-edition-music-track-2016/zpboqjbc/02.%20%E9%81%8B%E6%B2%B3%E3%82%92%E8%A1%8C%E3%81%8D%E4%BA%A4%E3%81%86%E4%BA%BA%E5%A6%96.mp3"
+    },
+    {
+        "name": "FS: The Rabbit Has Landed",
+        "requires": "|Seiran|",
+        "category": [
+            "PW08 - Forbidden Scrollery"
+        ],
+        "region": "Forbidden Scrollery",
+        "original_name": "兎は舞い降りた",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-suzunaan-forbidden-scrollery-vol6-special-edition-music-track-2016/ijuvwwrs/03.%20%E5%85%8E%E3%81%AF%E8%88%9E%E3%81%84%E9%99%8D%E3%82%8A%E3%81%9F.mp3"
+    }
+]

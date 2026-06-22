@@ -1,34 +1,25 @@
 function doConnect() {
     // Load JSON immediately before anything else runs
-    locations = load_json_sync(`./../data/${ap_game}/locations.json`);
-    regions = load_json_sync(`./../data/${ap_game}/regions.json`);
-    var meta = load_json_sync(`./../data/${ap_game}/info.json`);
+    slot_data.enabled_groups.forEach(group => {
+        locations.push(...load_json_sync(`./../data/locations/${group}.json`));
+    })
+
+    // Re Add Regions
+    regions = Object.fromEntries(
+        slot_data.enabled_albums.map(r => [r, { requires: `|${r}|` }])
+    );
+    
 
     // Don't add shit above here
 
     song_index = 0;
     currentSong = null;
     queue = [];
-
-    // Find the victory
-    locations.forEach(location => {
-        if (location["victory"]) {
-            victory = location;
-            locations.splice(location, 1);
-            return;
-        }
-    });
+    console.log(regions);
 
     // Meta
-    colon_names = meta["colon_names"];
-    album_type_name = meta["album_type_name"];
-    use_alt_names = meta["use_alt_names"];
-
-    if (use_alt_names) {
-        document.getElementById("info-text-bottom").style = "visibility: visible;"
-    } else {
-        document.getElementById("info-text-bottom").style = "visibility: hidden;"
-    }
+    colon_names = true;
+    album_type_name = "Album";
 
     // Debug: Check all audio files exist in the folder and are named correctly
     //checkSongsExist()
