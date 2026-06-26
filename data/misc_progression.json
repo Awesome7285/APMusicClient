@@ -232,5 +232,8 @@
   { "name": "FW Bad Ending", "count": 1, "progression": true, "category": ["Misc Progression"] },
   { "name": "FW Good Ending", "count": 1, "progression": true, "category": ["Misc Progression"] },
 
-  { "name": "Bounty", "count": 1, "progression": true, "category": ["Bounty"] }
+  { "name": "Air", "count": 1, "progression": true, "category": ["Misc Progression"] },
+  { "name": "Higurashi When They Cry", "count": 1, "progression": true, "category": ["Misc Progression"] },
+  { "name": "Fly Me to the Moon (In Other Words)", "count": 1, "progression": true, "category": ["Misc Progression"] },
+  { "name": "Snow Halation", "count": 1, "progression": true, "category": ["Misc Progression"] }
 ]

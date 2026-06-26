@@ -46,7 +46,7 @@
         <div id="requirement-images"></div>
 
         <div class="audio-player">
-            <button id="play-pause">▶</button>
+            <button id="play-pause" style="margin-top: 0px;">▶</button>
             <div class="progress-bar-container" id="progress-container">
                 <div class="progress-bar" id="progress-bar"></div>
             </div>
@@ -55,7 +55,13 @@
         <div>
             <!-- <button onclick="choose_track(-1)">Prev Song</button> -->
             <button onclick="audio.currentTime = 0; audio.play;">Replay Song</button>
+            <label for="loop-song-toggle">Loop Current Song:</label><input type="checkbox" id="loop-song-toggle"></input>
+            
+        </div>
+        <div>
             <button onclick="nextInQueue();">Next in Queue</button>
+            <button onclick="shuffleQueue(queue, document.getElementById('queue-text'));">Shuffle Queue</button>
+            <button onclick="queue = []; document.getElementById('queue-text').innerHTML = 'Queue:';">Clear Queue</button>
         </div>
         <div>
             <button onclick="sendLocation();">Debug: Send Location</button>

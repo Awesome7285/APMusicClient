@@ -70,10 +70,11 @@ function update_track_info(song) {
     const requirements = document.getElementById('requirement-images');
 
     get_track_directory(song).then(songDir => {
-        audio.src = locations[song_index]["url"] ?? songDir;
+        audio.src = songDir ?? locations[song_index]["url"];
         audio.autoplay = true;
+        console.log("Playing audio", audio.src)
     });
-
+    
     trackInfoGame.textContent = `${song['region']}`;
     trackInfoEN.textContent = `${location_to_track_name(song['name'])}`;
     trackInfoJP.textContent = `${song['original_name']}`;
@@ -92,6 +93,8 @@ function update_track_info(song) {
     console.log(requirementsDict)
     const requirements_container = addRequirementImages(requirementsDict);
     requirements.appendChild(requirements_container);
+
+    currentSong = song;
 }
 
 async function get_track_directory(song) {
@@ -115,8 +118,7 @@ async function get_track_directory(song) {
         if (exists) return testPath;
     }
 
-    // Default if all fails
-    return basePath + ".mp3";
+    return null;
 }
 
 // helper function for browsers
@@ -131,5 +133,11 @@ async function fileExists(url) {
 
 audio.addEventListener("ended", (event) => {
     sendLocation();
-    nextInQueue();
+    if (document.getElementById("loop-song-toggle").value === 'on') {
+        audio.currentTime = 0;
+        audio.autoplay = true;
+        audio.play();
+    } else {
+        nextInQueue();
+    }
 })

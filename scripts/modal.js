@@ -26,6 +26,8 @@ function closeModal(event) {
     }
     if (currentSong != selectedSong){
         update_track_info(selectedSong);
+    } else {
+        nextInQueue();
     }
 }
 
@@ -103,6 +105,7 @@ function get_enabled_games() {
 
 function showSongs(album) {
     songList.innerHTML = ""; // Clear previous list
+    selectedSong = null;
     locations.forEach(song => {
         if (song["region"] != album) {
             return;
@@ -209,4 +212,16 @@ function addSongToQueue(song) {
     var q = document.createElement("p");
     q.textContent = locations[queue[queue.length - 1]]["name"];
     queue_text.appendChild(q);
+}
+
+function shuffleQueue(arr1, parentElement) {
+    const children = Array.from(parentElement.children);
+  
+    for (let i = children.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr1[i], arr1[j]] = [arr1[j], arr1[i]];
+        [children[i], children[j]] = [children[j], children[i]];
+    }
+  
+    children.forEach(child => parentElement.appendChild(child));
 }

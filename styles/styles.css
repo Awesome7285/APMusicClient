@@ -9,6 +9,10 @@ body {
     margin: 0;
 }
 
+button {
+    margin-top: 8px;
+}
+
 /* Settings Cog */
 .settings-icon {
     position: fixed;
@@ -191,4 +195,8 @@ td:hover {
     width: 0%; /* Initial width of 0 */
     background: #007bff; /* Blue color for progress bar */
     transition: width 0.1s linear; /* Smooth animation */
+}
+
+.loop-song-button {
+    background-color: #e0e0e0;
 }
