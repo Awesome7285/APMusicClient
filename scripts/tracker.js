@@ -35,7 +35,7 @@ function createTracker() {
         categories[category].forEach(item => {
             var it = document.createElement("div")
             var im = document.createElement("img")
-            im.src = `./../tracker/${category}/${item.replace(/[<>:"\/\\|?*’]+/g, "")}.png`
+            im.src = `./tracker/${category}/${item.replace(/[<>:"\/\\|?*’]+/g, "")}.png`
             im.className = "charImage";
             im.id = item;
             im.title = item + "\n(Unobtained)";

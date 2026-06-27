@@ -102,7 +102,7 @@ async function get_track_directory(song) {
     filename = filename.replace(/[<>:"\/\\|?*]+/g, "");
     const region = song.region.replace(/[<>:"\/\\|?*]+/g, "");
 
-    const basePath = `./../audio/${ap_game}/${region}/${filename}`;
+    const basePath = `./audio/${ap_game}/${region}/${filename}`;
 
     // If the location name includes the filename (ogg) then just return
     if (filename.toLowerCase().endsWith(".ogg")) {
