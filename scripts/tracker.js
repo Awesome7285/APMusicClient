@@ -1,6 +1,6 @@
 function createTracker() {
     // Load items from items.json
-    let items = load_json_sync(`./../data/misc_progression.json`);
+    let items = load_json_sync(`./data/misc_progression.json`);
 
     let categories = {"Album": []};
     let category_order = ["Album"];

@@ -1,7 +1,7 @@
 function doConnect() {
     // Load JSON immediately before anything else runs
     slot_data.enabled_groups.forEach(group => {
-        locations.push(...load_json_sync(`./../data/locations/${group}.json`));
+        locations.push(...load_json_sync(`./data/locations/${group}.json`));
     })
 
     // Re Add Regions
