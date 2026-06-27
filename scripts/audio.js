@@ -133,7 +133,7 @@ async function fileExists(url) {
 
 audio.addEventListener("ended", (event) => {
     sendLocation();
-    if (document.getElementById("loop-song-toggle").value === 'on') {
+    if (document.getElementById("loop-song-toggle").checked === true) {
         audio.currentTime = 0;
         audio.autoplay = true;
         audio.play();
