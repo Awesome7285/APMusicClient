@@ -1,0 +1,395 @@
+[
+    {
+        "name": "StB: Tengu's Notebook ~ Mysterious Note",
+        "requires": "",
+        "category": [
+            "09.5 - Shoot the Bullet"
+        ],
+        "region": "Shoot the Bullet",
+        "original_name": "天狗の手帖　～ Mysterious Note",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-bunkachou-shoot-the-bullet/qfdddjir/01.%20Tengu%27s%20Notebook%20~%20Mysterious%20Note.mp3"
+    },
+    {
+        "name": "StB: Wind Circulation ~ Wind Tour",
+        "requires": "|Aya's Camera|",
+        "category": [
+            "09.5 - Shoot the Bullet"
+        ],
+        "region": "Shoot the Bullet",
+        "original_name": "風の循環　～ Wind Tour",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-bunkachou-shoot-the-bullet/givdgwog/02.%20Wind%20Circulation%20~%20Wind%20Tour.mp3"
+    },
+    {
+        "name": "StB: Tengu Is Watching ~ Black Eyes",
+        "requires": "|Aya's Camera|",
+        "category": [
+            "09.5 - Shoot the Bullet"
+        ],
+        "region": "Shoot the Bullet",
+        "original_name": "天狗が見ている　～ Black Eyes",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-bunkachou-shoot-the-bullet/lomsdnej/03.%20Tengu%20Is%20Watching%20~%20Black%20Eyes.mp3"
+    },
+    {
+        "name": "StB: Sleepless Night of the Eastern Country",
+        "requires": "|Aya's Camera|",
+        "category": [
+            "09.5 - Shoot the Bullet"
+        ],
+        "region": "Shoot the Bullet",
+        "original_name": "東の国の眠らない夜",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-bunkachou-shoot-the-bullet/hkazwiad/04.%20Sleepless%20Night%20of%20the%20Eastern%20Country.mp3"
+    },
+    {
+        "name": "StB: Retrospective Kyoto",
+        "requires": "|Aya's Camera|",
+        "category": [
+            "09.5 - Shoot the Bullet"
+        ],
+        "region": "Shoot the Bullet",
+        "original_name": "レトロスペクティブ京都",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-bunkachou-shoot-the-bullet/rzwjgcuo/05.%20Retrospective%20Kyoto.mp3"
+    },
+    {
+        "name": "DS: Newshound",
+        "requires": "",
+        "category": [
+            "12.5 - Double Spoiler"
+        ],
+        "region": "Double Spoiler",
+        "original_name": "ニュースハウンド",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/double-spoiler-touhou-bunkachou/borpbmgv/01.%20Newshound.mp3"
+    },
+    {
+        "name": "DS: The Mystery in Your Town",
+        "requires": "|Aya's Camera|",
+        "category": [
+            "12.5 - Double Spoiler"
+        ],
+        "region": "Double Spoiler",
+        "original_name": "あなたの町の怪事件",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/double-spoiler-touhou-bunkachou/jjutmejj/02.%20The%20Mystery%20in%20Your%20Town.mp3"
+    },
+    {
+        "name": "DS: Youkai Modern Colony",
+        "requires": "|Aya's Camera|",
+        "category": [
+            "12.5 - Double Spoiler"
+        ],
+        "region": "Double Spoiler",
+        "original_name": "妖怪モダンコロニー",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/double-spoiler-touhou-bunkachou/qdsfyaio/03.%20Youkai%20Modern%20Colony.mp3"
+    },
+    {
+        "name": "DS: Nemesis's Stronghold",
+        "requires": "|Aya's Camera|",
+        "category": [
+            "12.5 - Double Spoiler"
+        ],
+        "region": "Double Spoiler",
+        "original_name": "ネメシスの要塞",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/double-spoiler-touhou-bunkachou/vkpvhbik/04.%20Nemesis%27%20Stronghold.mp3"
+    },
+    {
+        "name": "DS: Bell of Avīci ~ Infinite Nightmare",
+        "requires": "|Aya's Camera|",
+        "category": [
+            "12.5 - Double Spoiler"
+        ],
+        "region": "Double Spoiler",
+        "original_name": "無間の鐘　～ Infinite Nightmare",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/double-spoiler-touhou-bunkachou/dltlarkx/05.%20Bell%20of%20Avici%20~%20Infinite%20Nightmare.mp3"
+    },
+    {
+        "name": "DS: Youkai Mountain ~ Mysterious Mountain",
+        "requires": "|Aya Shameimaru|",
+        "category": [
+            "12.5 - Double Spoiler"
+        ],
+        "region": "Double Spoiler",
+        "original_name": "妖怪の山　～ Mysterious Mountain",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/double-spoiler-touhou-bunkachou/kimhagfh/06.%20The%20Youkai%20Mountain%20~%20Mysterious%20Mountain.mp3"
+    },
+    {
+        "name": "DS: Hatate Unlock",
+        "requires": "|Hatate Himekaidou|",
+        "category": [
+            "12.5 - Double Spoiler"
+        ],
+        "region": "Double Spoiler",
+        "original_name": "はたてアンロック",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/double-spoiler-touhou-bunkachou/wmsesber/07.%20Hatate%20Unlock.mp3"
+    },
+    {
+        "name": "GFW: An Ice Fairy in Spring",
+        "requires": "",
+        "category": [
+            "12.8 - Great Fairy Wars"
+        ],
+        "region": "Great Fairy Wars",
+        "original_name": "春の氷精",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-12.8-fairy-wars-yousei-daisensou-touhou-sangessei/ezismjhj/01.%20An%20Ice%20Fairy%20in%20Spring.mp3"
+    },
+    {
+        "name": "GFW: The Refrain of the Lovely Great War",
+        "requires": "",
+        "category": [
+            "12.8 - Great Fairy Wars"
+        ],
+        "region": "Great Fairy Wars",
+        "original_name": "可愛い大戦争のリフレーン",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-12.8-fairy-wars-yousei-daisensou-touhou-sangessei/bdokilhz/02.%20The%20Refrain%20of%20the%20Lovely%20Great%20War.mp3"
+    },
+    {
+        "name": "GFW: Staking Your Life on a Prank",
+        "requires": "|Sunny Milk| AND |Luna Child| AND |Star Sapphire|",
+        "category": [
+            "12.8 - Great Fairy Wars"
+        ],
+        "region": "Great Fairy Wars",
+        "original_name": "いたずらに命をかけて",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-12.8-fairy-wars-yousei-daisensou-touhou-sangessei/dqubzsqz/03.%20Staking%20Your%20Life%20on%20a%20Prank.mp3"
+    },
+    {
+        "name": "GFW: Year-Round Absorbed Curiosity",
+        "requires": "",
+        "category": [
+            "12.8 - Great Fairy Wars"
+        ],
+        "region": "Great Fairy Wars",
+        "original_name": "年中夢中の好奇心",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-12.8-fairy-wars-yousei-daisensou-touhou-sangessei/afzebqdq/04.%20Year-Round%20Absorbed%20Curiosity.mp3"
+    },
+    {
+        "name": "GFW: A Midnight Fairy Dance",
+        "requires": "",
+        "category": [
+            "12.8 - Great Fairy Wars"
+        ],
+        "region": "Great Fairy Wars",
+        "original_name": "真夜中のフェアリーダンス",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-12.8-fairy-wars-yousei-daisensou-touhou-sangessei/xnvrwgro/05.%20A%20Midnight%20Fairy%20Dance.mp3"
+    },
+    {
+        "name": "GFW: Great Fairy Wars ~ Fairy Wars",
+        "requires": "|Sunny Milk| AND |Luna Child| AND |Star Sapphire|",
+        "category": [
+            "12.8 - Great Fairy Wars"
+        ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
+        "region": "Great Fairy Wars",
+        "original_name": "妖精大戦争　～ Fairy Wars",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-12.8-fairy-wars-yousei-daisensou-touhou-sangessei/wpmmbuwx/06.%20Great%20Fairy%20Wars%20~%20Fairy%20Wars.mp3"
+    },
+    {
+        "name": "GFW: Loose Rain",
+        "requires": "|GFW Extra Stage Unlock|",
+        "category": [
+            "12.8 - Great Fairy Wars"
+        ],
+        "region": "Great Fairy Wars",
+        "original_name": "ルーズレイン",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-12.8-fairy-wars-yousei-daisensou-touhou-sangessei/yzcoklxe/07.%20Loose%20Rain.mp3"
+    },
+    {
+        "name": "GFW: Magus Night",
+        "requires": "|Marisa Kirisame| AND |GFW Extra Stage Unlock|",
+        "category": [
+            "12.8 - Great Fairy Wars"
+        ],
+        "region": "Great Fairy Wars",
+        "original_name": "メイガスナイト",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-12.8-fairy-wars-yousei-daisensou-touhou-sangessei/fpgmsdlu/08.%20Magus%20Night.mp3"
+    },
+    {
+        "name": "GFW: An Ice Fairy in Spring - Still -",
+        "requires": "|GFW Ending|",
+        "category": [
+            "12.8 - Great Fairy Wars"
+        ],
+        "region": "Great Fairy Wars",
+        "original_name": "春の氷精　- 静 -",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-12.8-fairy-wars-yousei-daisensou-touhou-sangessei/prougyzc/09.%20An%20Ice%20Fairy%20in%20Spring%20-%20Still%20-.mp3"
+    },
+    {
+        "name": "GFW: Player's Score",
+        "requires": "|Game Over|",
+        "category": [
+            "12.8 - Great Fairy Wars"
+        ],
+        "region": "Great Fairy Wars",
+        "original_name": "プレイヤーズスコア",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-12.8-fairy-wars-yousei-daisensou-touhou-sangessei/okkwzkzu/10.%20Player%27s%20Score.mp3"
+    },
+    {
+        "name": "ISC: Raise the Signal Fire of Cheating",
+        "requires": "",
+        "category": [
+            "14.3 - Impossible Spell Card"
+        ],
+        "region": "Impossible Spell Card",
+        "original_name": "反則の狼煙を上げろ",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.3-danmaku-amanojaku-impossible-spell-card-ost/heygjdpo/01.%20Raise%20the%20Signal%20Fire%20of%20Cheating.mp3"
+    },
+    {
+        "name": "ISC: Cheat Against the Impossible Danmaku",
+        "requires": "|Seija's Cheats|",
+        "category": [
+            "14.3 - Impossible Spell Card"
+        ],
+        "region": "Impossible Spell Card",
+        "original_name": "不可能弾幕には反則を",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.3-danmaku-amanojaku-impossible-spell-card-ost/bpviewvl/02.%20Cheat%20Against%20the%20Impossible%20Danmaku.mp3"
+    },
+    {
+        "name": "ISC: Midnight Spell Card",
+        "requires": "|Seija's Cheats|",
+        "category": [
+            "14.3 - Impossible Spell Card"
+        ],
+        "region": "Impossible Spell Card",
+        "original_name": "ミッドナイトスペルカード",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.3-danmaku-amanojaku-impossible-spell-card-ost/wydxcvun/03.%20Midnight%20Spell%20Card.mp3"
+    },
+    {
+        "name": "ISC: Romantic Escape Flight",
+        "requires": "|Seija's Cheats|",
+        "category": [
+            "14.3 - Impossible Spell Card"
+        ],
+        "region": "Impossible Spell Card",
+        "original_name": "ロマンチック逃飛行",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.3-danmaku-amanojaku-impossible-spell-card-ost/ehyvkkyl/04.%20Romantic%20Escape%20Flight.mp3"
+    },
+    {
+        "name": "ISC: Eternal Transient Reign",
+        "requires": "|Seija's Cheats|",
+        "category": [
+            "14.3 - Impossible Spell Card"
+        ],
+        "region": "Impossible Spell Card",
+        "original_name": "永遠の三日天下",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.3-danmaku-amanojaku-impossible-spell-card-ost/ktnhxrpy/05.%20Eternal%20Short-Lived%20Reign.mp3"
+    },
+    {
+        "name": "VD: Nightmare Journal",
+        "requires": "",
+        "category": [
+            "16.5 - Violet Detector"
+        ],
+        "region": "Violet Detector",
+        "original_name": "悪夢日記",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-16.5-violet-detector-touhou-hifuu-nightmare-diary-original-soundtrack/yxtyozdt/01.%20Diary%20of%20Nightmares.mp3"
+    },
+    {
+        "name": "VD: Lucid Dreamer",
+        "requires": "|Sumireko's Smartphone|",
+        "category": [
+            "16.5 - Violet Detector"
+        ],
+        "region": "Violet Detector",
+        "original_name": "ルーシッドドリーマー",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-16.5-violet-detector-touhou-hifuu-nightmare-diary-original-soundtrack/ikbzwjds/02.%20Lucid%20Dreamer.mp3"
+    },
+    {
+        "name": "VD: Lunatic Dreamer",
+        "requires": "|Sumireko's Smartphone|",
+        "category": [
+            "16.5 - Violet Detector"
+        ],
+        "region": "Violet Detector",
+        "original_name": "ルナティックドリーマー",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-16.5-violet-detector-touhou-hifuu-nightmare-diary-original-soundtrack/azytwczm/03.%20Lunatic%20Dreamer.mp3"
+    },
+    {
+        "name": "VD: Nightmare Diary",
+        "requires": "|Sumireko's Smartphone|",
+        "category": [
+            "16.5 - Violet Detector"
+        ],
+        "region": "Violet Detector",
+        "original_name": "ナイトメアダイアリー",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-16.5-violet-detector-touhou-hifuu-nightmare-diary-original-soundtrack/okgaldha/04.%20Nightmare%20Diary.mp3"
+    },
+    {
+        "name": "VD: Old Adam Bar",
+        "requires": "|Sumireko's Smartphone|",
+        "category": [
+            "16.5 - Violet Detector"
+        ],
+        "region": "Violet Detector",
+        "original_name": "バー・オールドアダム",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-16.5-violet-detector-touhou-hifuu-nightmare-diary-original-soundtrack/gdygmszx/05.%20Old%20Adam%20Bar.mp3"
+    },
+    {
+        "name": "VD: The Darkness Brought In by Swallowstone Naturalis Historia",
+        "requires": "|Sumireko's Smartphone|",
+        "category": [
+            "16.5 - Violet Detector"
+        ],
+        "region": "Violet Detector",
+        "original_name": "燕石博物誌が連れてきた闇",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-16.5-violet-detector-touhou-hifuu-nightmare-diary-original-soundtrack/nxyzdsdm/06.%20The%20Darkness%20Brought%20In%20by%20Swallowstone%20Naturalis%20Historia.mp3"
+    },
+    {
+        "name": "HBM: The Collector's Melancholy Afternoon",
+        "requires": "",
+        "category": [
+            "18.5 - 100th Black Market"
+        ],
+        "region": "100th Black Market",
+        "original_name": "コレクターの憂鬱な午後",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-18.5-bulletphiles-black-market-100th-black-market-windows-gamerip-2022/wbtmfqpa/01.%20The%20Collector%27s%20Melancholy%20Afternoon.mp3"
+    },
+    {
+        "name": "HBM: An Exciting and Familiar Gensokyo",
+        "requires": "",
+        "category": [
+            "18.5 - 100th Black Market"
+        ],
+        "region": "100th Black Market",
+        "original_name": "ワクワクする見慣れた幻想郷",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-18.5-bulletphiles-black-market-100th-black-market-windows-gamerip-2022/jsnkmgta/02.%20An%20Exciting%20and%20Familiar%20Gensokyo.mp3"
+    },
+    {
+        "name": "HBM: Youkai Hook On",
+        "requires": "",
+        "category": [
+            "18.5 - 100th Black Market"
+        ],
+        "region": "100th Black Market",
+        "original_name": "妖怪フックオン",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-18.5-bulletphiles-black-market-100th-black-market-windows-gamerip-2022/tvvquzns/03.%20Youkai%20Hook%20On.mp3"
+    },
+    {
+        "name": "HBM: Black Markets Can Happen Anywhere, Anytime",
+        "requires": "",
+        "category": [
+            "18.5 - 100th Black Market"
+        ],
+        "region": "100th Black Market",
+        "original_name": "闇市場は場所を選ばない",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-18.5-bulletphiles-black-market-100th-black-market-windows-gamerip-2022/zroqqfdz/04.%20Black%20Markets%20Can%20Happen%20Anywhere%2C%20Anytime.mp3"
+    },
+    {
+        "name": "HBM: Take Thy Danmaku In Hand, O Bulletphiles",
+        "requires": "",
+        "category": [
+            "18.5 - 100th Black Market"
+        ],
+        "region": "100th Black Market",
+        "original_name": "弾幕を持て、パレッドフィリア達よ",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-18.5-bulletphiles-black-market-100th-black-market-windows-gamerip-2022/oxvlsevn/05.%20Take%20Thy%20Danmaku%20In%20Hand%2C%20O%20Bulletphiles.mp3"
+    },
+    {
+        "name": "HBM: The 100th Black Market",
+        "requires": "",
+        "category": [
+            "18.5 - 100th Black Market"
+        ],
+        "region": "100th Black Market",
+        "original_name": "100回目のブラックマーケット",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-18.5-bulletphiles-black-market-100th-black-market-windows-gamerip-2022/delqvidp/06.%20The%20Hundredth%20Black%20Market.mp3"
+    }
+]

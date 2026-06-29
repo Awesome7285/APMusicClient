@@ -1,0 +1,2553 @@
+[
+    {
+        "name": "IaMP: Forgathering Dream",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "萃夢想",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/nanqqezl/01.%20Memory%20of%20Forgathering%20Dream.mp3"
+    },
+    {
+        "name": "IaMP: Eastern Mystical Tale of Romance",
+        "requires": "|Reimu Hakurei|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "東方妖恋談",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/gxtaxkim/02.%20Eastern%20Mystical%20Love%20Consultation.mp3"
+    },
+    {
+        "name": "IaMP: Maiden's Capriccio ~ Capriccio",
+        "requires": "|Reimu Hakurei|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "少女綺想曲　～ Capriccio",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/ieyfefpk/03.%20Maiden%27s%20Capriccio%20~%20Capriccio.mp3"
+    },
+    {
+        "name": "IaMP: Love-Colored Magic",
+        "requires": "|Marisa Kirisame|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "恋色マジック",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/epoycptw/04.%20Love-Coloured%20Magic.mp3"
+    },
+    {
+        "name": "IaMP: The Witches' Ball",
+        "requires": "|Marisa Kirisame|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "魔女達の舞踏会",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/daslcgyx/05.%20The%20Witches%27%20Ball.mp3"
+    },
+    {
+        "name": "IaMP: The Maid and the Pocket Watch of Blood",
+        "requires": "|Sakuya Izayoi|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "メイドと血の懐中時計",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/rpbmfqmo/06.%20The%20Maid%20and%20the%20Pocket%20Watch%20of%20Blood.mp3"
+    },
+    {
+        "name": "IaMP: Lunar Clock ~ Luna Dial",
+        "requires": "|Sakuya Izayoi|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "月時計　～ ルナ・ダイアル",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/grqeyghv/07.%20Lunar%20Clock%20~%20Lunar%20Dial.mp3"
+    },
+    {
+        "name": "IaMP: The Doll Maker of București",
+        "requires": "|Alice Margatroid|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "ブクレシュティの人形師",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/ekonzhmm/08.%20The%20Doll%20Maker%20of%20Bucuresti.mp3"
+    },
+    {
+        "name": "IaMP: Doll Judgement",
+        "requires": "|Alice Margatroid|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "人形裁判",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/czoyaili/09.%20Doll%20Judgment.mp3"
+    },
+    {
+        "name": "IaMP: Locked Girl ~ The Girl's Sealed Room",
+        "requires": "|Patchouli Knowledge|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "ラクトガール　～ 少女密室",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/hkdmbuuo/10.%20Locked%20Girl%20~%20Girl%27s%20Secret%20Room.mp3"
+    },
+    {
+        "name": "IaMP: Voile, the Magic Library",
+        "requires": "|Patchouli Knowledge|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "ヴワル魔法図書館",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/llatreun/11.%20Voile%2C%20the%20Magic%20Library.mp3"
+    },
+    {
+        "name": "IaMP: Hiroari Shoots a Strange Bird ~ Till When?",
+        "requires": "|Youmu Konpaku|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "広有射怪鳥事　～ Till When",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/cbxllxdx/12.%20Hiroari%20Shoots%20a%20Strange%20Bird%20~%20Till%20When.mp3"
+    },
+    {
+        "name": "IaMP: Eastern Ghostly Dream ~ Ancient Temple",
+        "requires": "|Youmu Konpaku|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "東方妖々夢　～ Ancient Temple",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/gnujlfta/13.%20Eastern%20Mystical%20Dream%20~%20Ancient%20Temple.mp3"
+    },
+    {
+        "name": "IaMP: Septette for a Dead Princess",
+        "requires": "|Remilia Scarlet|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "亡き王女の為のセプテット",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/vbuuprpy/14.%20Septette%20for%20a%20Dead%20Princess.mp3"
+    },
+    {
+        "name": "IaMP: Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life",
+        "requires": "|Yuyuko Saigyouji|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "幽雅に咲かせ、墨染の桜 ～ Border of Life",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/wnyffkjo/15.%20Bloom%20Nobly%2C%20Ink-Black%20Cherry%20Blossom%20~%20Border%20of%20Life.mp3"
+    },
+    {
+        "name": "IaMP: Demystify Feast",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "Demystify Feast",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/ugyxrrgj/16.%20Demystify%20Feast.mp3"
+    },
+    {
+        "name": "IaMP: Night Falls ~ Evening Star",
+        "requires": "|Yukari Yakumo|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "夜が降りてくる　～ Evening Star",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/bcksinoh/17.%20Night%20Falls%20~%20Evening%20Star.mp3"
+    },
+    {
+        "name": "IaMP: The Fabled Land of Onigashima ~ Missing Power",
+        "requires": "|Suika Ibuki|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "御伽の国の鬼が島　～ Missing Power",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/twbslzqe/18.%20Oni%27s%20Island%20in%20the%20Fairyland%20~%20Missing%20Power.mp3"
+    },
+    {
+        "name": "IaMP: End of Summer",
+        "requires": "|IaMP Ending|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "夏明き",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/btqvhxpj/19.%20End%20of%20Summer.mp3"
+    },
+    {
+        "name": "IaMP: Eastern Forgathering Dream",
+        "requires": "|IaMP Ending|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "東方萃夢想",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/abdpoxya/20.%20Eastern%20Memory%20of%20Forgathering%20Dream.mp3"
+    },
+    {
+        "name": "IaMP: Demonic Place",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "魔所",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/fannbrgd/21.%20Demonic%20Place.mp3"
+    },
+    {
+        "name": "IaMP: The Moon",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "月輪",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/yhoaleog/22.%20The%20Moon.mp3"
+    },
+    {
+        "name": "IaMP: Wanderings",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "遍参",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/nwsztutl/23.%20Wanderings.mp3"
+    },
+    {
+        "name": "IaMP: Inner Heart",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "裏心",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/xgozezjy/24.%20Inner%20Heart.mp3"
+    },
+    {
+        "name": "IaMP: Intermezzo",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "Intermezzo",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/oamfswfm/25.%20Intermezzo.mp3"
+    },
+    {
+        "name": "IaMP: Eastern Wind",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "あゆのかぜ",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/vruatrbi/26.%20Eastern%20Wind.mp3"
+    },
+    {
+        "name": "IaMP: Silence",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "森閑",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/kzvbwfkl/27.%20Silence.mp3"
+    },
+    {
+        "name": "IaMP: Skygazer",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "仰空",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/bvzlfteq/28.%20Skygazer.mp3"
+    },
+    {
+        "name": "IaMP: Solitary Place",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "幽境",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/pbnknjge/29.%20Solitary%20Place.mp3"
+    },
+    {
+        "name": "IaMP: Unexpected Visitor",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "珍客",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/cxiucdkm/30.%20Unexpected%20Visitor.mp3"
+    },
+    {
+        "name": "IaMP: Scarlet Night",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "紅夜",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/icmbzsnp/31.%20Scarlet%20Night.mp3"
+    },
+    {
+        "name": "IaMP: Swift Battle",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "戦迅",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/hssiowqo/32.%20Swift%20Battle.mp3"
+    },
+    {
+        "name": "IaMP: Bad Omen",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "禍機",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/vpketdmx/33.%20Bad%20Omen.mp3"
+    },
+    {
+        "name": "IaMP: Broken Moon",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "砕月",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/team-shanghai-alice-7.5/fhuattlz/34.%20Broken%20Moon.mp3"
+    },
+    {
+        "name": "IaMP: Love-Coloured Magic (Trial Ver.)",
+        "requires": "|Marisa Kirisame|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "恋色マジック 体験版 Ver",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/gensoukyokubassui-touhou-suimusou-original-sound-track-2005/flngsuup/1-16.%20Love-Coloured%20Magic%20%28Trial%20Ver.%29.mp3"
+    },
+    {
+        "name": "IaMP: Hiroari Shoots a Strange Bird (Trial Ver.)",
+        "requires": "|Youmu Konpaku|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "広有射怪鳥事 体験版 Ver",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/gensoukyokubassui-touhou-suimusou-original-sound-track-2005/rnnegrso/1-17.%20Hiroari%20Shoots%20a%20Strange%20Bird%20%28Trial%20Ver.%29.mp3"
+    },
+    {
+        "name": "IaMP: Eastern Mystical Tale of Romance (2nd Card Arrangement)",
+        "requires": "|Reimu Hakurei|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "東方妖恋談 弐符アレンジ",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/gensoukyokubassui-touhou-suimusou-original-sound-track-2005/odznsynw/1-18.%20Eastern%20Mystical%20Love%20Consultation%20%282nd%20Card%20Arrangement%29.mp3"
+    },
+    {
+        "name": "IaMP: Love-Coloured Magic (2nd Card Arrangement)",
+        "requires": "|Marisa Kirisame|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "恋色マジック 弐符アレンジ",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/gensoukyokubassui-touhou-suimusou-original-sound-track-2005/teqspudk/1-19.%20Love-Coloured%20Magic%20%282nd%20Card%20Arrangement%29.mp3"
+    },
+    {
+        "name": "IaMP: The Maid and the Pocket Watch of Blood (2nd Card Arrangement)",
+        "requires": "|Sakuya Izayoi|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "メイドと血の懐中時計 弐符アレンジ",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/gensoukyokubassui-touhou-suimusou-original-sound-track-2005/pucbdksh/1-20.%20The%20Maid%20and%20the%20Pocket%20Watch%20of%20Blood%20%282nd%20Card%20Arrangement%29.mp3"
+    },
+    {
+        "name": "IaMP: The Doll Maker of Bucuresti (2nd Card Arrangement)",
+        "requires": "|Alice Margatroid|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "ブクレシュティの人形師 弐符アレンジ",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/gensoukyokubassui-touhou-suimusou-original-sound-track-2005/jwicjpxt/1-21.%20The%20Doll%20Maker%20of%20Bucuresti%20%282nd%20Card%20Arrangement%29.mp3"
+    },
+    {
+        "name": "IaMP: Locked Girl (2nd Card Arrangement)",
+        "requires": "|Patchouli Knowledge|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "ラクトガール 弐符アレンジ",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/gensoukyokubassui-touhou-suimusou-original-sound-track-2005/auxfhxoe/1-22.%20Locked%20Girl%20%282nd%20Card%20Arrangement%29.mp3"
+    },
+    {
+        "name": "IaMP: Hiroari Shoots a Strange Bird (2nd Card Arrangement)",
+        "requires": "|Youmu Konpaku|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "広有射怪鳥事 弐符アレンジ",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/gensoukyokubassui-touhou-suimusou-original-sound-track-2005/demvquyi/1-23.%20Hiroari%20Shoots%20a%20Strange%20Bird%20%282nd%20Card%20Arrangement%29.mp3"
+    },
+    {
+        "name": "IaMP: Septette for a Dead Princess (2nd Card Arrangement)",
+        "requires": "|Remilia Scarlet|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "亡き王女の為のセプテット 弐符アレンジ",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/gensoukyokubassui-touhou-suimusou-original-sound-track-2005/xpdapaey/1-24.%20Septette%20for%20a%20Dead%20Princess%20%282nd%20Card%20Arrangement%29.mp3"
+    },
+    {
+        "name": "IaMP: Demystify Feast (Arrange)",
+        "requires": "",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "Demystify Feast (Arrange)",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/gensoukyokubassui-touhou-suimusou-original-sound-track-2005/vgufpljo/2-20.%20Demystify%20Feast%20%28Arrange%29.mp3"
+    },
+    {
+        "name": "IaMP: Night Falls ~ Evening Star (Arrange)",
+        "requires": "|Yukari Yakumo|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "夜が降りてくる　～ Evening Star (Arrange)",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/gensoukyokubassui-touhou-suimusou-original-sound-track-2005/rttmcbax/2-21.%20Night%20Falls%20~%20Evening%20Star%20%28Arrange%29.mp3"
+    },
+    {
+        "name": "IaMP: The Fabled Land of Onigashima (Arrange)",
+        "requires": "|Suika Ibuki|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "御伽の国の鬼が島　～ Missing Power (Arrange)",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/gensoukyokubassui-touhou-suimusou-original-sound-track-2005/mtgyahhs/2-22.%20Onigashima%20in%20the%20Fairyland%20%28Arrange%29.mp3"
+    },
+    {
+        "name": "IaMP: Eastern Forgathering Dream (Arrange)",
+        "requires": "|IaMP Ending|",
+        "category": [
+            "07.5 - Immaterial and Missing Power"
+        ],
+        "region": "Immaterial and Missing Power",
+        "original_name": "東方萃夢想 (Arrange)",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/gensoukyokubassui-touhou-suimusou-original-sound-track-2005/puhagdar/2-23.%20Eastern%20Memory%20of%20Forgathering%20Dream%20%28Arrange%29.mp3"
+    },
+    {
+        "name": "SWR: Heaven of Scarlet Perception",
+        "requires": "",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "緋想天",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/vrzveifb/01.%20Heaven%20of%20Scarlet%20Perception.mp3"
+    },
+    {
+        "name": "SWR: Usual Days",
+        "requires": "",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "日常坐臥",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/pugwmygi/02.%20Usual%20Days.mp3"
+    },
+    {
+        "name": "SWR: The Ground's Color is Yellow",
+        "requires": "",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "地の色は黄色",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/xnzipboq/03.%20The%20Ground%27s%20Color%20is%20Yellow.mp3"
+    },
+    {
+        "name": "SWR: Argue for and Against",
+        "requires": "",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "甲論乙駁",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/nszuznqq/04.%20Argue%20for%20and%20Against.mp3"
+    },
+    {
+        "name": "SWR: Beautiful Nature Sight",
+        "requires": "",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "風光明媚",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/hovofjfx/05.%20Beautiful%20Nature%20Sight.mp3"
+    },
+    {
+        "name": "SWR: Fragrant Plants",
+        "requires": "",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "香る樹葉花",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/zcomumap/06.%20Fragrant%20Plants.mp3"
+    },
+    {
+        "name": "SWR: Dancing Water Spray",
+        "requires": "",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "踊る水飛沫",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/bkylihoy/07.%20Dancing%20Water%20Spray.mp3"
+    },
+    {
+        "name": "SWR: Swing a Fish to Drive Away Flies",
+        "requires": "",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "以魚駆蠅",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/yzbjrgec/08.%20Swing%20a%20Fish%20to%20Drive%20Away%20Flies.mp3"
+    },
+    {
+        "name": "SWR: Drunk as I Like",
+        "requires": "",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "冷吟閑酔",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/kqxodbvy/11.%20Drunk%20as%20I%20Like.mp3"
+    },
+    {
+        "name": "SWR: Ridiculous Game",
+        "requires": "",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "嘲りの遊戯",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/xjbdmzov/10.%20Ridiculous%20Game.mp3"
+    },
+    {
+        "name": "SWR: Free and Easy",
+        "requires": "",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "放縦不羈",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/awgrqcpt/09.%20Free%20and%20Easy.mp3"
+    },
+    {
+        "name": "SWR: Skies Beyond the Clouds",
+        "requires": "",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "雲外蒼天",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/fhvgtynt/12.%20Skies%20Beyond%20the%20Clouds.mp3"
+    },
+    {
+        "name": "SWR: Crimson in the Black Sea ~ Legendary Fish",
+        "requires": "|Iku Nagae|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "黒い海に紅く　～ Legendary Fish",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/gzcnjgff/13.%20Crimson%20in%20the%20Black%20Sea%20~%20Legendary%20Fish.mp3"
+    },
+    {
+        "name": "SWR: Flawless as Clothing of the Celestials",
+        "requires": "",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "天衣無縫",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/kngtzqiq/14.%20Flawless%20Clothing%20of%20the%20Celestials.mp3"
+    },
+    {
+        "name": "SWR: Catastrophe in Bhavaagra ~ Wonderful Heaven",
+        "requires": "|Tenshi Hinanawi|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "有頂天変　～ Wonderful Heaven",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/gjbeterw/15.%20Catastrophe%20in%20Bhavaagra%20~%20Wonderful%20Heaven.mp3"
+    },
+    {
+        "name": "SWR: Bhavaagra As Seen Through a Child's Mind",
+        "requires": "|Tenshi Hinanawi|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "幼心地の有頂天",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/fmthhpzg/16.%20Bhavaagra%20As%20Seen%20Through%20a%20Child%27s%20Mind.mp3"
+    },
+    {
+        "name": "SWR: Darkening Dusk",
+        "requires": "|SWR Ending|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "暮色蒼然",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/gozeyhpb/17.%20Darkening%20Dusk.mp3"
+    },
+    {
+        "name": "SWR: Eastern Heaven of Scarlet Perception",
+        "requires": "|SWR Ending|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "東方緋想天",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/ldhdserv/18.%20Eastern%20Heaven%20of%20Scarlet%20Perception.mp3"
+    },
+    {
+        "name": "SWR: Eastern Mystical Tale of Romance",
+        "requires": "|Reimu Hakurei|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "東方妖恋談",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/dfrripbn/19.%20Eastern%20Mystical%20Love%20Consultation.mp3"
+    },
+    {
+        "name": "SWR: Vessel of Stars ~ Casket of Star",
+        "requires": "|Marisa Kirisame|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "星の器　～ Casket of Star",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/lquzrkzr/20.%20Vessel%20of%20Stars%20~%20Casket%20of%20Star.mp3"
+    },
+    {
+        "name": "SWR: Flowering Night",
+        "requires": "|Sakuya Izayoi|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "フラワリングナイト",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/lgxtcftb/21.%20Flowering%20Night.mp3"
+    },
+    {
+        "name": "SWR: The Doll Maker of Bucuresti",
+        "requires": "|Alice Margatroid|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "ブクレシュティの人形師",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/dnfnwtgy/22.%20The%20Doll%20Maker%20of%20Bucuresti.mp3"
+    },
+    {
+        "name": "SWR: Hiroari Shoots a Strange Bird ~ Till When?",
+        "requires": "|Youmu Konpaku|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "広有射怪鳥事　～ Till When？",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/yxtccfvl/23.%20Hiroari%20Shoots%20a%20Strange%20Bird%20~%20Till%20When.mp3"
+    },
+    {
+        "name": "SWR: Locked Girl ~ The Girl's Sealed Room",
+        "requires": "|Patchouli Knowledge|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "ラクトガール　～ 少女密室",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/uqubxhsr/24.%20Locked%20Girl%20~%20The%20Girl%27s%20Secret%20Room.mp3"
+    },
+    {
+        "name": "SWR: Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life",
+        "requires": "|Yuyuko Saigyouji|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "幽雅に咲かせ、墨染の桜　～ Border of Life",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/geejhjxl/25.%20Bloom%20Nobly%2C%20Ink-Black%20Cherry%20Blossom%20~%20Border%20of%20Life.mp3"
+    },
+    {
+        "name": "SWR: Septette for a Dead Princess",
+        "requires": "|Remilia Scarlet|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "亡き王女の為のセプテット",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/nfmuoibf/26.%20Septette%20for%20a%20Dead%20Princess.mp3"
+    },
+    {
+        "name": "SWR: Night Falls",
+        "requires": "|Yukari Yakumo|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "夜が降りてくる",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/xzcoocur/27.%20Night%20Falls.mp3"
+    },
+    {
+        "name": "SWR: Broken Moon",
+        "requires": "|Suika Ibuki|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "砕月",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/ystoobsk/28.%20Broken%20Moon.mp3"
+    },
+    {
+        "name": "SWR: Lunatic Eyes ~ Invisible Full Moon",
+        "requires": "|Reisen Udongein Inaba|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "狂気の瞳　～ Invisible Full Moon",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/uvscgcqy/29.%20Lunatic%20Eyes%20~%20Invisible%20Full%20Moon.mp3"
+    },
+    {
+        "name": "SWR: Wind God Girl",
+        "requires": "|Aya Shameimaru|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "風神少女",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/svbrinrt/30.%20Wind%20God%20Girl.mp3"
+    },
+    {
+        "name": "SWR: Higan Retour ~ Riverside View",
+        "requires": "|Komachi Onozuka|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "彼岸帰航　～ Riverside View",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-hisouten-scarlet-weather-rhapsody-gamerip-2008/tonvruyk/31.%20Higan%20Retour%20~%20Riverside%20View.mp3"
+    },
+    {
+        "name": "SWR: Heaven of Scarlet Perception (Arrange)",
+        "requires": "",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "緋想天 (Arrange)",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-10.5-scarlet-weather-rhapsody-zenjinrui-no-tengakuroku-touhou-hisouten-original-soundtrack/ceplmcby/2-01.%20Heaven%20of%20Scarlet%20Perception.mp3"
+    },
+    {
+        "name": "SWR: Crimson in the Black Sea ~ Legendary Fish (Arrange)",
+        "requires": "|Iku Nagae|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "黒い海に紅く　～ Legendary Fish (Arrange)",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-10.5-scarlet-weather-rhapsody-zenjinrui-no-tengakuroku-touhou-hisouten-original-soundtrack/bijzsqcp/2-15%20Crimson%20in%20the%20Black%20Sea%20~%20Legendary%20Fish.mp3"
+    },
+    {
+        "name": "SWR: Catastrophe in Bhavaagra ~ Wonderful Heaven (Arrange)",
+        "requires": "|Tenshi Hinanawi|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "有頂天変　～ Wonderful Heaven (Arrange)",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-10.5-scarlet-weather-rhapsody-zenjinrui-no-tengakuroku-touhou-hisouten-original-soundtrack/peddguha/2-16.%20Catastrophe%20in%20Bhavaagra%20~%20Wonderful%20Heaven.mp3"
+    },
+    {
+        "name": "SWR: Eastern Heaven of Scarlet Perception (Arrange)",
+        "requires": "|SWR Ending|",
+        "category": [
+            "10.5 - Scarlet Weather Rhapsody"
+        ],
+        "region": "Scarlet Weather Rhapsody",
+        "original_name": "東方緋想天 (Arrange)",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-10.5-scarlet-weather-rhapsody-zenjinrui-no-tengakuroku-touhou-hisouten-original-soundtrack/hhpcupqk/2-17.%20Eastern%20Heaven%20of%20Scarlet%20Perception.mp3"
+    },
+    {
+        "name": "UNL: Did You See That Shadow?",
+        "requires": "",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "君はあの影を見たか？",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/bbeqtvwv/01.%20Did%20You%20See%20That%20Shadow.mp3"
+    },
+    {
+        "name": "UNL: Forgathering Dream",
+        "requires": "",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "萃夢想",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/ojclwcvw/02.%20Forgathering%20Dream.mp3"
+    },
+    {
+        "name": "UNL: Faith Is for the Transient People",
+        "requires": "|Sanae Kochiya|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "信仰は儚き人間の為に",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/wsxjclwa/03.%20Faith%20Is%20for%20the%20Transient%20People.mp3"
+    },
+    {
+        "name": "UNL: Tomboyish Girl in Love",
+        "requires": "|Cirno|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "おてんば恋娘",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/lgxvkmfr/04.%20Tomboyish%20Girl%20in%20Love.mp3"
+    },
+    {
+        "name": "UNL: Shanghai Scarlet Teahouse ~ Chinese Tea",
+        "requires": "|Hong Meiling|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "上海紅茶館　～ Chinese Tea",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/rlcepmoi/05.%20Shanghai%20Scarlet%20Teahouse%20~%20Chinese%20Tea.mp3"
+    },
+    {
+        "name": "UNL: Solar Sect of Mystic Wisdom ~ Nuclear Fusion",
+        "requires": "|Utsuho Reiuji|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "霊知の太陽信仰　～ Nuclear Fusion",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/bhgljnmw/06.%20Solar%20Sect%20of%20Mystic%20Wisdom%20~%20Nuclear%20Fusion.mp3"
+    },
+    {
+        "name": "UNL: Tomorrow Will Be Special, Yesterday Was Not",
+        "requires": "|Suwako Moriya|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "明日ハレの日、ケの昨日",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/wtcikxiy/07.%20Tomorrow%20Will%20Be%20Special%2C%20Yesterday%20Was%20Not.mp3"
+    },
+    {
+        "name": "UNL: Unknown X ~ Unfound Adventure",
+        "requires": "|Giant Catfish|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "アンノウンＸ　～ Unfound Adventure",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/svxctkvw/08.%20Unknown%20X%20~%20Unfound%20Adventure.mp3"
+    },
+    {
+        "name": "UNL: X, the Floating Object in the Sky",
+        "requires": "|Suwako Moriya|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "空に浮かぶ物体Ｘ",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/wuigivfm/09.%20X%2C%20the%20Floating%20Object%20in%20the%20Sky.mp3"
+    },
+    {
+        "name": "UNL: Dichromatic Lotus Butterfly ~ Ancients",
+        "requires": "|Reimu Hakurei|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "二色蓮花蝶　～ Ancients",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/wvnddgwo/10.%20Dichromatic%20Lotus%20Butterfly%20~%20Ancients.mp3"
+    },
+    {
+        "name": "UNL: Love-Colored Magic",
+        "requires": "|Marisa Kirisame|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "恋色マジック",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/fibjnqoy/11.%20Love-Coloured%20Magic.mp3"
+    },
+    {
+        "name": "UNL: the Grimoire of Alice",
+        "requires": "|Alice Margatroid|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "the Grimoire Of Alice",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/yyvkmfog/12.%20the%20Grimoire%20of%20Alice.mp3"
+    },
+    {
+        "name": "UNL: Voile, the Magic Library",
+        "requires": "|Patchouli Knowledge|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "ヴワル魔法図書館",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/ocsiotaw/13.%20Voile%2C%20the%20Magic%20Library.mp3"
+    },
+    {
+        "name": "UNL: The Legendary Titan",
+        "requires": "",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "伝説の巨神",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/grnszvdg/14.%20The%20Legendary%20Titan.mp3"
+    },
+    {
+        "name": "UNL: Our Hisoutensoku",
+        "requires": "|Hisoutensoku|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "ぼくらの非想天則",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/vhcoobrc/15.%20Our%20Hisoutensoku.mp3"
+    },
+    {
+        "name": "UNL: Scenery with Dolls",
+        "requires": "",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "人形のある風景",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/lznsypec/16.%20Scenery%20with%20Dolls.mp3"
+    },
+    {
+        "name": "UNL: The Eternal Steam Engine",
+        "requires": "|UNL Ending|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "悠久の蒸気機関",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/ylksgdyi/17.%20The%20Eternal%20Steam%20Engine.mp3"
+    },
+    {
+        "name": "UNL: Unknown X ~ Unfound Adventure (Arrange)",
+        "requires": "|Giant Catfish|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "アンノウンＸ　～ Unfound Adventure (Arrange)",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/vdgsylmb/18.%20Unknown%20X%20~%20Unfound%20Adventure.mp3"
+    },
+    {
+        "name": "UNL: Our Hisoutensoku (Full ver.)",
+        "requires": "|Hisoutensoku|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "ぼくらの非想天則 (Full Ver.)",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/vyhqfdei/19.%20Our%20Hisoutensoku%20%28Full%20ver.%29.mp3"
+    },
+    {
+        "name": "UNL: A Huge Shadow and a Tiny Conclusion",
+        "requires": "",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "巨大な影と小さな結末",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/dulutijv/20.%20A%20Huge%20Shadow%20and%20a%20Tiny%20Conclusion.mp3"
+    },
+    {
+        "name": "UNL: Our Hisoutensoku (Karaoke ver.)",
+        "requires": "|Hisoutensoku|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "ぼくらの非想天則 (カラオケver.)",
+        "url": "https://vgmtreasurechest.com/soundtracks/touhou-12.3-unthinkable-natural-law-kakunetsu-zoushin-hisoutensoku-touhou-hisoutensoku-original-soundtrack/zotdiipz/21.%20Our%20Hisoutensoku%20%28Karaoke%20ver.%29.mp3"
+    },
+    {
+        "name": "UNL: Eastern Mystical Tale of Romance (Century's End Version)",
+        "requires": "|Reimu Hakurei|",
+        "category": [
+            "12.3 - Hisoutensoku"
+        ],
+        "region": "Touhou Hisoutensoku",
+        "original_name": "東方妖恋談 (世紀末バージョン)",
+        "url": "https://jetta.vgmtreasurechest.com/soundtracks/touhou-123-hisoutensoku-choudokyuu-ginyoru-no-nazo-o-oe-windows-gamerip-2009/qsnpjbgb/24.%20Eastern%20Mystical%20Love%20Consultation%20%28Century%27s%20End%20Version%29.mp3"
+    },
+    {
+        "name": "HM: This Dull World's Unchanging Pessimism",
+        "requires": "",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "塵界不変のペシミズム～心綺楼囃子",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/bvzkdjnl/1-01.%20%E5%A1%B5%E7%95%8C%E4%B8%8D%E5%A4%89%E3%81%AE%E3%83%9A%E3%82%B7%E3%83%9F%E3%82%BA%E3%83%A0%EF%BD%9E%E5%BF%83%E7%B6%BA%E6%A5%BC%E5%9B%83%E5%AD%90.mp3"
+    },
+    {
+        "name": "HM: A Popular Location",
+        "requires": "",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "人気のある場所",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/qvhyxqmn/1-02.%20%E4%BA%BA%E6%B0%97%E3%81%AE%E3%81%82%E3%82%8B%E5%A0%B4%E6%89%80.mp3"
+    },
+    {
+        "name": "HM: Spring Lane ~ Colorful Path",
+        "requires": "|Reimu Hakurei|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "春色小径　～ Colorful Path",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/cxflniad/1-03.%20%E6%98%A5%E8%89%B2%E5%B0%8F%E5%BE%84%E3%80%80%EF%BD%9E%20Colorful%20Path.mp3"
+    },
+    {
+        "name": "HM: Magus Night",
+        "requires": "|Marisa Kirisame|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "メイガスナイト",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/nizywknj/1-04.%20%E3%83%A1%E3%82%A4%E3%82%AC%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%88.mp3"
+    },
+    {
+        "name": "HM: The Traditional Old Man and the Stylish Girl",
+        "requires": "|Ichirin Kumoi| AND |Unzan|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "時代親父とハイカラ少女",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/gbrcmbwf/1-05.%20%E6%99%82%E4%BB%A3%E8%A6%AA%E7%88%B6%E3%81%A8%E3%83%8F%E3%82%A4%E3%82%AB%E3%83%A9%E5%B0%91%E5%A5%B3.mp3"
+    },
+    {
+        "name": "HM: Emotional Skyscraper ~ Cosmic Mind",
+        "requires": "|Byakuren Hijiri|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "感情の摩天楼　～ Cosmic Mind",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/mtjoswda/1-06.%20%E6%84%9F%E6%83%85%E3%81%AE%E6%91%A9%E5%A4%A9%E6%A5%BC%E3%80%80%EF%BD%9E%20Cosmic%20Mind.mp3"
+    },
+    {
+        "name": "HM: Omiwa Legend",
+        "requires": "|Mononobe no Futo|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "大神神話伝",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/vapxugvk/1-07.%20%E5%A4%A7%E7%A5%9E%E7%A5%9E%E8%A9%B1%E4%BC%9D.mp3"
+    },
+    {
+        "name": "HM: Shoutoku Legend ~ True Administrator",
+        "requires": "|Toyosatomimi no Miko|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "聖徳伝説　～ True Administrator",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/prouftch/1-08.%20%E8%81%96%E5%BE%B3%E4%BC%9D%E8%AA%AC%E3%80%80%EF%BD%9E%20True%20Administrator.mp3"
+    },
+    {
+        "name": "HM: Akutagawa Ryuunosuke's \"Kappa\" ~ Candid Friend",
+        "requires": "|Nitori Kawashiro|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "芥川龍之介の河童　～ Candid Friend",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/crcmddif/1-09.%20%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B%E3%81%AE%E6%B2%B3%E7%AB%A5%20%EF%BD%9E%20Candid%20Friend.mp3"
+    },
+    {
+        "name": "HM: Hartmann's Youkai Girl",
+        "requires": "|Koishi Komeiji|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "ハルトマンの妖怪少女",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/cvydvtga/1-10.%20%E3%83%8F%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3%E3%81%AE%E5%A6%96%E6%80%AA%E5%B0%91%E5%A5%B3.mp3"
+    },
+    {
+        "name": "HM: An Unpopular Location",
+        "requires": "",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "人気のない場所",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/kzrmhafa/1-11.%20%E4%BA%BA%E6%B0%97%E3%81%AE%E3%81%AA%E3%81%84%E5%A0%B4%E6%89%80.mp3"
+    },
+    {
+        "name": "HM: Futatsuiwa from Sado",
+        "requires": "|Mamizou Futatsuiwa|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "佐渡の二ッ岩",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/mifcxedf/1-12.%20%E4%BD%90%E6%B8%A1%E3%81%AE%E3%83%8B%E3%83%83%E5%B2%A9.mp3"
+    },
+    {
+        "name": "HM: Today's Front-Page Headline",
+        "requires": "",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "本日の一面記事",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/oflolpny/1-13.%20%E6%9C%AC%E6%97%A5%E3%81%AE%E4%B8%80%E9%9D%A2%E8%A8%98%E4%BA%8B.mp3"
+    },
+    {
+        "name": "HM: Futatsuiwa from Gensokyo",
+        "requires": "|Mamizou Futatsuiwa|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "幻想郷の二ッ岩",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/dupozhlk/1-14.%20%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E4%BA%8C%E3%83%83%E5%B2%A9.mp3"
+    },
+    {
+        "name": "HM: The Village in the Dead of Night",
+        "requires": "",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "丑三つ時の里",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/pvhyyvjg/1-15.%20%E4%B8%91%E4%B8%89%E3%81%A4%E6%99%82%E3%81%AE%E9%87%8C.mp3"
+    },
+    {
+        "name": "HM: The Lost Emotion",
+        "requires": "|Hata no Kokoro|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "亡失のエモーション",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/dxgkjoqo/1-16.%20%E4%BA%A1%E5%A4%B1%E3%81%AE%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.mp3"
+    },
+    {
+        "name": "HM: Morning Clouds",
+        "requires": "|HM Ending|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "暁雲",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/zcnjimmz/1-17.%20%E6%9A%81%E9%9B%B2.mp3"
+    },
+    {
+        "name": "HM: Officially-Sanctioned Twilight Newspaper (Short Version)",
+        "requires": "|HM Ending|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "官板黄昏新聞 (Short Version)",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/kbdmapyz/1-18.%20%E5%AE%98%E6%9D%BF%E9%BB%84%E6%98%8F%E6%96%B0%E8%81%9E%20%28Short%20Version%29.mp3"
+    },
+    {
+        "name": "HM: Shinkirou Orchestra",
+        "requires": "",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "心綺楼囃子 (Short Version)",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/zckwanpk/1-19.%20%E5%BF%83%E7%B6%BA%E6%A5%BC%E5%9B%83%E5%AD%90%20%28Short%20Version%29.mp3"
+    },
+    {
+        "name": "HM: Shinkirou Festival Orchestra",
+        "requires": "",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "心綺楼祭囃子",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/erxkjnqp/2-01.%20%E5%BF%83%E7%B6%BA%E6%A5%BC%E7%A5%AD%E5%9B%83%E5%AD%90.mp3"
+    },
+    {
+        "name": "HM: Performer Selection",
+        "requires": "",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "演者選択",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/zggmqvcc/2-02.%20%E6%BC%94%E8%80%85%E9%81%B8%E6%8A%9E.mp3"
+    },
+    {
+        "name": "HM: An Unused Location",
+        "requires": "",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "使われなかった場所",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/ftdiiouh/2-03.%20%E4%BD%BF%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E5%A0%B4%E6%89%80.mp3"
+    },
+    {
+        "name": "HM: Popularity Boom / Reimu Hakurei",
+        "requires": "|Reimu Hakurei|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "人気爆発／博麗霊夢",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/dtkrghoy/2-04.%20%E4%BA%BA%E6%B0%97%E7%88%86%E7%99%BA%EF%BC%8F%E5%8D%9A%E9%BA%97%E9%9C%8A%E5%A4%A2.mp3"
+    },
+    {
+        "name": "HM: Popularity Boom / Marisa Kirisame",
+        "requires": "|Marisa Kirisame|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "人気爆発／霧雨魔理沙",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/cooeflrb/2-05.%20%E4%BA%BA%E6%B0%97%E7%88%86%E7%99%BA%EF%BC%8F%E9%9C%A7%E9%9B%A8%E9%AD%94%E7%90%86%E6%B2%99.mp3"
+    },
+    {
+        "name": "HM: Popularity Boom / Ichirin Kumoi & Unzan",
+        "requires": "|Ichirin Kumoi| AND |Unzan|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "人気爆発／雲居一輪＆雲山",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/gcsimlur/2-06.%20%E4%BA%BA%E6%B0%97%E7%88%86%E7%99%BA%EF%BC%8F%E9%9B%B2%E5%B1%85%E4%B8%80%E8%BC%AA%EF%BC%86%E9%9B%B2%E5%B1%B1.mp3"
+    },
+    {
+        "name": "HM: Popularity Boom / Byakuren Hijiri",
+        "requires": "|Byakuren Hijiri|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "人気爆発／聖白蓮",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/xlqsutjn/2-07.%20%E4%BA%BA%E6%B0%97%E7%88%86%E7%99%BA%EF%BC%8F%E8%81%96%E7%99%BD%E8%93%AE.mp3"
+    },
+    {
+        "name": "HM: Popularity Boom / Mononobe no Futo",
+        "requires": "|Mononobe no Futo|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "人気爆発／物部布都",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/pjabdqsp/2-08.%20%E4%BA%BA%E6%B0%97%E7%88%86%E7%99%BA%EF%BC%8F%E7%89%A9%E9%83%A8%E5%B8%83%E9%83%BD.mp3"
+    },
+    {
+        "name": "HM: Popularity Boom / Toyosatomimi no Miko",
+        "requires": "|Toyosatomimi no Miko|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "人気爆発／豊聡耳神子",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/vkoqlgxt/2-09.%20%E4%BA%BA%E6%B0%97%E7%88%86%E7%99%BA%EF%BC%8F%E8%B1%8A%E8%81%A1%E8%80%B3%E7%A5%9E%E5%AD%90.mp3"
+    },
+    {
+        "name": "HM: Popularity Boom / Nitori Kawashiro",
+        "requires": "|Nitori Kawashiro|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "人気爆発／河城にとり",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/dlsgcrev/2-10.%20%E4%BA%BA%E6%B0%97%E7%88%86%E7%99%BA%EF%BC%8F%E6%B2%B3%E5%9F%8E%E3%81%AB%E3%81%A8%E3%82%8A.mp3"
+    },
+    {
+        "name": "HM: Popularity Boom / Koishi Komeiji",
+        "requires": "|Koishi Komeiji|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "人気爆発／古明地こいし",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/plnhtavc/2-11.%20%E4%BA%BA%E6%B0%97%E7%88%86%E7%99%BA%EF%BC%8F%E5%8F%A4%E6%98%8E%E5%9C%B0%E3%81%93%E3%81%84%E3%81%97.mp3"
+    },
+    {
+        "name": "HM: Popularity Boom / Mamizou Futatsuiwa",
+        "requires": "|Mamizou Futatsuiwa|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "人気爆発／二ッ岩マミゾウ",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/yjdmbwda/2-12.%20%E4%BA%BA%E6%B0%97%E7%88%86%E7%99%BA%EF%BC%8F%E4%BA%8C%E3%83%83%E5%B2%A9%E3%83%9E%E3%83%9F%E3%82%BE%E3%82%A6.mp3"
+    },
+    {
+        "name": "HM: Popularity Boom / Hata no Kokoro",
+        "requires": "|Hata no Kokoro|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "人気爆発／秦こころ",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/rhligkgy/2-13.%20%E4%BA%BA%E6%B0%97%E7%88%86%E7%99%BA%EF%BC%8F%E7%A7%A6%E3%81%93%E3%81%93%E3%82%8D.mp3"
+    },
+    {
+        "name": "HM: Last Word Unleashed",
+        "requires": "|HM Ending|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "ラストワード発動",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/zevpoald/2-14.%20%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AF%E3%83%BC%E3%83%89%E7%99%BA%E5%8B%95.mp3"
+    },
+    {
+        "name": "HM: Officially-Sanctioned Twilight Newspaper",
+        "requires": "|HM Ending|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "官板黄昏新聞",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/ihjytutl/2-15.%20%E5%AE%98%E6%9D%BF%E9%BB%84%E6%98%8F%E6%96%B0%E8%81%9E.mp3"
+    },
+    {
+        "name": "HM: The Lost Emotion (Arrange Version)",
+        "requires": "|Hata no Kokoro|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "亡失のエモーション (Arrange Version)",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/xdasnlpp/2-16.%20%E4%BA%A1%E5%A4%B1%E3%81%AE%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20%28Arrange%20Version%29.mp3"
+    },
+    {
+        "name": "HM: Akutagawa Ryuunosuke's \"Kappa\" ~ Candid Friend (8bit)",
+        "requires": "|Nitori Kawashiro|",
+        "category": [
+            "13.5 - Hopeless Masquerade"
+        ],
+        "region": "Hopeless Masquerade",
+        "original_name": "芥川龍之介の河童 ～ Candid Friend (8bit)",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/ankoku-nougakushuu-shinkirou-touhou-shinkirou-original-soundtrack/itvvquby/2-17.%20%E9%9F%B3%E8%BD%A817.mp3"
+    },
+    {
+        "name": "ULiL: Heart-Stirring Urban Legends",
+        "requires": "",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "心揺さぶる都市伝説",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/oannzirl/1-01.%20%E5%BF%83%E6%8F%BA%E3%81%95%E3%81%B6%E3%82%8B%E9%83%BD%E5%B8%82%E4%BC%9D%E8%AA%AC.mp3"
+    },
+    {
+        "name": "ULiL: Gensokyo Mystery Discovery",
+        "requires": "",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "幻想郷ふしぎ発見",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/digivfql/1-02.%20%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%B5%E3%81%97%E3%81%8E%E7%99%BA%E8%A6%8B.mp3"
+    },
+    {
+        "name": "ULiL: An Everyday Life with Balls",
+        "requires": "",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "ボールのある日常",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/gakvaosy/1-03.%20%E3%83%9C%E3%83%BC%E3%83%AB%E3%81%AE%E3%81%82%E3%82%8B%E6%97%A5%E5%B8%B8.mp3"
+    },
+    {
+        "name": "ULiL: Occult à la Carte",
+        "requires": "|Occult Ball:1|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "オカルトアラカルト",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/peanpmqs/1-04.%20%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%82%A2%E3%83%A9%E3%82%AB%E3%83%AB%E3%83%88.mp3"
+    },
+    {
+        "name": "ULiL: Forms of Manifested Folklore",
+        "requires": "",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "顕現した伝承の形",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/shlhexbp/1-05.%20%E9%A1%95%E7%8F%BE%E3%81%97%E3%81%9F%E4%BC%9D%E6%89%BF%E3%81%AE%E5%BD%A2.mp3"
+    },
+    {
+        "name": "ULiL: Seven-Orb Collection Showdown",
+        "requires": "|Occult Ball:2|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "七玉蒐集ショウダウン",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/vjgdasky/1-06.%20%E4%B8%83%E7%8E%89%E8%92%90%E9%9B%86%E3%82%B7%E3%83%A7%E3%82%A6%E3%83%80%E3%82%A6%E3%83%B3.mp3"
+    },
+    {
+        "name": "ULiL: Arrival of the Winds of the Era",
+        "requires": "",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "時代の風の訪れ",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/mpmqsrgf/1-07.%20%E6%99%82%E4%BB%A3%E3%81%AE%E9%A2%A8%E3%81%AE%E8%A8%AA%E3%82%8C.mp3"
+    },
+    {
+        "name": "ULiL: Fair Scramble",
+        "requires": "|Occult Ball:3|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "公正なる奪い合い",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/huejlccf/1-08.%20%E5%85%AC%E6%AD%A3%E3%81%AA%E3%82%8B%E5%A5%AA%E3%81%84%E5%90%88%E3%81%84.mp3"
+    },
+    {
+        "name": "ULiL: The Value Is Unrealized",
+        "requires": "",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "価値がわからない",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/sxmrwicn/1-09.%20%E4%BE%A1%E5%80%A4%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84.mp3"
+    },
+    {
+        "name": "ULiL: Bell of the Antipodes",
+        "requires": "|Occult Ball:4|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "対蹠地の鐘",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/hwlsetft/1-10.%20%E5%AF%BE%E8%B9%A0%E5%9C%B0%E3%81%AE%E9%90%98.mp3"
+    },
+    {
+        "name": "ULiL: Believe in Possibilities",
+        "requires": "",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "可能性を信じて",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/eqoyajrh/1-11.%20%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%92%E4%BF%A1%E3%81%98%E3%81%A6.mp3"
+    },
+    {
+        "name": "ULiL: Bamboo Forest in Flames",
+        "requires": "|Occult Ball:5|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "竹林インフレイム",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/ligivdel/1-12.%20%E7%AB%B9%E6%9E%97%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E3%82%A4%E3%83%A0.mp3"
+    },
+    {
+        "name": "ULiL: Those Who Know the Truth",
+        "requires": "|Occult Ball:6|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "真実を知る者",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/tjpzagcv/1-13.%20%E7%9C%9F%E5%AE%9F%E3%82%92%E7%9F%A5%E3%82%8B%E8%80%85.mp3"
+    },
+    {
+        "name": "ULiL: Battlefield of the Flower Threshold",
+        "requires": "|Kasen Ibaraki| AND |Occult Ball:6|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "華狭間のバトルフィールド",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/umapafak/1-14.%20%E8%8F%AF%E7%8B%AD%E9%96%93%E3%81%AE%E3%83%90%E3%83%88%E3%83%AB%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89.mp3"
+    },
+    {
+        "name": "ULiL: Outside World Folklore",
+        "requires": "|Occult Ball:7|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "外界フォークロア",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/avehzzyv/1-15.%20%E5%A4%96%E7%95%8C%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%AD%E3%82%A2.mp3"
+    },
+    {
+        "name": "ULiL: Last Occultism ~ Esotericist of the Present World",
+        "requires": "|Sumireko Usami| AND |Occult Ball:7|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "ラストオカルティズム　～ 現し世の秘術師",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/ieuoizzz/1-16.%20%E3%83%A9%E3%82%B9%E3%83%88%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0%EF%BD%9E%20%E7%8F%BE%E3%81%97%E4%B8%96%E3%81%AE%E7%A7%98%E8%A1%93%E5%B8%AB.mp3"
+    },
+    {
+        "name": "ULiL: Each Ending",
+        "requires": "|ULiL Ending|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "各々の結末",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/zytxfkik/1-17.%20%E5%90%84%E3%80%85%E3%81%AE%E7%B5%90%E6%9C%AB.mp3"
+    },
+    {
+        "name": "ULiL: The Arcane Is Revealed",
+        "requires": "|ULiL Ending|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "明かされる深秘",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/chebqdrx/1-18.%20%E6%98%8E%E3%81%8B%E3%81%95%E3%82%8C%E3%82%8B%E6%B7%B1%E7%A7%98.mp3"
+    },
+    {
+        "name": "ULiL: Dichromatic Lotus Butterfly ~ Red and White",
+        "requires": "|Reimu Hakurei|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "二色蓮花蝶　～ Red and White",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/qjxlmczp/2-01.%20%E4%BA%8C%E8%89%B2%E8%93%AE%E8%8A%B1%E8%9D%B6%EF%BD%9E%20Red%20and%20White.mp3"
+    },
+    {
+        "name": "ULiL: Love-Colored Master Spark",
+        "requires": "|Marisa Kirisame|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "恋色マスタースパーク",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/dvuluseq/2-02.%20%E6%81%8B%E8%89%B2%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF.mp3"
+    },
+    {
+        "name": "ULiL: The Traditional Old Man and the Stylish Girl",
+        "requires": "|Ichirin Kumoi| AND |Unzan|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "時代親父とハイカラ少女",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/ttonzitr/2-03.%20%E6%99%82%E4%BB%A3%E8%A6%AA%E7%88%B6%E3%81%A8%E3%83%8F%E3%82%A4%E3%82%AB%E3%83%A9%E5%B0%91%E5%A5%B3.mp3"
+    },
+    {
+        "name": "ULiL: Emotional Skyscraper ~ Cosmic Mind",
+        "requires": "|Byakuren Hijiri|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "感情の摩天楼　～ Cosmic Mind",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/bkvzhqfd/2-04.%20%E6%84%9F%E6%83%85%E3%81%AE%E6%91%A9%E5%A4%A9%E6%A5%BC%EF%BD%9E%20Cosmic%20Mind.mp3"
+    },
+    {
+        "name": "ULiL: Omiwa Legend",
+        "requires": "|Mononobe no Futo|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "大神神話伝",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/bynryrnp/2-05.%20%E5%A4%A7%E7%A5%9E%E7%A5%9E%E8%A9%B1%E4%BC%9D.mp3"
+    },
+    {
+        "name": "ULiL: Shoutoku Legend ~ True Administrator",
+        "requires": "|Toyosatomimi no Miko|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "聖徳伝説　～ True Administrator",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/jzxmvplo/2-06.%20%E8%81%96%E5%BE%B3%E4%BC%9D%E8%AA%AC%EF%BD%9E%20True%20Administrator.mp3"
+    },
+    {
+        "name": "ULiL: Akutagawa Ryuunosuke's \"Kappa\" ~ Candid Friend",
+        "requires": "|Nitori Kawashiro|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "芥川龍之介の河童　～ Candid Friend",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/kktoodyh/2-07.%20%E8%8A%A5%E5%B7%9D%E9%BE%8D%E4%B9%8B%E4%BB%8B%E3%81%AE%E6%B2%B3%E7%AB%A5%EF%BD%9E%20Candid%20Friend.mp3"
+    },
+    {
+        "name": "ULiL: Hartmann's Youkai Girl",
+        "requires": "|Koishi Komeiji|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "ハルトマンの妖怪少女",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/qhmokimj/2-08.%20%E3%83%8F%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3%E3%81%AE%E5%A6%96%E6%80%AA%E5%B0%91%E5%A5%B3.mp3"
+    },
+    {
+        "name": "ULiL: Futatsuiwa from Gensokyo",
+        "requires": "|Mamizou Futatsuiwa|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "幻想郷の二ッ岩",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/lbaxkjnp/2-09.%20%E5%B9%BB%E6%83%B3%E9%83%B7%E3%81%AE%E4%BA%8C%E3%83%83%E5%B2%A9.mp3"
+    },
+    {
+        "name": "ULiL: The Lost Emotion",
+        "requires": "|Hata no Kokoro|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "亡失のエモーション",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/lmyjazxm/2-10.%20%E4%BA%A1%E5%A4%B1%E3%81%AE%E3%82%A8%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.mp3"
+    },
+    {
+        "name": "ULiL: Reach for the Moon, Immortal Smoke",
+        "requires": "|Fujiwara no Mokou|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "月まで届け、不死の煙",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/qwjfycse/2-11.%20%E6%9C%88%E3%81%BE%E3%81%A7%E5%B1%8A%E3%81%91%E3%80%81%E4%B8%8D%E6%AD%BB%E3%81%AE%E7%85%99.mp3"
+    },
+    {
+        "name": "ULiL: Inchlings of the Shining Needle ~ Little Princess",
+        "requires": "|Shinmyoumaru Sukuna|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "輝く針の小人族　～ Little Princess",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/uikxjdmc/2-12.%20%E8%BC%9D%E3%81%8F%E9%87%9D%E3%81%AE%E5%B0%8F%E4%BA%BA%E6%97%8F%EF%BD%9E%20Little%20Princess.mp3"
+    },
+    {
+        "name": "ULiL: Battlefield of the Flower Threshold (Arrange)",
+        "requires": "|Kasen Ibaraki|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "華狭間のバトルフィールド (Arrange)",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/bzttpphp/2-13.%20%E8%8F%AF%E7%8B%AD%E9%96%93%E3%81%AE%E3%83%90%E3%83%88%E3%83%AB%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89.mp3"
+    },
+    {
+        "name": "ULiL: Last Occultism ~ Esotericist of the Present World (Arrange)",
+        "requires": "|Sumireko Usami|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "ラストオカルティズム　～ 現し世の秘術師 (Arrange)",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/ecxfkjrf/2-14.%20%E3%83%A9%E3%82%B9%E3%83%88%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0%EF%BD%9E%20%E7%8F%BE%E3%81%97%E4%B8%96%E3%81%AE%E7%A7%98%E8%A1%93%E5%B8%AB.mp3"
+    },
+    {
+        "name": "ULiL: The Arcane is Revealed (Arrange)",
+        "requires": "|ULiL Ending|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "明かされる深秘 (Arrange)",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-14.5-urban-legend-in-limbo-soundtrack/zjvcavzn/2-15.%20%E6%98%8E%E3%81%8B%E3%81%95%E3%82%8C%E3%82%8B%E6%B7%B1%E7%A7%98.mp3"
+    },
+    {
+        "name": "ULiL: Lunatic Eyes ~ Invisible Full Moon",
+        "requires": "|Reisen Udongein Inaba| AND |Playstation 4|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "狂気の瞳　～ Invisible Full Moon",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/shinpiteki-music-collection-supplement-touhou-shinpiroku-first-press-bonus-cd-2016/ndcbyros/01.%20%E7%8B%82%E6%B0%97%E3%81%AE%E7%9E%B3%E3%80%80%EF%BD%9E%20Invisible%20Full%20Moon.mp3"
+    },
+    {
+        "name": "ULiL: Neo Bamboo Forest in Flames",
+        "requires": "|Playstation 4|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "ネオ竹林インフレイム",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/shinpiteki-music-collection-supplement-touhou-shinpiroku-first-press-bonus-cd-2016/zqiuvung/02.%20%E3%83%8D%E3%82%AA%E7%AB%B9%E6%9E%97%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E3%82%A4%E3%83%A0.mp3"
+    },
+    {
+        "name": "ULiL: Bell of Aeons",
+        "requires": "|Playstation 4|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "億万劫の鐘",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/shinpiteki-music-collection-supplement-touhou-shinpiroku-first-press-bonus-cd-2016/piuatsil/03.%20%E5%84%84%E4%B8%87%E5%8A%AB%E3%81%AE%E9%90%98.mp3"
+    },
+    {
+        "name": "ULiL: Occult Attract",
+        "requires": "|Playstation 4|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "オカルトアトラクト",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/shinpiteki-music-collection-supplement-touhou-shinpiroku-first-press-bonus-cd-2016/gzdtjosu/04.%20%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%88%E3%82%A2%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88.mp3"
+    },
+    {
+        "name": "ULiL: Boundary Folklore",
+        "requires": "|Playstation 4|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "境界フォークロア",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/shinpiteki-music-collection-supplement-touhou-shinpiroku-first-press-bonus-cd-2016/xdyhspvi/05.%20%E5%A2%83%E7%95%8C%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%AD%E3%82%A2.mp3"
+    },
+    {
+        "name": "ULiL: Unknown X ~ Occultly Madness",
+        "requires": "|Playstation 4|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "アンノウンX　～ Occultly Madness",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/shinpiteki-music-collection-supplement-touhou-shinpiroku-first-press-bonus-cd-2016/gglokksi/06.%20%E3%82%A2%E3%83%B3%E3%83%8E%E3%82%A6%E3%83%B3%EF%BC%B8%E3%80%80%EF%BD%9E%20Occultly%20Madness.mp3"
+    },
+    {
+        "name": "ULiL: Madness of Visages ~ Horrible Night",
+        "requires": "|Playstation 4|",
+        "category": [
+            "14.5 - Urban Legend in Limbo"
+        ],
+        "region": "Urban Legend in Limbo",
+        "original_name": "相貌の狂い ～ Horrible Night",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/shinpiteki-music-collection-supplement-touhou-shinpiroku-first-press-bonus-cd-2016/mluprnrt/07.%20%E7%9B%B8%E8%B2%8C%E3%81%AE%E7%8B%82%E3%81%84%E3%80%80%EF%BD%9E%20Horrible%20Night.mp3"
+    },
+    {
+        "name": "AoCF: Seeds of the Incident",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "異変の種子",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/ycptxixo/1-01.%20%E7%95%B0%E5%A4%89%E3%81%AE%E7%A8%AE%E5%AD%90.mp3"
+    },
+    {
+        "name": "AoCF: Being Things Eye To Eye",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "憑依投合",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/brcojhis/1-02.%20%E6%86%91%E4%BE%9D%E6%8A%95%E5%90%88.mp3"
+    },
+    {
+        "name": "AoCF: The Ground's Color is Yellow ~ Primrose",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "地の色は黄色　～ Primrose",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/oqowplmy/1-03.%20%E5%9C%B0%E3%81%AE%E8%89%B2%E3%81%AF%E9%BB%84%E8%89%B2%20%EF%BD%9E%20Primrose.mp3"
+    },
+    {
+        "name": "AoCF: Mushroom Waltz",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "マッシュルーム・ワルツ",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/kcgakvbt/1-04.%20%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%AF%E3%83%AB%E3%83%84.mp3"
+    },
+    {
+        "name": "AoCF: The One Jointly Responsible",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "連帯責人",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/njfbrevr/1-05.%20%E9%80%A3%E5%B8%AF%E8%B2%AC%E4%BA%BA.mp3"
+    },
+    {
+        "name": "AoCF: The Palanquin Ship Flies in the Sky",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "聖輦船空を往く",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/veknhyud/1-06.%20%E8%81%96%E8%BC%A6%E8%88%B9%E7%A9%BA%E3%82%92%E5%BE%80%E3%81%8F.mp3"
+    },
+    {
+        "name": "AoCF: Equality Under the Law of Dharma",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "法力の下の平等",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/ifcurzyu/1-07.%20%E6%B3%95%E5%8A%9B%E3%81%AE%E4%B8%8B%E3%81%AE%E5%B9%B3%E7%AD%89.mp3"
+    },
+    {
+        "name": "AoCF: Sprouts of Suspicion",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "疑惑の芽生え",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/auxdario/1-08.%20%E7%96%91%E6%83%91%E3%81%AE%E8%8A%BD%E7%94%9F%E3%81%88.mp3"
+    },
+    {
+        "name": "AoCF: An Odd Couple",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "合縁奇縁",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/vnbrimnb/1-09.%20%E5%90%88%E7%B8%81%E5%A5%87%E7%B8%81.mp3"
+    },
+    {
+        "name": "AoCF: Constant and Unchanging Temple of Worship",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "恒常不変の参廟祀",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/snieunej/1-10.%20%E6%81%92%E5%B8%B8%E4%B8%8D%E5%A4%89%E3%81%AE%E5%8F%82%E5%BB%9F%E7%A5%80.mp3"
+    },
+    {
+        "name": "AoCF: Shining Armillary Sphere",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "光輝く天球儀",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/hkbeqqjw/1-11.%20%E5%85%89%E8%BC%9D%E3%81%8F%E5%A4%A9%E7%90%83%E5%84%80.mp3"
+    },
+    {
+        "name": "AoCF: Two Minds of One Body",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "異心同体",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/htxivgsw/1-12.%20%E7%95%B0%E5%BF%83%E5%90%8C%E4%BD%93.mp3"
+    },
+    {
+        "name": "AoCF: The Ravine Kappa's Technological Prowess",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "沢の河童の技術力",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/czpbkymo/1-13.%20%E6%B2%A2%E3%81%AE%E6%B2%B3%E7%AB%A5%E3%81%AE%E6%8A%80%E8%A1%93%E5%8A%9B.mp3"
+    },
+    {
+        "name": "AoCF: A Rose Blooming in the Underworld",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "地底に咲く薔薇",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/ibfyzexz/1-14.%20%E5%9C%B0%E5%BA%95%E3%81%AB%E5%92%B2%E3%81%8F%E8%96%94%E8%96%87.mp3"
+    },
+    {
+        "name": "AoCF: In the Deep-Green Tanuki Forest",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "深緑の狸森にて",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/hkertwao/1-15.%20%E6%B7%B1%E7%B7%91%E3%81%AE%E7%8B%B8%E6%A3%AE%E3%81%AB%E3%81%A6.mp3"
+    },
+    {
+        "name": "AoCF: Scheming Outside the Box",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "知略縦横",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/qmmaskzr/1-16.%20%E7%9F%A5%E7%95%A5%E7%B8%A6%E6%A8%AA.mp3"
+    },
+    {
+        "name": "AoCF: Yorimashi Between Dreams and Reality ~ Necro-Fantasia",
+        "requires": "|Yukari Yakumo|",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "憑坐は夢と現の間に　～ Necro-Fantasia",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/mjiqbnji/1-17.%20%E6%86%91%E5%9D%90%E3%81%AF%E5%A4%A2%E3%81%A8%E7%8F%BE%E3%81%AE%E9%96%93%E3%81%AB%20%EF%BD%9E%20Necro-Fantasia.mp3"
+    },
+    {
+        "name": "AoCF: Floating with the Tide",
+        "requires": "|AoCF Ending|",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "行雲流水",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/nqoycooe/1-18.%20%E8%A1%8C%E9%9B%B2%E6%B5%81%E6%B0%B4.mp3"
+    },
+    {
+        "name": "AoCF: Possession Flowers Yet to Bud",
+        "requires": "|AoCF Ending|",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "未だ蕾む憑依華",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/bwddeluo/1-19.%20%E6%9C%AA%E3%81%A0%E8%95%BE%E3%82%80%E6%86%91%E4%BE%9D%E8%8F%AF.mp3"
+    },
+    {
+        "name": "AoCF: Branches Reaching to the Truth",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "真相へ繋がる枝葉",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/mqubvznq/2-01.%20%E7%9C%9F%E7%9B%B8%E3%81%B8%E7%B9%8B%E3%81%8C%E3%82%8B%E6%9E%9D%E8%91%89.mp3"
+    },
+    {
+        "name": "AoCF: Immortal Red Soul",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "不滅のレッドソウル",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/oxwqpbni/2-02.%20%E4%B8%8D%E6%BB%85%E3%81%AE%E3%83%AC%E3%83%83%E3%83%89%E3%82%BD%E3%82%A6%E3%83%AB.mp3"
+    },
+    {
+        "name": "AoCF: Corridor Stretching to Eternity",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "永遠に続く回廊",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/famhzafz/2-03.%20%E6%B0%B8%E9%81%A0%E3%81%AB%E7%B6%9A%E3%81%8F%E5%9B%9E%E5%BB%8A.mp3"
+    },
+    {
+        "name": "AoCF: Grandiloquence",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "壮言大語",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/fcxgmtfu/2-04.%20%E5%A3%AE%E8%A8%80%E5%A4%A7%E8%AA%9E.mp3"
+    },
+    {
+        "name": "AoCF: The Inverted Castle Lit by the Setting Sun",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "落日に映える逆さ城",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/hdsgdvvp/2-05.%20%E8%90%BD%E6%97%A5%E3%81%AB%E6%98%A0%E3%81%88%E3%82%8B%E9%80%86%E3%81%95%E5%9F%8E.mp3"
+    },
+    {
+        "name": "AoCF: Shinkirou Theatrical",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "心綺楼演舞",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/pbonbshk/2-06.%20%E5%BF%83%E7%B6%BA%E6%A5%BC%E6%BC%94%E8%88%9E.mp3"
+    },
+    {
+        "name": "AoCF: In High Spirits",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "意気揚々",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/dlwzffkj/2-07.%20%E6%84%8F%E6%B0%97%E6%8F%9A%E3%80%85.mp3"
+    },
+    {
+        "name": "AoCF: Dream World Folklore",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "夢世界フォークロア",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/pwofkhir/2-08.%20%E5%A4%A2%E4%B8%96%E7%95%8C%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%AD%E3%82%A2.mp3"
+    },
+    {
+        "name": "AoCF: Sleep Sheep Parade",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "スリープシープパレード",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/ldheyfei/2-09.%20%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%97%E3%82%B7%E3%83%BC%E3%83%97%E3%83%BB%E3%83%91%E3%83%AC%E3%83%BC%E3%83%89.mp3"
+    },
+    {
+        "name": "AoCF: Flawless as Clothing of the Celestials ~ Yellow Lily",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "天衣無縫　～ Yellow Lily",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/dqvdicps/2-10.%20%E5%A4%A9%E8%A1%A3%E7%84%A1%E7%B8%AB%20%EF%BD%9E%20Yellow%20Lily.mp3"
+    },
+    {
+        "name": "AoCF: Bhavaagra as Far as the Eye Can See",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "至る有頂天",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/vwwrxkil/2-11.%20%E8%87%B3%E3%82%8B%E6%9C%89%E9%A0%82%E5%A4%A9.mp3"
+    },
+    {
+        "name": "AoCF: Overcome a Thousand Trials",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "千の試練を超えて",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/enbvwwte/2-12.%20%E5%8D%83%E3%81%AE%E8%A9%A6%E7%B7%B4%E3%82%92%E8%B6%85%E3%81%88%E3%81%A6.mp3"
+    },
+    {
+        "name": "AoCF: The Curtain Shall Rise Soon",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "開演間近",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/oiyrmndc/2-13.%20%E9%96%8B%E6%BC%94%E9%96%93%E8%BF%91.mp3"
+    },
+    {
+        "name": "AoCF: Tonight Stars an Easygoing Egoist (Live ver.) ~ Egoistic Flowers.",
+        "requires": "|Joon Yorigami| AND |Shion Yorigami|",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers.",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/dkqzzxpg/2-14.%20%E4%BB%8A%E5%AE%B5%E3%81%AF%E9%A3%84%E9%80%B8%E3%81%AA%E3%82%A8%E3%82%B4%E3%82%A4%E3%82%B9%E3%83%88%28Live%20ver%29%20%EF%BD%9E%20Egoistic%20Flowers..mp3"
+    },
+    {
+        "name": "AoCF: Possession Flowers in Full Bloom",
+        "requires": "|AoCF Ending|",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "咲き誇る憑依華",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/mpnwvmxa/2-15.%20%E5%92%B2%E3%81%8D%E8%AA%87%E3%82%8B%E6%86%91%E4%BE%9D%E8%8F%AF.mp3"
+    },
+    {
+        "name": "AoCF: Blizzard of Scattering Possession Flowers",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "舞い散る憑依華吹雪",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/miewterw/2-16.%20%E8%88%9E%E3%81%84%E6%95%A3%E3%82%8B%E6%86%91%E4%BE%9D%E8%8F%AF%E5%90%B9%E9%9B%AA.mp3"
+    },
+    {
+        "name": "AoCF: The Eternal Steam Engine",
+        "requires": "|AoCF Ending|",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "悠久の蒸気機関",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/huceogqk/2-17.%20%E6%82%A0%E4%B9%85%E3%81%AE%E8%92%B8%E6%B0%97%E6%A9%9F%E9%96%A2.mp3"
+    },
+    {
+        "name": "AoCF: Blooms of Spirit Possession",
+        "requires": "",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "憑依華",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/eqozfdzp/3-01.%20%E6%86%91%E4%BE%9D%E8%8F%AF.mp3"
+    },
+    {
+        "name": "AoCF: Last Occultism ~ Esotericist of the Present World",
+        "requires": "|Sumireko Usami|",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "ラストオカルティズム　～ 現し世の秘術師",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/aggntgzc/3-02.%20%E3%83%A9%E3%82%B9%E3%83%88%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%82%BA%E3%83%A0%20%EF%BD%9E%20%E7%8F%BE%E3%81%97%E4%B8%96%E3%81%AE%E7%A7%98%E8%A1%93%E5%B8%AB.mp3"
+    },
+    {
+        "name": "AoCF: Eternal Spring Dream",
+        "requires": "|Doremy Sweet|",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "永遠の春夢",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/rzxrnqrl/3-03.%20%E6%B0%B8%E9%81%A0%E3%81%AE%E6%98%A5%E5%A4%A2.mp3"
+    },
+    {
+        "name": "AoCF: Inchlings of the Shining Needle ~ Little Princess",
+        "requires": "|Shinmyoumaru Sukuna|",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "輝く針の小人族　～ Little Princess",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/fsyozhkf/3-04.%20%E8%BC%9D%E3%81%8F%E9%87%9D%E3%81%AE%E5%B0%8F%E4%BA%BA%E6%97%8F%20%EF%BD%9E%20Little%20Princess.mp3"
+    },
+    {
+        "name": "AoCF: Catastrophe in Bhavaagra ~ Wonderful Heaven",
+        "requires": "|Tenshi Hinanawi|",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "有頂天変　～ Wonderful Heaven",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/uhcrdnel/3-05.%20%E6%9C%89%E9%A0%82%E5%A4%A9%E5%A4%89%20%EF%BD%9E%20Wonderful%20Heaven.mp3"
+    },
+    {
+        "name": "AoCF: Battlefield of the Flower Threshold",
+        "requires": "|Kasen Ibaraki|",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "華狭間のバトルフィールド",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/pssldjky/3-06.%20%E8%8F%AF%E7%8B%AD%E9%96%93%E3%81%AE%E3%83%90%E3%83%88%E3%83%AB%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89.mp3"
+    },
+    {
+        "name": "AoCF: Night Falls ~ Evening Star",
+        "requires": "|Yukari Yakumo|",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "夜が降りてくる　～ Evening Star",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/nsaxmqua/3-07.%20%E5%A4%9C%E3%81%8C%E9%99%8D%E3%82%8A%E3%81%A6%E3%81%8F%E3%82%8B%20%EF%BD%9E%20Evening%20Star.mp3"
+    },
+    {
+        "name": "AoCF: Yorimashi Between Dreams and Reality ~ Necro-Fantasia (Arrange)",
+        "requires": "|Yukari Yakumo|",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "憑坐は夢と現の間に　～ Necro-Fantasia (Arrange)",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/vyispyvi/3-08.%20%E6%86%91%E5%9D%90%E3%81%AF%E5%A4%A2%E3%81%A8%E7%8F%BE%E3%81%AE%E9%96%93%E3%81%AB%20%EF%BD%9E%20Necro-Fantasia.mp3"
+    },
+    {
+        "name": "AoCF: Tonight Stars an Easygoing Egoist ~ Egoistic Flowers. (Arrange)",
+        "requires": "|Joon Yorigami| AND |Shion Yorigami|",
+        "category": [
+            "15.5 - Antinomy of Common Flowers"
+        ],
+        "region": "Antinomy of Common Flowers",
+        "original_name": "今宵は飄逸なエゴイスト　～ Egoistic Flowers. (Arrange)",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/kanzen-hyoui-discography-touhou-hyouibana-antinomy-of-common-flowers-original-sound-track/dsetdlxc/3-09.%20%E4%BB%8A%E5%AE%B5%E3%81%AF%E9%A3%84%E9%80%B8%E3%81%AA%E3%82%A8%E3%82%B4%E3%82%A4%E3%82%B9%E3%83%88%20%EF%BD%9E%20Egoistic%20Flowers..mp3"
+    },
+    {
+        "name": "SFW: Submerged Hell of Sunken Sorrow",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "水没した沈愁地獄",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/ckqblykf/1-01.%20Submerged%20Hell%20of%20Sunken%20Sorrow.mp3"
+    },
+    {
+        "name": "SFW: Magician's Melancholy",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "魔法使いの憂鬱",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/wsawjgal/1-02.%20Magician%27s%20Melancholy.mp3"
+    },
+    {
+        "name": "SFW: Love-Colored Master Spark",
+        "requires": "|Marisa Kirisame|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "恋色マスタースパーク",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/djkwdcdh/1-03.%20Love-Colored%20Master%20Spark.mp3"
+    },
+    {
+        "name": "SFW: Maiden's Capriccio",
+        "requires": "|Reimu Hakurei|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "少女綺想曲",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/blzrjuwy/1-04.%20Maiden%27s%20Capriccio.mp3"
+    },
+    {
+        "name": "SFW: The Dark Blowhole",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "暗闇の風穴",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/eyebwdzn/1-05.%20The%20Dark%20Blowhole.mp3"
+    },
+    {
+        "name": "SFW: Beware the Umbrella Left There Forever",
+        "requires": "|Kogasa Tatara|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "万年置き傘にご注意を",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/tdmyglkv/1-06.%20Beware%20the%20Umbrella%20Left%20There%20Forever.mp3"
+    },
+    {
+        "name": "SFW: The Sealed-Away Youkai",
+        "requires": "|Yamame Kurodani|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "封じられた妖怪",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/umbuxakz/1-07.%20The%20Sealed-Away%20Youkai.mp3"
+    },
+    {
+        "name": "SFW: Walking the Streets of a Former Hell",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "旧地獄街道を行く",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/uwzhllxc/1-08.%20Walking%20the%20Streets%20of%20a%20Former%20Hell.mp3"
+    },
+    {
+        "name": "SFW: A Flower-Studded Sake Dish on Mt. Ooe",
+        "requires": "|Yuugi Hoshiguma|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "華のさかづき大江山",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/wcupsvxc/1-09.%20A%20Flower-Studded%20Sake%20Dish%20on%20Mt.%20Ooe.mp3"
+    },
+    {
+        "name": "SFW: Cemetery of Onbashira",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "御柱の墓場",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/tmcdkonz/1-10.%20Cemetery%20of%20Onbashira.mp3"
+    },
+    {
+        "name": "SFW: The Venerable Ancient Battlefield",
+        "requires": "|Kanako Yasaka|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "神さびた古戦場",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/kcfugzcq/1-11.%20The%20Venerable%20Ancient%20Battlefield.mp3"
+    },
+    {
+        "name": "SFW: Captain Murasa",
+        "requires": "|Minamitsu Murasa|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "キャプテンムラサ",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/udeohtym/1-12.%20Captain%20Murasa.mp3"
+    },
+    {
+        "name": "SFW: Hellfire Mantle",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "業火マントル",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/lwbqafzh/1-13.%20Hellfire%20Mantle.mp3"
+    },
+    {
+        "name": "SFW: Solar Sect of Mystic Wisdom",
+        "requires": "|Utsuho Reiuji|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "霊知の太陽信仰",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/lkshkcga/1-14.%20Solar%20Sect%20of%20Mystic%20Wisdom.mp3"
+    },
+    {
+        "name": "SFW: Everlasting Red Spider Lily",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "不朽の曼珠沙華",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/iovltlzo/2-01.%20Everlasting%20Red%20Spider%20Lily.mp3"
+    },
+    {
+        "name": "SFW: Seraphic Chicken",
+        "requires": "|Kutaka Niwatari|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "セラフィックチキン",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/xtawgrqd/2-02.%20Seraphic%20Chicken.mp3"
+    },
+    {
+        "name": "SFW: Tonight Stars an Easygoing Egoist ~ Egoistic Flowers",
+        "requires": "|Joon Yorigami| AND |Shion Yorigami|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "今宵は飄逸なエゴイスト　～ Egoistic Flowers",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/sdokgeda/2-03.%20Tonight%20Stars%20an%20Easygoing%20Egoist%20~%20Egoistic%20Flowers.mp3"
+    },
+    {
+        "name": "SFW: The Centennial Festival for Magical Girls",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "魔法少女達の百年祭",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/vbtqxrpb/2-04.%20The%20Centennial%20Festival%20for%20Magical%20Girls.mp3"
+    },
+    {
+        "name": "SFW: U.N. Owen Was Her?",
+        "requires": "|Flandre Scarlet|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "U.N.オーエンは彼女なのか？",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/lzpcrclz/2-05.%20U.N.%20Owen%20Was%20Her.mp3"
+    },
+    {
+        "name": "SFW: No More Going Through Doors",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "もうドアには入れない",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-175-gouyoku-ibun-sunken-fossil-world-windows-gamerip-2021/baypebuv/23.%20No%20More%20Going%20Through%20Doors.mp3"
+    },
+    {
+        "name": "SFW: Secret God Matara",
+        "requires": "|Okina Matara|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "秘神マターラ",
+        "url": "https://lambda.vgmtreasurechest.com/soundtracks/touhou-175-gouyoku-ibun-sunken-fossil-world-windows-gamerip-2021/ulxeegtb/24.%20Secret%20God%20Matara.mp3"
+    },
+    {
+        "name": "SFW: Depths of the Earth, Ocean of Avarice",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "大地の底、剛欲の海",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/lkptcceq/2-06.%20Depths%20of%20the%20Earth%2C%20Ocean%20of%20Avarice.mp3"
+    },
+    {
+        "name": "SFW: Memento of the Avaricious Beast",
+        "requires": "|Yuuma Toutetsu|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "強欲な獣のメメント",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/qhnsayql/2-07.%20Memento%20of%20the%20Avaricious%20Beast.mp3"
+    },
+    {
+        "name": "SFW: Memento of All Organisms ~ Memory of Fossil Energy.",
+        "requires": "|Yuuma Toutetsu|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "place_item": [
+            "Final Boss Completed"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "有機体全てのメメント　～ Memory of Fossil Energy.",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/fufvknjj/2-08.%20Memento%20of%20All%20Organisms%20~%20Memory%20of%20Fossil%20Energy..mp3"
+    },
+    {
+        "name": "SFW: Laws of Heaven, Desires of Man",
+        "requires": "|SFW Ending|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "天理人欲",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/rgfgtxix/2-09.%20Laws%20of%20Heaven%2C%20Desires%20of%20Man.mp3"
+    },
+    {
+        "name": "SFW: Eastern Strange Tale of Avarice",
+        "requires": "|SFW Ending|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "東方剛欲異聞",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/nyctjrex/2-10.%20Eastern%20Strange%20Tale%20of%20Avarice.mp3"
+    },
+    {
+        "name": "SFW: Memento of the Avaricious Beast (Arrange Version)",
+        "requires": "|Yuuma Toutetsu|",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "強欲な獣のメメント (Arrange Version)",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/zfefnyfe/2-11.%20Memento%20of%20the%20Avaricious%20Beast%20%28Arrange%20Version%29.mp3"
+    },
+    {
+        "name": "SFW: Submerged Hell of Sunken Sorrow (Arrange Version)",
+        "requires": "",
+        "category": [
+            "17.5 - Gouyoku Ibun"
+        ],
+        "region": "Gouyoku Ibun",
+        "original_name": "水没した沈愁地獄 (Arrange Version)",
+        "url": "https://nu.vgmtreasurechest.com/soundtracks/touhou-17.5-gouyoku-ibun-submerged-hell-of-sunken-sorrow-original-soundtrack/fodbxgpf/2-12.%20Submerged%20Hell%20of%20Sunken%20Sorrow%20%28Arrange%20Version%29.mp3"
+    }
+]
