@@ -271,11 +271,14 @@ function requirementsIsInLogicOR(requirements) {
 function send_victory() {
     if (connected) {
 
-        socket.send(JSON.stringify([{
-            cmd: "StatusUpdate",
-            status: 30
-        }]));
-
+        if (document.getElementById("Bounty-count").textContent >= slot_data["goal_requirement"]) {
+            socket.send(JSON.stringify([{
+                cmd: "StatusUpdate",
+                status: 30
+            }]));
+        } else {
+            console.log("Required Bounties to goal: ", slot_data["goal_requirement"])
+        }
         
     } else {
         console.log("No AP Connection.")

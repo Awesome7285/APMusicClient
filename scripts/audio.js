@@ -2,6 +2,7 @@ const playPauseButton = document.getElementById('play-pause');
 const audio = document.getElementById('audio');
 const progressBarContainer = document.getElementById('progress-container');
 const progressBar = document.getElementById('progress-bar');
+const volumeSlider = document.getElementById('volume-slider');
 
 // Play/Pause Toggle
 playPauseButton.addEventListener('click', () => {
@@ -39,6 +40,10 @@ progressBarContainer.addEventListener('click', (e) => {
     audio.currentTime = clickPercent * audio.duration;
 });
 
+// Volume Slider
+volumeSlider.addEventListener('input', (e) => {
+    audio.volume = e.target.value;
+});
 
 
 // Initialize some shit

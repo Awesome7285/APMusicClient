@@ -249,6 +249,8 @@
   { "name": "Higurashi When They Cry", "count": 1, "progression": true, "category": ["Misc Progression"] },
   { "name": "Fly Me to the Moon (In Other Words)", "count": 1, "progression": true, "category": ["Misc Progression"] },
   { "name": "Snow Halation", "count": 1, "progression": true, "category": ["Misc Progression"] },
+  { "name": "Gegagedigedagedago", "count": 1, "progression": true, "category": ["Misc Progression"] },
+  
   { "name": "Super Badge", "count": 1, "progression": true, "category": ["Misc Progression"] },
   { "name": "Ultra Badge", "count": 1, "progression": true, "category": ["Misc Progression"] },
   { "name": "Wing Cap", "count": 1, "progression": true, "category": ["Misc Progression"] },
@@ -259,5 +261,6 @@
   { "name": "Makai Fields Cannon", "count": 1, "progression": true, "category": ["Misc Progression"] },
   { "name": "Youkai Mountain Cannon", "count": 1, "progression": true, "category": ["Misc Progression"] },
   { "name": "SR8 Overworld Cannon", "count": 1, "progression": true, "category": ["Misc Progression"] }
+
 
 ]
