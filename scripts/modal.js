@@ -225,3 +225,25 @@ function shuffleQueue(arr1, parentElement) {
   
     children.forEach(child => parentElement.appendChild(child));
 }
+
+function addAllInLogic() {
+    Object.keys(regions).forEach(album => {
+        item_obtained = document.getElementById(regionGetRequirements(album));
+        if (item_obtained !== null) {
+            if (item_obtained.className == "charImageObtained") { // If you have the album's item...
+                locations.forEach(song => {
+                    if (song["region"] != album) {
+                        return;
+                    }
+                    let location = song["name"];
+                    if (!checked_locations.includes(data_package["location_name_to_id"][location])) { // If you havent done the check already...
+                        let requirements = locationGetRequirements(location);
+                        if (requirementsIsInLogic(requirements)) { // If the song is in logic...
+                            addSongToQueue(song); // Add the song to the queue
+                        }
+                    }
+                })
+            }
+        }
+    })
+}

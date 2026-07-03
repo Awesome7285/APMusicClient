@@ -42,6 +42,7 @@ function ap_connect() {
         if (msg.cmd === "Connected") {
             checked_locations = msg.checked_locations;
             slot_data = msg.slot_data;
+            document.getElementById("requiredBounties").textContent = "Bounties required to goal: " + slot_data["goal_requirement"]
             // REMAKE TRACKER
             createTracker();
             doConnect();

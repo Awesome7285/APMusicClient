@@ -70,6 +70,10 @@
         <div>
             <button onclick="sendLocation();">Debug: Send Location</button>
         </div>
+        <div>
+            <button class="victory-btn" onclick="send_victory()">It says goalable on the ceiling</button>
+            <div id="requiredBounties">Bounties required to goal: </div>
+        </div>
         <!-- <button class="top-button-enabled" id="shuffle" onclick="modeSelectPress('shuffle'); shuffle_mode = !shuffle_mode;">Shuffle</button> -->
         <script type="text/javascript" src="scripts/audio.js"></script>
     </div>
@@ -98,7 +102,7 @@
                 </div>
             </div>
             <button class="close-btn" onclick="closeModal()">Save & Close</button>
-            <button class="victory-btn" onclick="send_victory()">It says goalable on the ceiling</button>
+            <button class="victory-btn" onclick="addAllInLogic()">Add all in logic to queue</button>
         </div>
     </div>
     <script type="text/javascript" src="scripts/modal.js"></script>
