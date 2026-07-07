@@ -35,7 +35,14 @@ function createTracker() {
         categories[category].forEach(item => {
             var it = document.createElement("div")
             var im = document.createElement("img")
-            im.src = `./tracker/${category}/${item.replace(/[<>:"\/\\|?*’]+/g, "")}.png`
+            // Manually get these images for characters in double quotes
+            if (item == "\"Tsubakura Enraku\"") {
+                im.src = `./tracker/${category}/Not Tsubakura.png`
+            } else if (item == "\"Tsurubami Senri\"") {
+                im.src = `./tracker/${category}/Not Tsurubami.png`
+            } else {
+                im.src = `./tracker/${category}/${item.replace(/[<>:"\/\\|?*’]+/g, "")}.png`
+            }
             im.className = "charImage";
             im.id = item;
             im.title = item + "\n(Unobtained)";
