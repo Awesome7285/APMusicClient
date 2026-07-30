@@ -11,9 +11,9 @@ let ap_game = "Touhou Music";
 let slot_data;
 let uuid = crypto.randomUUID();
 let connected = false;
+let VERSION;
 
 // Meta Stuff
-let colon_names;
 let album_type_name;
 
 
@@ -42,6 +42,7 @@ function ap_connect() {
         if (msg.cmd === "Connected") {
             checked_locations = msg.checked_locations;
             slot_data = msg.slot_data;
+            VERSION = slot_data.version ?? "v0.1.0"
             document.getElementById("requiredBounties").textContent = "Bounties required to goal: " + slot_data["goal_requirement"]
             // REMAKE TRACKER
             createTracker();
@@ -95,11 +96,8 @@ function ap_disconnect() {
 
 // Return the Track name from the location with the album name in consideration
 function location_to_track_name(location_name) {
-    if (colon_names) {
-        return location_name.split(': ')[1];
-    } else {
-        return location_name
-    }
+    var index = location_name.indexOf(": ")
+    return location_name.slice(index + 2)
 }
 
 // Send a location

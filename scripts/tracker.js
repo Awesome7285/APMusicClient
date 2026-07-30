@@ -1,6 +1,9 @@
 function createTracker() {
     // Load items from items.json
-    let items = load_json_sync(`./data/misc_progression.json`);
+    let items = load_json_sync(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/items/misc_progression.json`);
+    if (items == undefined) {
+        load_json_sync(`./data/misc_progression.json`);
+    }
 
     let categories = {"Album": []};
     let category_order = ["Album"];

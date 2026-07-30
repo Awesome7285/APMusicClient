@@ -1,7 +1,11 @@
 function doConnect() {
     // Load JSON immediately before anything else runs
     slot_data.enabled_groups.forEach(group => {
-        locations.push(...load_json_sync(`./data/locations/${group}.json`));
+        var data = load_json_sync(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/locations/${groupToID(group)}.json`)
+        if (data == undefined) {
+            data = load_json_sync(`./data/locations/${group}.json`)
+        }
+        locations.push(...data);
     })
 
     // Re Add Regions
@@ -18,7 +22,6 @@ function doConnect() {
     console.log(regions);
 
     // Meta
-    colon_names = true;
     album_type_name = "Album";
 
     // Debug: Check all audio files exist in the folder and are named correctly
@@ -39,4 +42,31 @@ function checkSongsExist() {
             console.log(song['original_name'] ?? song['name'])
         }
     }
+}
+
+//Temp until I think of a better solution
+function groupToID(group) {
+    match = {
+        "pc98": "00",
+        "mainline_games": "01",
+        "fighting_games": "02",
+        "spinoff_shmups": "03",
+        "zuns_music_collection": "04",
+        "print_works_cds": "05",
+        "seihou": "06",
+        "lenen": "07",
+        "digital_wing": "10",
+        "digital_wing_ravers_nest": "11",
+        "digital_wing_dance_anthem": "12",
+        "halozy": "13",
+        "sound_refil": "14",
+        "k2e_cradle": "15",
+        "silver_forest": "16",
+        "amateras_records": "17",
+        "star_revenge": "81",
+        "siivagunner": "91",
+        "click_the_bart": "99",
+    }
+
+    return `${match[group]}%20${group}`
 }
