@@ -9,6 +9,10 @@ body {
     margin: 0;
 }
 
+button {
+    margin-top: 8px;
+}
+
 /* Settings Cog */
 .settings-icon {
     position: fixed;
@@ -49,7 +53,7 @@ body {
 }
 
 .album-container {
-    max-height: 70vh;
+    height: 70vh;
     overflow-y: auto;
     border: 1px solid #ccc;
     background: white;
@@ -112,7 +116,7 @@ td:hover {
 #ap-tracker {
     display: flex;
     flex-direction: column;
-    width: 640px;
+    width: 800px;
 }
 /* #ap-bullshit {
     display: flex;
@@ -169,7 +173,7 @@ td:hover {
 .audio-player {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 15px;
     background: #ffffff;
     padding: 10px 15px;
     border-radius: 10px;
@@ -180,7 +184,7 @@ td:hover {
     flex: 1;
     height: 10px;
     width: 300px;
-    background: #e0e0e0; /* Light gray background for visibility */
+    background: #e0e0e0;
     border-radius: 5px;
     overflow: hidden;
     position: relative;
@@ -188,7 +192,62 @@ td:hover {
 
 .progress-bar {
     height: 100%;
-    width: 0%; /* Initial width of 0 */
-    background: #007bff; /* Blue color for progress bar */
-    transition: width 0.1s linear; /* Smooth animation */
+    width: 0%;
+    background: #007bff;
+    transition: width 0.1s linear;
+}
+
+.volume-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.volume-icon {
+    font-size: 14px;
+    cursor: default;
+    user-select: none;
+}
+
+#volume-slider {
+    width: 80px;
+    height: 6px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: #e0e0e0;
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+}
+
+#volume-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #007bff;
+    transition: transform 0.1s ease;
+}
+
+#volume-slider::-webkit-slider-thumb:hover {
+    transform: scale(1.2);
+}
+
+#volume-slider::-moz-range-thumb {
+    width: 12px;
+    height: 12px;
+    border: none;
+    border-radius: 50%;
+    background: #007bff;
+    transition: transform 0.1s ease;
+    cursor: pointer;
+}
+
+#volume-slider::-moz-range-thumb:hover {
+    transform: scale(1.2);
+}
+
+.loop-song-button {
+    background-color: #e0e0e0;
 }

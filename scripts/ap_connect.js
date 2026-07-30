@@ -2,26 +2,24 @@
 let socket;
 let data_package;
 let checked_locations;
-let locations;
+let locations = [];
 let regions;
 let victory;
 let ap_host;
 let ap_slot;
-let ap_game = document.getElementById("ap-game").value;
+let ap_game = "Touhou Music";
+let slot_data;
 let uuid = crypto.randomUUID();
 let connected = false;
+let VERSION;
 
 // Meta Stuff
-let colon_names;
 let album_type_name;
-let use_alt_names;
 
-createTracker();
 
 function ap_connect() {
     ap_host = document.getElementById("ap-host").value
     ap_slot = document.getElementById("ap-slot").value
-    ap_game = document.getElementById("ap-game").value
     if (!ap_host.startsWith("ws")) {
         ap_host = "wss://" + ap_host;
     }
@@ -43,6 +41,12 @@ function ap_connect() {
         }
         if (msg.cmd === "Connected") {
             checked_locations = msg.checked_locations;
+            slot_data = msg.slot_data;
+            VERSION = slot_data.version ?? "v0.1.0"
+            document.getElementById("requiredBounties").textContent = "Bounties required to goal: " + slot_data["goal_requirement"]
+            // REMAKE TRACKER
+            createTracker();
+            doConnect();
         }
         if (msg.cmd === "DataPackage") {
             // Get an ideal DP
@@ -57,18 +61,12 @@ function ap_connect() {
                 version: { major: 0, minor: 6, build: 6, class: "Version"},
                 tags: tags,
                 items_handling: 7,
-                slot_data: false
+                slot_data: true
             }]));
             socket.send(JSON.stringify([{
                 cmd: "Sync",
             }]))
-            // REMAKE TRACKER
-            if (ap_game === "Manual_TouhouMusicDEMO_Awesome7285") {
-                ap_game = "Manual_THMusic_Awesome7285" //TEMP
-            }
             connected = true;
-            createTracker();
-            doConnect();
         }
         if (msg.cmd === "ReceivedItems") {
             updateTracker(msg);
@@ -98,11 +96,8 @@ function ap_disconnect() {
 
 // Return the Track name from the location with the album name in consideration
 function location_to_track_name(location_name) {
-    if (colon_names) {
-        return location_name.split(': ')[1];
-    } else {
-        return location_name
-    }
+    var index = location_name.indexOf(": ")
+    return location_name.slice(index + 2)
 }
 
 // Send a location
@@ -275,11 +270,14 @@ function requirementsIsInLogicOR(requirements) {
 function send_victory() {
     if (connected) {
 
-        socket.send(JSON.stringify([{
-            cmd: "StatusUpdate",
-            status: 30
-        }]));
-
+        if (document.getElementById("Bounty-count").textContent >= slot_data["goal_requirement"]) {
+            socket.send(JSON.stringify([{
+                cmd: "StatusUpdate",
+                status: 30
+            }]));
+        } else {
+            console.log("Required Bounties to goal: ", slot_data["goal_requirement"])
+        }
         
     } else {
         console.log("No AP Connection.")

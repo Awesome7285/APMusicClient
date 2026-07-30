@@ -26,6 +26,8 @@ function closeModal(event) {
     }
     if (currentSong != selectedSong){
         update_track_info(selectedSong);
+    } else {
+        nextInQueue();
     }
 }
 
@@ -74,7 +76,7 @@ function get_enabled_games() {
         // AP Check
         item_obtained = document.getElementById(regionGetRequirements(album));
         if (item_obtained !== null) {
-            img.src = `./../tracker/${ap_game}/${album_type_name}/${item_obtained.id.replace(/[":]+/g, "")}.png`;
+            img.src = `./tracker/${album_type_name}/${item_obtained.id.replace(/[":]+/g, "")}.png`;
             
             if (item_obtained.className == "charImageObtained") {
                 row.addEventListener('click', () => showSongs(album));
@@ -103,6 +105,7 @@ function get_enabled_games() {
 
 function showSongs(album) {
     songList.innerHTML = ""; // Clear previous list
+    selectedSong = null;
     locations.forEach(song => {
         if (song["region"] != album) {
             return;
@@ -209,4 +212,38 @@ function addSongToQueue(song) {
     var q = document.createElement("p");
     q.textContent = locations[queue[queue.length - 1]]["name"];
     queue_text.appendChild(q);
+}
+
+function shuffleQueue(arr1, parentElement) {
+    const children = Array.from(parentElement.children);
+  
+    for (let i = children.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr1[i], arr1[j]] = [arr1[j], arr1[i]];
+        [children[i], children[j]] = [children[j], children[i]];
+    }
+  
+    children.forEach(child => parentElement.appendChild(child));
+}
+
+function addAllInLogic() {
+    Object.keys(regions).forEach(album => {
+        item_obtained = document.getElementById(regionGetRequirements(album));
+        if (item_obtained !== null) {
+            if (item_obtained.className == "charImageObtained") { // If you have the album's item...
+                locations.forEach(song => {
+                    if (song["region"] != album) {
+                        return;
+                    }
+                    let location = song["name"];
+                    if (!checked_locations.includes(data_package["location_name_to_id"][location])) { // If you havent done the check already...
+                        let requirements = locationGetRequirements(location);
+                        if (requirementsIsInLogic(requirements)) { // If the song is in logic...
+                            addSongToQueue(song); // Add the song to the queue
+                        }
+                    }
+                })
+            }
+        }
+    })
 }

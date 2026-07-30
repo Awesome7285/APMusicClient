@@ -24,15 +24,7 @@
             <label>Slot Name: </label><input id="ap-slot" value="Player1">
         </div>
         <div class="a-row">
-            <label>Game: </label><input type="text" id="ap-game" list="gamename">
-                <datalist id="gamename">
-                    <option value="Manual_THMusic_Awesome7285"></option>
-                    <option value="Manual_mwmm_theburger"></option>
-                    <option value="Manual_UndertaleMusic_Snolid"></option>
-                    <option value="Manual_DeltaruneMusic_Snolid"></option>
-                    <option value="Manual_TaylorSwiftDiscography_bennydreamly"></option>
-                    <option value="Manual_THMusicGamma_Awesome7285"></option>
-                </datalist>
+            <label>Game: Touhou Music</label>
         </div>
         <div>
             <button onclick="ap_connect()">Connect</button>
@@ -54,19 +46,33 @@
         <div id="requirement-images"></div>
 
         <div class="audio-player">
-            <button id="play-pause">▶</button>
+            <button id="play-pause" style="margin-top: 0px;">▶</button>
             <div class="progress-bar-container" id="progress-container">
                 <div class="progress-bar" id="progress-bar"></div>
+            </div>
+            <div class="volume-container">
+                <span class="volume-icon">🔊</span>
+                <input type="range" id="volume-slider" min="0" max="1" step="0.01" value="1">
             </div>
         </div>
         <audio autoplay id="audio" src=""></audio>
         <div>
             <!-- <button onclick="choose_track(-1)">Prev Song</button> -->
             <button onclick="audio.currentTime = 0; audio.play;">Replay Song</button>
+            <label for="loop-song-toggle">Loop Current Song:</label><input type="checkbox" id="loop-song-toggle"></input>
+            
+        </div>
+        <div>
             <button onclick="nextInQueue();">Next in Queue</button>
+            <button onclick="shuffleQueue(queue, document.getElementById('queue-text'));">Shuffle Queue</button>
+            <button onclick="queue = []; document.getElementById('queue-text').innerHTML = 'Queue:';">Clear Queue</button>
         </div>
         <div>
             <button onclick="sendLocation();">Debug: Send Location</button>
+        </div>
+        <div>
+            <button class="victory-btn" onclick="send_victory()">It says goalable on the ceiling</button>
+            <div id="requiredBounties">Bounties required to goal: </div>
         </div>
         <!-- <button class="top-button-enabled" id="shuffle" onclick="modeSelectPress('shuffle'); shuffle_mode = !shuffle_mode;">Shuffle</button> -->
         <script type="text/javascript" src="scripts/audio.js"></script>
@@ -96,7 +102,7 @@
                 </div>
             </div>
             <button class="close-btn" onclick="closeModal()">Save & Close</button>
-            <button class="victory-btn" onclick="send_victory()">It says goalable on the ceiling</button>
+            <button class="victory-btn" onclick="addAllInLogic()">Add all in logic to queue</button>
         </div>
     </div>
     <script type="text/javascript" src="scripts/modal.js"></script>

@@ -2,6 +2,7 @@ const playPauseButton = document.getElementById('play-pause');
 const audio = document.getElementById('audio');
 const progressBarContainer = document.getElementById('progress-container');
 const progressBar = document.getElementById('progress-bar');
+const volumeSlider = document.getElementById('volume-slider');
 
 // Play/Pause Toggle
 playPauseButton.addEventListener('click', () => {
@@ -39,6 +40,10 @@ progressBarContainer.addEventListener('click', (e) => {
     audio.currentTime = clickPercent * audio.duration;
 });
 
+// Volume Slider
+volumeSlider.addEventListener('input', (e) => {
+    audio.volume = e.target.value;
+});
 
 
 // Initialize some shit
@@ -70,13 +75,19 @@ function update_track_info(song) {
     const requirements = document.getElementById('requirement-images');
 
     get_track_directory(song).then(songDir => {
-        audio.src = locations[song_index]["url"] ?? songDir;
+        audio.src = songDir ?? locations[song_index]["url"];
         audio.autoplay = true;
+        console.log("Playing audio", audio.src)
     });
-
+    
     trackInfoGame.textContent = `${song['region']}`;
     trackInfoEN.textContent = `${location_to_track_name(song['name'])}`;
     trackInfoJP.textContent = `${song['original_name']}`;
+    if (trackInfoJP.textContent === "undefined") {
+        document.getElementById("info-text-bottom").style = "visibility: hidden;"
+    } else {
+        document.getElementById("info-text-bottom").style = "visibility: visible;"
+    }
     // trackInfoComposer.textContent = `${song['composer']}`;
 
     // Show the current song's requirements
@@ -87,6 +98,8 @@ function update_track_info(song) {
     console.log(requirementsDict)
     const requirements_container = addRequirementImages(requirementsDict);
     requirements.appendChild(requirements_container);
+
+    currentSong = song;
 }
 
 async function get_track_directory(song) {
@@ -94,7 +107,7 @@ async function get_track_directory(song) {
     filename = filename.replace(/[<>:"\/\\|?*]+/g, "");
     const region = song.region.replace(/[<>:"\/\\|?*]+/g, "");
 
-    const basePath = `./../audio/${ap_game}/${region}/${filename}`;
+    const basePath = `./audio/${ap_game}/${region}/${filename}`;
 
     // If the location name includes the filename (ogg) then just return
     if (filename.toLowerCase().endsWith(".ogg")) {
@@ -110,8 +123,7 @@ async function get_track_directory(song) {
         if (exists) return testPath;
     }
 
-    // Default if all fails
-    return basePath + ".mp3";
+    return null;
 }
 
 // helper function for browsers
@@ -126,5 +138,11 @@ async function fileExists(url) {
 
 audio.addEventListener("ended", (event) => {
     sendLocation();
-    nextInQueue();
+    if (document.getElementById("loop-song-toggle").checked === true) {
+        audio.currentTime = 0;
+        audio.autoplay = true;
+        audio.play();
+    } else {
+        nextInQueue();
+    }
 })

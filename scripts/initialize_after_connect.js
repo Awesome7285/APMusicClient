@@ -1,34 +1,28 @@
 function doConnect() {
     // Load JSON immediately before anything else runs
-    locations = load_json_sync(`./../data/${ap_game}/locations.json`);
-    regions = load_json_sync(`./../data/${ap_game}/regions.json`);
-    var meta = load_json_sync(`./../data/${ap_game}/info.json`);
+    slot_data.enabled_groups.forEach(group => {
+        var data = load_json_sync(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/locations/${groupToID(group)}.json`)
+        if (data == undefined) {
+            data = load_json_sync(`./data/locations/${group}.json`)
+        }
+        locations.push(...data);
+    })
+
+    // Re Add Regions
+    regions = Object.fromEntries(
+        slot_data.enabled_albums.map(r => [r, { requires: `|${r}|` }])
+    );
+    
 
     // Don't add shit above here
 
     song_index = 0;
     currentSong = null;
     queue = [];
-
-    // Find the victory
-    locations.forEach(location => {
-        if (location["victory"]) {
-            victory = location;
-            locations.splice(location, 1);
-            return;
-        }
-    });
+    console.log(regions);
 
     // Meta
-    colon_names = meta["colon_names"];
-    album_type_name = meta["album_type_name"];
-    use_alt_names = meta["use_alt_names"];
-
-    if (use_alt_names) {
-        document.getElementById("info-text-bottom").style = "visibility: visible;"
-    } else {
-        document.getElementById("info-text-bottom").style = "visibility: hidden;"
-    }
+    album_type_name = "Album";
 
     // Debug: Check all audio files exist in the folder and are named correctly
     //checkSongsExist()
@@ -48,4 +42,31 @@ function checkSongsExist() {
             console.log(song['original_name'] ?? song['name'])
         }
     }
+}
+
+//Temp until I think of a better solution
+function groupToID(group) {
+    match = {
+        "pc98": "00",
+        "mainline_games": "01",
+        "fighting_games": "02",
+        "spinoff_shmups": "03",
+        "zuns_music_collection": "04",
+        "print_works_cds": "05",
+        "seihou": "06",
+        "lenen": "07",
+        "digital_wing": "10",
+        "digital_wing_ravers_nest": "11",
+        "digital_wing_dance_anthem": "12",
+        "halozy": "13",
+        "sound_refil": "14",
+        "k2e_cradle": "15",
+        "silver_forest": "16",
+        "amateras_records": "17",
+        "star_revenge": "81",
+        "siivagunner": "91",
+        "click_the_bart": "99",
+    }
+
+    return `${match[group]}%20${group}`
 }
