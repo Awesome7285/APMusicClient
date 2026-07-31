@@ -11,6 +11,8 @@ let ap_game = "Touhou Music";
 let slot_data;
 let uuid = crypto.randomUUID();
 let connected = false;
+let tracker_created = false;
+var awaiting_packets = [];
 let VERSION;
 
 // Meta Stuff
@@ -58,7 +60,7 @@ function ap_connect() {
                 uuid: uuid,
                 name: ap_slot,
                 password: null,
-                version: { major: 0, minor: 6, build: 6, class: "Version"},
+                version: { major: 0, minor: 6, build: 7, class: "Version"},
                 tags: tags,
                 items_handling: 7,
                 slot_data: true

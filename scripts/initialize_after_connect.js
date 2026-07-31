@@ -1,12 +1,23 @@
 function doConnect() {
-    // Load JSON immediately before anything else runs
-    slot_data.enabled_groups.forEach(group => {
-        var data = load_json_sync(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/locations/${groupToID(group)}.json`)
-        if (data == undefined) {
-            data = load_json_sync(`./data/locations/${groupToID(group)}.json`)
-        }
-        locations.push(...data);
-    })
+    // This part will get deleted when tbaec4 ends
+    if (VERSION == "v0.1.0") {
+        slot_data.enabled_groups.forEach(group => {
+            load_json(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/locations/${groupToID(group)}.json`)
+            .catch(() => load_json(`./data/locations/${groupToID(group)}.json`))
+            .then(data => {
+                locations.push(...data);
+            })
+        })
+    } else {
+        // Load JSON immediately before anything else runs
+        Object.keys(slot_data.enabled_groups).forEach(group => {
+            load_json(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/locations/${slot_data.enabled_groups[group]}.json`)
+            .catch(() => load_json(`./data/locations/${slot_data.enabled_groups[group]}.json`))
+            .then(data => {
+                locations.push(...data);
+            })
+        })
+    }
 
     // Re Add Regions
     regions = Object.fromEntries(
@@ -45,6 +56,7 @@ function checkSongsExist() {
 }
 
 //Temp until I think of a better solution
+// Delete after tbaec4 ends
 function groupToID(group) {
     match = {
         "pc98": "00",
