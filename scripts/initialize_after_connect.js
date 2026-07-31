@@ -3,7 +3,7 @@ function doConnect() {
     slot_data.enabled_groups.forEach(group => {
         var data = load_json_sync(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/locations/${groupToID(group)}.json`)
         if (data == undefined) {
-            data = load_json_sync(`./data/locations/${group}.json`)
+            data = load_json_sync(`./data/locations/${groupToID(group)}.json`)
         }
         locations.push(...data);
     })

@@ -6,3 +6,5 @@
 **.webm
 **.zip
 python/
+data/locations/**.json
+data/**.json

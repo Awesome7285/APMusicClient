@@ -76,6 +76,7 @@ function update_track_info(song) {
 
     get_track_directory(song).then(songDir => {
         audio.src = songDir ?? locations[song_index]["url"];
+        audio.volume = volumeSlider.value;
         audio.autoplay = true;
         console.log("Playing audio", audio.src)
     });
