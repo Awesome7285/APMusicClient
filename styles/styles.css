@@ -126,7 +126,7 @@ td:hover {
 } */
 .fucking-everything {
     display: flex;
-    width: 90%;
+    /* width: 90%; */
     height: 95%;
 }
 .left-side, .right-side {
@@ -135,6 +135,7 @@ td:hover {
     align-items: flex-start;
     display: flex;
     flex-direction: column;
+    padding: 20px;
 }
 .ap-game {
     width: 300px;
@@ -250,4 +251,66 @@ td:hover {
 
 .loop-song-button {
     background-color: #e0e0e0;
+}
+
+
+/* Text Client */
+
+.text-client-container {
+    width: 100%;
+    max-width: 800px;
+    height: 450px;
+    background-color: #f2f2f2;
+    border: 1px solid #cccccc;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.text-client-header {
+    background-color: #e1e1e1;
+    padding: 8px 12px;
+    font-size: 12px;
+    color: #333333;
+    border-bottom: 1px solid #dddddd;
+}
+
+/* Log Output Area */
+.text-client-log {
+    flex: 1;
+    padding: 12px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.log-line {
+    line-height: 1.4;
+    white-space: pre-wrap;
+    word-break: break-word;
+}
+
+.text-client-input-container {
+    display: flex;
+    align-items: center;
+    padding: 10px 12px;
+    background-color: #ebebeb;
+    border-top: 1px solid #dddddd;
+}
+
+.prompt-symbol {
+    color: #000000;
+    margin-right: 8px;
+    font-weight: bold;
+}
+
+.text-client-input {
+    flex: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #000000;
+    font-family: inherit;
+    font-size: 14px;
 }
