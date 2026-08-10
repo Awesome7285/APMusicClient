@@ -130,6 +130,9 @@ function formatPlayerID(player_id) {
 
 function formatItemID(item_id, player_id, flags) {
     text = Object.fromEntries(Object.entries(full_data_package[slot_info[player_id].game]["item_name_to_id"]).map(([key, value]) => [value, key]))[item_id];
+    if (!isNaN(text)) {
+        text += ' '; // I love 83229978 from undertale 2
+    }
     if (flags == 1) { //progression
         return [text, "prog"];
     }

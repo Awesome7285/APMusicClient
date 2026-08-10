@@ -124,6 +124,7 @@ function ap_connect() {
     socket.addEventListener("close", (event) => {
         console.log("Disconnected:", event);
         connected = false;
+        text_client_log("Disconnected from the multiworld server. Please refresh the page.")
     });
 }
 
