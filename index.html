@@ -14,6 +14,20 @@
         <div id="ap-tracker">
             <script type="text/javascript" src="scripts/tracker.js"></script>
         </div>
+        <br>
+        <div class="text-client-container">
+            <div class="text-client-header">Text Client</div>
+            
+            <div class="text-client-log" id="textClientLog">
+            <div class="log-line">Waiting for AP Connection...</div>
+            </div>
+
+            <div class="text-client-input-container">
+            <span class="prompt-symbol">&gt;</span>
+            <input type="text" class="text-client-input" id="textClientInput" placeholder="Type a command..." autofocus />
+            </div>
+            <script type="text/javascript" src="scripts/text_client.js"></script>
+        </div>
     </div>
 
     <div class="right-side">
@@ -24,7 +38,11 @@
             <label>Slot Name: </label><input id="ap-slot" value="Player1">
         </div>
         <div class="a-row">
-            <label>Game: Touhou Music</label>
+            <label>Game: </label><input type="text" id="ap-game" list="gamename">
+                <datalist id="gamename">
+                    <option value="Touhou Music"></option>
+                    <option value="Awesome Music"></option>
+                </datalist>
         </div>
         <div>
             <button onclick="ap_connect()">Connect</button>
@@ -35,9 +53,6 @@
         <script>
             const tags = ["AP", "WebHost"];
         </script>
-            
-
-        <div id="queue-text">Queue:</div>
 
         <div id="info-text-game">game</div>
         <div id="info-text">song</div>
@@ -77,49 +92,38 @@
         <!-- <button class="top-button-enabled" id="shuffle" onclick="modeSelectPress('shuffle'); shuffle_mode = !shuffle_mode;">Shuffle</button> -->
         <script type="text/javascript" src="scripts/audio.js"></script>
 
-        <br>
-        <div class="text-client-container">
-            <div class="text-client-header">Text Client</div>
-            
-            <div class="text-client-log" id="textClientLog">
-            <div class="log-line">Waiting for AP Connection...</div>
-            </div>
-
-            <div class="text-client-input-container">
-            <span class="prompt-symbol">&gt;</span>
-            <input type="text" class="text-client-input" id="textClientInput" placeholder="Type a command..." autofocus />
-            </div>
-            <script type="text/javascript" src="scripts/text_client.js"></script>
-        </div>
+        <p></p>
+        <div id="queue-text">Queue:</div>
+        
     </div>
 </div>
 
-    <!-- Settings Cog Icon -->
-    <div class="settings-icon" onclick="openModal()">⚙️</div>
+<!-- Settings Cog Icon -->
+<div class="settings-icon" onclick="openModal()">⚙️</div>
 
-    <!-- Popup Modal -->
-    <div class="modal-overlay" id="modalOverlay" onclick="closeModal(event)">
-        <div class="modal" onclick="event.stopPropagation()">
-            <div id="selection-container" class="selection-container">
-                <div class="album-container" id="album-container">
-                    <table>
-                        <tbody id="album-list">
-                            
-                        </tbody>
-                    </table>
-                </div>
-                <div class="album-container" id="song-container">
-                    <table>
-                        <tbody id="song-list">
-        
-                        </tbody>
-                    </table>
-                </div>
+<!-- Popup Modal -->
+<div class="modal-overlay" id="modalOverlay" onclick="closeModal(event)">
+    <div class="modal" onclick="event.stopPropagation()">
+        <div id="selection-container" class="selection-container">
+            <div class="album-container" id="album-container">
+                <table>
+                    <tbody id="album-list">
+                        
+                    </tbody>
+                </table>
             </div>
-            <button class="close-btn" onclick="closeModal()">Save & Close</button>
-            <button class="victory-btn" onclick="addAllInLogic()">Add all in logic to queue</button>
+            <div class="album-container" id="song-container">
+                <table>
+                    <tbody id="song-list">
+    
+                    </tbody>
+                </table>
+            </div>
         </div>
+        <button class="close-btn" onclick="closeModal()">Save & Close</button>
+        <button class="victory-btn" onclick="addAllInLogic()">Add all in logic to queue</button>
     </div>
-    <script type="text/javascript" src="scripts/modal.js"></script>
+</div>
+<script type="text/javascript" src="scripts/modal.js"></script>
 
-    <script type="text/javascript" src="scripts/initialize_after_connect.js"></script>
+<script type="text/javascript" src="scripts/initialize_after_connect.js"></script>

@@ -56,6 +56,20 @@ function sendDeathLink() {
     }]));
 }
 
+function sendEnergyLink(element) {
+    const energy_send_amount = document.getElementById(element)
+    console.log(energy_send_amount.value)
+    socket.send(JSON.stringify([{
+        cmd: "Set",
+        key: "EnergyLink0",
+        operations: [{
+            operation: "add",
+            value: energy_send_amount
+
+        }]
+    }]));
+}
+
 function cheatSendLocation() {
     if (connected) {
         location_name = document.getElementById("location-text").value

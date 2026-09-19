@@ -9,7 +9,7 @@ let regions;
 let victory;
 let ap_host;
 let ap_slot;
-let ap_game = "Touhou Music";
+let ap_game;
 let ap_slot_id;
 let slot_data;
 let slot_info;
@@ -27,6 +27,7 @@ let album_type_name;
 function ap_connect() {
     ap_host = document.getElementById("ap-host").value
     ap_slot = document.getElementById("ap-slot").value
+    ap_game = document.getElementById("ap-game").value;
     if (!ap_host.startsWith("ws")) {
         ap_host = "wss://" + ap_host;
     }
@@ -112,7 +113,7 @@ function ap_connect() {
                     message_dict[msg.data[0].text] = "black";
                 }
                 else {
-                    message_dict["An Unknown Message was sent from the AP Server. " + msg.data[0].text] = "black";
+                    message_dict[msg.data[0].text] = "black";
                 }
                 // console.log(message_dict);
                 // text_client_log(text);
@@ -155,6 +156,7 @@ function sendLocation() {
         }
         
     } else {
+        text_client_log("No AP Connection.")
         console.log("No AP Connection.")
     }
 }
@@ -315,10 +317,12 @@ function send_victory() {
                 status: 30
             }]));
         } else {
+            text_client_log("Required Bounties to goal: ", slot_data["goal_requirement"]);
             console.log("Required Bounties to goal: ", slot_data["goal_requirement"])
         }
         
     } else {
-        console.log("No AP Connection.")
+        text_client_log("No AP Connection.");
+        console.log("No AP Connection.");
     }
 }

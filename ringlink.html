@@ -21,18 +21,15 @@
         <div class="a-row">
             <label>Game: </label><input type="text" id="ap-game" list="gamename">
                 <datalist id="gamename">
-                    <option value="Manual_THMusic_Awesome7285"></option>
-                    <option value="Manual_mwmm_theburger"></option>
-                    <option value="Manual_UndertaleMusic_Snolid"></option>
-                    <option value="Manual_DeltaruneMusic_Snolid"></option>
-                    <option value="Manual_TaylorSwiftDiscography_bennydreamly"></option>
+                    <option value="Touhou Music"></option>
+                    <option value="Awesome Music"></option>
                 </datalist>
         </div>
         <button onclick="ap_connect()">Connect</button>
         <p></p>
         <script type="text/javascript" src="scripts/ap_connect.js"></script>
         <script>
-            const tags = ["AP", "WebHost", "DeathLink", "RingLink", "LawnLink"];
+            const tags = ["AP", "WebHost", "DeathLink", "RingLink", "LawnLink", "EnergyLink"];
         </script>
             
 
@@ -43,11 +40,12 @@
             <div id="ring-received-text">Received x Rings</div>
             <div>Send Death Link <button id="death-send" onclick="sendDeathLink();">Send -></button></div>
             <div id="death-received-text">You are safe...</div>
+            <div>Send <input id="energy-send-amount" style="width: 50px"> Energy <button id="ring-send" onclick="sendEnergyLink('energy-send-amount');">Send -></button></div>
             <script type="text/javascript" src="scripts/ringlink.js"></script>
             <br>
             <div>Send Location: <input id="location-text" style="width: 200px"><button id="location-send" onclick="cheatSendLocation();">Send -></button></div>
             <div>Send Hint Location: <input id="hint-text" style="width: 200px"><button id="hint-send" onclick="cheatSendHint();">Send -></button></div>
-            <div><button id="Victory" onclick="send_victory();">Victory</button></div>
+            <div><button id="Victory" onclick="socket.send(JSON.stringify([{cmd: 'StatusUpdate',status: 30}]));">Victory</button></div>
 
         </div>
     </div>

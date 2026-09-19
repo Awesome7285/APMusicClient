@@ -13,6 +13,37 @@ button {
     margin-top: 8px;
 }
 
+/* AP bullshit */
+.fucking-everything {
+    display: flex;
+    /* width: 90%; */
+    height: 100%;
+}
+.left-side, .right-side {
+    flex: 1;
+    box-sizing: border-box;
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 872px;
+}
+.ap-game {
+    width: 300px;
+}
+#ap-tracker {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    height: 450px;
+    border: 1px solid #cccccc;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
 /* Settings Cog */
 .settings-icon {
     position: fixed;
@@ -102,44 +133,18 @@ td:hover {
 
 /* Queue */
 #queue-text {
-    position: fixed;
+    /* position: fixed;
     top: 60px;
-    right: 20px;
-    cursor: pointer;
+    right: 20px; */
+    /* cursor: pointer; */
     font-size: 10px;
     margin-top: 1px;
     margin-bottom: 1px;
-    text-align: right;
+    /* text-align: right; */
 }
 
-/* AP bullshit */
-#ap-tracker {
-    display: flex;
-    flex-direction: column;
-    width: 800px;
-}
-/* #ap-bullshit {
-    display: flex;
-    flex-direction: column;
-    width: 400px;
-    padding-left: 10px;
-} */
-.fucking-everything {
-    display: flex;
-    /* width: 90%; */
-    height: 95%;
-}
-.left-side, .right-side {
-    flex: 1;
-    box-sizing: border-box;
-    align-items: flex-start;
-    display: flex;
-    flex-direction: column;
-    padding: 20px;
-}
-.ap-game {
-    width: 300px;
-}
+
+
 
 /* Tracker */
 .tracker-item, .modal-item {
