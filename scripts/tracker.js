@@ -13,18 +13,15 @@ function createTracker() {
             categories["Album"].push(album);
         })
         items.forEach(item => {
-            let prog = item["progression"] ?? item["progression_skip_balancing"] ?? false;
-            if (prog) {
-                // Check if item is in slot data
-                if (Object.keys(slot_data.misc_prog).includes(item["name"]) ) {
-                    // Only check first item in category
-                    item_cat = item["category"][0];
-                    if (Object.keys(categories).includes(item_cat)) {
-                        categories[item_cat].push(item["name"]);
-                    } else {
-                        categories[item_cat] = [item["name"]];
-                        category_order.push(item_cat);
-                    }
+            // Check if item is in slot data
+            if (Object.keys(slot_data.misc_prog).includes(item["name"]) ) {
+                // Only check first item in category
+                item_cat = item["category"][0];
+                if (Object.keys(categories).includes(item_cat)) {
+                    categories[item_cat].push(item["name"]);
+                } else {
+                    categories[item_cat] = [item["name"]];
+                    category_order.push(item_cat);
                 }
             }
         })
