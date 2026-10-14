@@ -180,9 +180,14 @@ document.addEventListener('DOMContentLoaded', () => {
     const slotInput = document.getElementById("ap-slot");
     const savedHost = localStorage.getItem('ap-host');
     const savedSlot = localStorage.getItem('ap-slot');
+    const savedVolume = localStorage.getItem('volume');
 
     if (savedHost !== null) hostInput.value = savedHost;
     if (savedSlot !== null) slotInput.value = savedSlot;
+    if (savedVolume !== null) { 
+        audio.volume = savedVolume;
+        volumeSlider.value = savedVolume;
+    }
 
     hostInput.addEventListener('input', () => {
         localStorage.setItem('ap-host', hostInput.value);

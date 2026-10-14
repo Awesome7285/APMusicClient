@@ -43,6 +43,7 @@ progressBarContainer.addEventListener('click', (e) => {
 // Volume Slider
 volumeSlider.addEventListener('input', (e) => {
     audio.volume = e.target.value;
+    localStorage.setItem('volume', audio.volume);
 });
 
 
