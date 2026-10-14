@@ -235,18 +235,18 @@ function addAllInLogic() {
         item_obtained = document.getElementById(album);
         if (item_obtained !== null) {
             if (item_obtained.className == "charImageObtained") { // If you have the album's item...
-                locations.forEach(song => {
-                    if (song["region"] != album) {
+                for (i = 0; i < locations.length; i++) {
+                    if (locations[i]["region"] != album || queue.includes(i) || currentSong == locations[i]) {
                         return;
                     }
-                    let location = song["name"];
+                    let location = locations[i]["name"];
                     if (!checked_locations.includes(data_package["location_name_to_id"][location])) { // If you havent done the check already...
                         let [inLogic, requirements] = locationIsInLogic(location);
                         if (inLogic) { // If the song is in logic...
-                            addSongToQueue(song); // Add the song to the queue
+                            addSongToQueue(locations[i]); // Add the song to the queue
                         }
                     }
-                })
+                }
             }
         }
     })

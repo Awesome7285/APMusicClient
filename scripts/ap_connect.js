@@ -7,6 +7,7 @@ let slash_received = [];
 let locations = [];
 let locations_to_reqs = {};
 let regions;
+let regions_to_locs = {};
 let victory;
 let ap_host;
 let ap_slot;
@@ -25,7 +26,9 @@ function ap_connect() {
     ap_host = document.getElementById("ap-host").value
     ap_slot = document.getElementById("ap-slot").value
     ap_game = document.getElementById("ap-game").value;
-    if (!ap_host.startsWith("ws")) {
+    if (ap_host.startsWith("localhost")) {
+        ap_host = "ws://" + ap_host;
+    } else {
         ap_host = "wss://" + ap_host;
     }
     socket = new WebSocket(ap_host);
@@ -51,6 +54,9 @@ function ap_connect() {
                 checked_locations = msg.checked_locations;
                 slot_data = msg.slot_data;
                 regions = slot_data.enabled_albums;
+                // regions.forEach(region => {
+                //     regions_to_locs[region] = [];
+                // })
                 slot_info = msg.slot_info;
                 ap_slot_id = msg.slot;
                 names_to_games = Object.fromEntries(Object.values(slot_info).map(item => [item.name, item.game]));
@@ -168,3 +174,21 @@ function send_victory() {
         console.log("No AP Connection.");
     }
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+    const hostInput = document.getElementById("ap-host");
+    const slotInput = document.getElementById("ap-slot");
+    const savedHost = localStorage.getItem('ap-host');
+    const savedSlot = localStorage.getItem('ap-slot');
+
+    if (savedHost !== null) hostInput.value = savedHost;
+    if (savedSlot !== null) slotInput.value = savedSlot;
+
+    hostInput.addEventListener('input', () => {
+        localStorage.setItem('ap-host', hostInput.value);
+    });
+
+    slotInput.addEventListener('input', () => {
+        localStorage.setItem('ap-slot', slotInput.value);
+    });
+})
