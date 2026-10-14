@@ -23,21 +23,23 @@ function text_client_log(message) {
     textClientLog.scrollTop = textClientLog.scrollHeight;
 }
 
-function text_client_log_colour(message_dict) {
+function text_client_log_colour(message_list) {
     const line = document.createElement('div');
     line.classList.add('log-line');
 
-    Object.keys(message_dict).forEach(text => {
+    message_list.forEach(obj => {
+        text = obj[0];
+        color = obj[1];
         const line_part = document.createElement('a');
-        line_part.style.color = textClientColors[message_dict[text]];
+        line_part.style.color = textClientColors[color];
         line_part.textContent = text;
-        if (message_dict[text] === "prog") {
+        if (color === "prog") {
             line_part.style.fontWeight = 'bold';
         }
-        if (["prog", "useful", "filler", "trap"].includes(message_dict[text])) {
-            line_part.title = "Item Class: " + message_dict[text]
+        if (["prog", "useful", "filler", "trap"].includes(color)) {
+            line_part.title = "Item Class: " + color;
         }
-        if (message_dict[text] === "others" || message_dict[text] === "you") {
+        if (color === "others" || color === "you") {
             line_part.title = "Game: " + names_to_games[text]
         }
         line.appendChild(line_part);
@@ -67,23 +69,19 @@ textClientInput.addEventListener('keydown', (e) => {
                         text_client_log("Listing every received item sorted by time:");
                         Object.values(slash_received).forEach(item => {
                             if (item.location === -2) { 
-                                text_client_log_colour({"Starting Invetory Item": "black"})
+                                text_client_log_colour([["Starting Invetory Item", "black"]])
                             }
                             else if (item.location === -1) { 
-                                text_client_log_colour({"Item Cheat": "black"})
+                                text_client_log_colour([["Item Cheat", "black"]])
                             }
                             else {
-                                var message_dict = {"Received: ": "black"}
-                                console.log(item);
-                                [a, b] = formatItemID(item.item, ap_slot_id, item.flags);
-                                message_dict[a] = b;
-                                message_dict[" from "] = 'black';
-                                [a, b] = formatPlayerID(item.player);
-                                message_dict[a] = b;
-                                message_dict[" at "] = 'black';
-                                [a, b] = formatLocationID(item.location, item.player);
-                                message_dict[a] = b;
-                                text_client_log_colour(message_dict);
+                                var message_list = [["Received: ", "black"]]
+                                message_list.push(formatItemID(item.item, ap_slot_id, item.flags));
+                                message_list.push([" from ", "black"]);
+                                message_list.push(formatPlayerID(item.player));
+                                message_list.push([" at ", "black"]);
+                                message_list.push(formatLocationID(item.location, item.player));
+                                text_client_log_colour(message_list);
                             }
                         })
                         break;

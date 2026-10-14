@@ -103,22 +103,21 @@ function ap_connect() {
                 }
             }
             if (msg.cmd === "PrintJSON") {
-                var message_dict = {};
+                var message_list = [];
                 if (msg.type === "ItemSend" || msg.type === "Hint") {
                     msg.data.forEach(t => {
-                        [a,b] = formatTextLog(t);
-                        message_dict[a] = b;
+                        message_list.push(formatTextLog(t));
                     })
                 }
                 else if (["Join", "Part", "Tutorial", "Chat", "CommandResult", "ItemCheat", "Goal", "Release", "Collect", "Countdown", "AdminCommandResult", "TagsChanged", "ServerChat"].includes(msg.type)) {
-                    message_dict[msg.data[0].text] = "black";
+                    message_list.push([msg.data[0].text, "black"]);
                 }
                 else {
-                    message_dict[msg.data[0].text] = "black";
+                    message_list.push([msg.data[0].text, "black"]);
                 }
                 // console.log(message_dict);
                 // text_client_log(text);
-                text_client_log_colour(message_dict);
+                text_client_log_colour(message_list);
             }
         })
     });
