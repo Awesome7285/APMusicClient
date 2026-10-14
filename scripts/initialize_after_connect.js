@@ -6,6 +6,9 @@ function doConnect() {
             .catch(() => load_json(`./data/locations/${groupToID(group)}.json`))
             .then(data => {
                 locations.push(...data);
+                locations.forEach(loc => {
+                    locations_to_reqs[loc['name']] = loc['requires'];
+                })
             })
         })
     } else {
@@ -15,25 +18,16 @@ function doConnect() {
             .catch(() => load_json(`./data/locations/${slot_data.enabled_groups[group]}.json`))
             .then(data => {
                 locations.push(...data);
+                locations.forEach(loc => {
+                    locations_to_reqs[loc['name']] = loc['requires'];
+                })
             })
         })
     }
-
-    // Re Add Regions
-    regions = Object.fromEntries(
-        slot_data.enabled_albums.map(r => [r, { requires: `|${r}|` }])
-    );
     
-
-    // Don't add shit above here
-
     song_index = 0;
     currentSong = null;
     queue = [];
-    console.log(regions);
-
-    // Meta
-    album_type_name = "Album";
 
     // Debug: Check all audio files exist in the folder and are named correctly
     //checkSongsExist()

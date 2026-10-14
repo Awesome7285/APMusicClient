@@ -93,11 +93,9 @@ function update_track_info(song) {
 
     // Show the current song's requirements
     requirements.innerHTML = "";
-    let requirementsDict = locationGetRequirements(song['name']);
-    let bad = {}; let bad2 = `${song['region']}`; bad[bad2] = 1;
-    requirementsDict = {...bad, ...requirementsDict}
-    console.log(requirementsDict)
-    const requirements_container = addRequirementImages(requirementsDict);
+    let requirementsList = [song['region']];
+    requirementsList.push(...locations_to_reqs[song['name']].match(ITEM_REGEX) || []);
+    const requirements_container = addRequirementImages(requirementsList);
     requirements.appendChild(requirements_container);
 
     currentSong = song;

@@ -36,7 +36,7 @@ function get_enabled_games() {
     songList.innerHTML = "";
     
     // Create game option
-    Object.keys(regions).forEach(album => {
+    regions.forEach(album => {
         // Cache Logic
         cachedLogic[album] = 0
         locations.forEach(song => {
@@ -45,10 +45,10 @@ function get_enabled_games() {
             }
 
             let location = song["name"];
-            let requirements = locationGetRequirements(location);
+            let [inLogic, requirements] = locationIsInLogic(location);
             // 0 means grey, 0b01 means green, 0b10 means red
             if (!checked_locations.includes(data_package["location_name_to_id"][location])) {
-                if (requirementsIsInLogic(requirements)) {
+                if (inLogic) {
                     // Green
                     cachedLogic[album] = cachedLogic[album] | 1
                 } else {
@@ -74,9 +74,9 @@ function get_enabled_games() {
         logic_square.className = "poptracker-square";
         
         // AP Check
-        item_obtained = document.getElementById(regionGetRequirements(album));
+        item_obtained = document.getElementById(album);
         if (item_obtained !== null) {
-            img.src = `./tracker/${album_type_name}/${item_obtained.id.replace(/[":]+/g, "")}.png`;
+            img.src = `./tracker/Album/${item_obtained.id.replace(/[":]+/g, "")}.png`;
             
             if (item_obtained.className == "charImageObtained") {
                 row.addEventListener('click', () => showSongs(album));
@@ -122,8 +122,8 @@ function showSongs(album) {
 
         // Logic
         let location = song["name"];
-        let requirements = locationGetRequirements(location);
-        if (requirementsIsInLogic(requirements)) {
+        let [inLogic, requirements] = locationIsInLogic(location);
+        if (inLogic) {
             if (checked_locations.includes(data_package["location_name_to_id"][location])) {
                 cell.style = "color: grey";
                 queue.style = "color: grey";
@@ -142,9 +142,10 @@ function showSongs(album) {
 
         // Add Images
         const requirements_container = addRequirementImages(requirements)
-        
         row.appendChild(requirements_container);
+
         row.appendChild(queue);
+        row.title = "Requires: " + (locations_to_reqs[location] || "None");
         songList.appendChild(row);
     });
 }
@@ -153,11 +154,17 @@ function addRequirementImages(requirements) {
     // Add Images
     const requirements_container = document.createElement('div');
     requirements_container.id = "requirements-container";
-    Object.keys(flattenRequirements(requirements)).forEach(item => {
+    requirements.forEach(item => {
         const img = document.createElement('img');
         const img_container = document.createElement('div');
 
-        let amount = requirements[item];
+        item = item.replace(/^\|+|\|+$/g, ''); // Remove |
+        let g = item.split(':');
+        let amount = 1;
+        if (g.length == 2) {
+            amount = g[1];
+            item = g[0];
+        }
 
         // Item Amount
         const count = document.createElement("span");
@@ -168,17 +175,14 @@ function addRequirementImages(requirements) {
         item_tracker = document.getElementById(item);
         img.src = item_tracker.src;
         img_container.className = "modal-item";
-        var js_stupidity = {};
-        js_stupidity[item] = amount;
-        if (requirementsIsInLogic(js_stupidity)) {
+        
+        if (document.getElementById(item).className == "charImageObtained" && document.getElementById(item+"-count").textContent >= amount) {
             img.className = "charImageObtained";
             img.title = item + "\n(Obtained)";
         } else {
             img.className = "charImage";
             img.title = item + "\n(Unobtained)";
         }
-
-        
 
         // Add
         img_container.appendChild(img);
@@ -227,8 +231,8 @@ function shuffleQueue(arr1, parentElement) {
 }
 
 function addAllInLogic() {
-    Object.keys(regions).forEach(album => {
-        item_obtained = document.getElementById(regionGetRequirements(album));
+    regions.forEach(album => {
+        item_obtained = document.getElementById(album);
         if (item_obtained !== null) {
             if (item_obtained.className == "charImageObtained") { // If you have the album's item...
                 locations.forEach(song => {
@@ -237,8 +241,8 @@ function addAllInLogic() {
                     }
                     let location = song["name"];
                     if (!checked_locations.includes(data_package["location_name_to_id"][location])) { // If you havent done the check already...
-                        let requirements = locationGetRequirements(location);
-                        if (requirementsIsInLogic(requirements)) { // If the song is in logic...
+                        let [inLogic, requirements] = locationIsInLogic(location);
+                        if (inLogic) { // If the song is in logic...
                             addSongToQueue(song); // Add the song to the queue
                         }
                     }
