@@ -131,13 +131,13 @@ function formatItemID(item_id, player_id, flags) {
     if (!isNaN(text)) {
         text += ' '; // I love 83229978 from undertale 2
     }
-    if (flags == 1) { //progression
+    if (flags & 1) { //progression
         return [text, "prog"];
     }
-    else if (flags == 2) { //useful
+    else if (flags & 2) { //useful
         return [text, "useful"];
     }
-    else if (flags == 4) { //trap
+    else if (flags & 4) { //trap
         return [text, "trap"];
     } else {
         return [text, "filler"];
