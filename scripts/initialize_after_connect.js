@@ -1,9 +1,10 @@
-function doConnect() {
+async function doConnect() {
+    let promises
     // This part will get deleted when tbaec4 ends
     if (VERSION == "v0.1.0") {
-        slot_data.enabled_groups.forEach(group => {
-            load_json(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/locations/${groupToID(group)}.json`)
-            .catch(() => load_json(`./data/locations/${groupToID(group)}.json`))
+        promises = slot_data.enabled_groups.map(group => {
+            return load_json(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/locations/${groupToID(group)}.json`)
+            .catch(() => {return load_json(`./data/${groupToID(group)}.json`)})
             .then(data => {
                 locations.push(...data);
                 locations.forEach(loc => {
@@ -11,15 +12,31 @@ function doConnect() {
                 })
             })
         })
-    } else {
+    // Delete this when jukebox async ends
+    } else if (VERSION == "v1.0.1") {
         // Load JSON immediately before anything else runs
-        Object.keys(slot_data.enabled_groups).forEach(group => {
-            load_json(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/locations/${slot_data.enabled_groups[group]}.json`)
-            .catch(() => load_json(`./data/locations/${slot_data.enabled_groups[group]}.json`))
+        promises = Object.keys(slot_data.enabled_groups).map(group => {
+            return load_json(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/locations/${slot_data.enabled_groups[group]}.json`)
+            .catch(() => {return load_json(`./data/${slot_data.enabled_groups[group]}.json`)})
             .then(data => {
                 locations.push(...data);
                 locations.forEach(loc => {
                     locations_to_reqs[loc['name']] = loc['requires'];
+                })
+            })
+        })
+    } else { // Latest
+        promises = Object.keys(slot_data.enabled_groups).map(group => {
+            return load_json(`./data/${slot_data.enabled_groups[group]}.json`)
+            .catch(() => {return load_json(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/locations/${slot_data.enabled_groups[group]}.json`)})
+            .then(data => {
+                locations.push(...data['locations']);
+                locations.forEach(loc => {
+                    locations_to_reqs[loc['name']] = loc['requires'];
+                })
+                Object.keys(data['items']).forEach(cat => {
+                    category_to_items[cat] = category_to_items[cat] || {};
+                    category_to_items[cat] = {...category_to_items[cat], ...data['items'][cat]};
                 })
             })
         })
@@ -28,6 +45,36 @@ function doConnect() {
     song_index = 0;
     currentSong = null;
     queue = [];
+
+    Promise.all(promises)
+    .then(() => {
+        let promise;
+        if (VERSION == "v1.1.0") { // Latest
+            createTracker();
+        } else { // Old versions that check for misc_progression.json
+            promise = load_json(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/items/misc_progression.json`)
+            .then(data => {
+                let items = data;
+                items.forEach(item => {
+                    // Check if item is in slot data
+                    if (Object.keys(slot_data.misc_prog).includes(item["name"]) ) {
+                        // Only check first item in category
+                        item_cat = item["category"][0];
+                        if (Object.keys(category_to_items).includes(item_cat)) {
+                            category_to_items[item_cat].push(item["name"]);
+                        } else {
+                            category_to_items[item_cat] = [item["name"]];
+                        }
+                    }
+                })
+            })
+            Promise.all([promise])
+            .then(() => {
+                createTracker();
+            })
+        } 
+    })
+    
 
     // Debug: Check all audio files exist in the folder and are named correctly
     //checkSongsExist()

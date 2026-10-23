@@ -1,74 +1,44 @@
 function createTracker() {
-    // Load items from items.json
 
-    load_json(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/items/misc_progression.json`)
-    .catch(() => load_json(`./data/misc_progression.json`))
-    .then(data => {
-
-        let items = data;
-        console.log(items)
-        let categories = {"Album": []};
-        let category_order = ["Album"];
+    category_to_items = {...category_to_items, "Bounty": {"Bounty": []}};
+    if (!Object.keys(category_to_items).includes('Album')) {
+        category_to_items = {"Album": {}, ...category_to_items};
         slot_data.enabled_albums.forEach(album => {
-            categories["Album"].push(album);
+            category_to_items["Album"][album] = [];
         })
-        items.forEach(item => {
-            // Check if item is in slot data
-            if (Object.keys(slot_data.misc_prog).includes(item["name"]) ) {
-                // Only check first item in category
-                item_cat = item["category"][0];
-                if (Object.keys(categories).includes(item_cat)) {
-                    categories[item_cat].push(item["name"]);
-                } else {
-                    categories[item_cat] = [item["name"]];
-                    category_order.push(item_cat);
-                }
-            }
-        })
+    }
 
-        categories["Bounty"] = ["Bounty"]
-        category_order.push("Bounty");
-
-        // Create images tracker based on items.json
-        const ap_tracker = document.getElementById("ap-tracker")
-        ap_tracker.innerHTML = "";
-        category_order.forEach(category => {
-            const tracker_section = document.createElement("div");
-            categories[category].forEach(item => {
-                var it = document.createElement("div")
-                var im = document.createElement("img")
-                // Manually get these images for characters in double quotes
-                if (item == "\"Tsubakura Enraku\"") {
-                    im.src = `./tracker/${category}/Not Tsubakura.png`
-                } else if (item == "\"Tsurubami Senri\"") {
-                    im.src = `./tracker/${category}/Not Tsurubami.png`
-                } else {
-                    im.src = `./tracker/${category}/${item.replace(/[<>:"\/\\|?*’]+/g, "")}.png`
-                }
-                im.className = "charImage";
-                im.id = item;
-                im.title = item + "\n(Unobtained)";
-                // Item Count
-                var count = document.createElement("span")
-                count.textContent = 0;
-                count.id = item + "-count";
-                count.className = "item-count";
-                it.appendChild(im);
-                it.appendChild(count);
-                it.className = "tracker-item";
-                tracker_section.appendChild(it);
-            })
-            ap_tracker.appendChild(tracker_section);
-            ap_tracker.appendChild(document.createElement("br"))
+    const ap_tracker = document.getElementById("ap-tracker")
+    ap_tracker.innerHTML = "";
+    Object.keys(category_to_items).forEach(category => {
+        const tracker_section = document.createElement("div");
+        Object.keys(category_to_items[category]).forEach(item => {
+            var it = document.createElement("div")
+            var im = document.createElement("img")
+            im.src = `./tracker/${category}/${item.replace(/[<>:"\/\\|?*’]+/g, "")}.png`
+            im.className = "charImage";
+            im.id = item;
+            im.title = item + "\n(Unobtained)";
+            // Item Count
+            var count = document.createElement("span")
+            count.textContent = 0;
+            count.id = item + "-count";
+            count.className = "item-count";
+            it.appendChild(im);
+            it.appendChild(count);
+            it.className = "tracker-item";
+            tracker_section.appendChild(it);
         })
-
-        // Now receive items
-        tracker_created = true;
-        awaiting_packets.forEach(packet => {
-            updateTracker(packet)
-        })
-        awaiting_packets = []
+        ap_tracker.appendChild(tracker_section);
+        ap_tracker.appendChild(document.createElement("br"))
     })
+
+    // Now receive items
+    tracker_created = true;
+    awaiting_packets.forEach(packet => {
+        updateTracker(packet)
+    })
+    awaiting_packets = []
 }
 
 function updateTracker(packet) {
@@ -78,8 +48,8 @@ function updateTracker(packet) {
         return
     }
     packet["items"].forEach(item => {
-        var item_id = item.item
-        var received = getKeyByValue(data_package["item_name_to_id"], item_id)
+        var item_id = item.item;
+        var received = full_data_package[ap_game]["item_id_to_name"][item_id];
         //console.log(received)
         im = document.getElementById(received);
         if (im == undefined) {
@@ -98,8 +68,4 @@ function updateTracker(packet) {
         }
         
     });
-}
-
-function getKeyByValue(object, value) {
-    return Object.keys(object).find(key => object[key] === value);
 }

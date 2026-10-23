@@ -8,6 +8,7 @@ let locations = [];
 let locations_to_reqs = {};
 let regions;
 let regions_to_locs = {};
+let category_to_items = {};
 let victory;
 let ap_host;
 let ap_slot;
@@ -63,7 +64,6 @@ function ap_connect() {
                 VERSION = slot_data.version ?? "v0.1.0"
                 document.getElementById("requiredBounties").textContent = "Bounties required to goal: " + slot_data["goal_requirement"]
                 // REMAKE TRACKER
-                createTracker();
                 doConnect();
             }
             if (msg.cmd === "DataPackage") {
@@ -83,6 +83,10 @@ function ap_connect() {
                     slot_data: true
                 }]));
                 connected = true;
+                Object.keys(full_data_package).forEach(game => {
+                    full_data_package[game]["item_id_to_name"] = Object.fromEntries(Object.entries(full_data_package[game]["item_name_to_id"]).map(([key, value]) => [value, key]));
+                    full_data_package[game]["location_id_to_name"] = Object.fromEntries(Object.entries(full_data_package[game]["location_name_to_id"]).map(([key, value]) => [value, key]));
+                })
             }
             if (msg.cmd === "ReceivedItems") {
                 if (JSON.stringify(msg.items[0]) !== JSON.stringify(slash_received[0])) {

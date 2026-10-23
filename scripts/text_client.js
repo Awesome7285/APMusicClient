@@ -68,21 +68,23 @@ textClientInput.addEventListener('keydown', (e) => {
                     case '/received':
                         text_client_log("Listing every received item sorted by time:");
                         Object.values(slash_received).forEach(item => {
+                            var message_list = [["Received: ", "black"]]
                             if (item.location === -2) { 
-                                text_client_log_colour([["Starting Invetory Item", "black"]])
+                                message_list.push(formatItemID(item.item, ap_slot_id, item.flags));
+                                message_list.push([" from Starting Inventory", "black"]);
                             }
                             else if (item.location === -1) { 
-                                text_client_log_colour([["Item Cheat", "black"]])
+                                message_list.push(formatItemID(item.item, ap_slot_id, item.flags));
+                                message_list.push([" from Cheat Console", "black"]);
                             }
                             else {
-                                var message_list = [["Received: ", "black"]]
                                 message_list.push(formatItemID(item.item, ap_slot_id, item.flags));
                                 message_list.push([" from ", "black"]);
                                 message_list.push(formatPlayerID(item.player));
                                 message_list.push([" at ", "black"]);
                                 message_list.push(formatLocationID(item.location, item.player));
-                                text_client_log_colour(message_list);
                             }
+                            text_client_log_colour(message_list);
                         })
                         break;
                     default: //aka /help
@@ -127,10 +129,7 @@ function formatPlayerID(player_id) {
 }
 
 function formatItemID(item_id, player_id, flags) {
-    text = Object.fromEntries(Object.entries(full_data_package[slot_info[player_id].game]["item_name_to_id"]).map(([key, value]) => [value, key]))[item_id];
-    if (!isNaN(text)) {
-        text += ' '; // I love 83229978 from undertale 2
-    }
+    text = full_data_package[slot_info[player_id].game]["item_id_to_name"][item_id];
     if (flags & 1) { //progression
         return [text, "prog"];
     }
@@ -145,6 +144,6 @@ function formatItemID(item_id, player_id, flags) {
 }
 
 function formatLocationID(location_id, player_id) {
-    text = Object.fromEntries(Object.entries(full_data_package[slot_info[player_id].game]["location_name_to_id"]).map(([key, value]) => [value, key]))[location_id];
+    text = full_data_package[slot_info[player_id].game]["location_id_to_name"][location_id];
     return [text, "location"];
 }
