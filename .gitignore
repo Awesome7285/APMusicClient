@@ -6,6 +6,7 @@
 **.webm
 **.zip
 python/
+audio/
 data/locations/**.json
 data/**.json
 TODO.txt
