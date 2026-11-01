@@ -8,9 +8,14 @@ function createTracker() {
     Object.keys(category_to_items).forEach(category => {
         const tracker_section = document.createElement("div");
         Object.keys(category_to_items[category]).forEach(item => {
-            var it = document.createElement("div")
-            var im = document.createElement("img")
-            im.src = category_to_items[category][item]['url'] || `./tracker/${category}/${item.replace(/[<>:"\/\\|?*’]+/g, "")}.png`;
+            var it = document.createElement("div");
+            var im = document.createElement("img");
+            var imObj = new Image();
+            imObj.src = `./tracker/${category}/${item.replace(/[<>:"\/\\|?*’]+/g, "")}.png`;
+            im.src = imObj.src;
+            imObj.onerror = function () {
+                im.src = category_to_items[category][item]['url'];
+            }
             im.className = "charImage";
             im.id = item;
             im.title = item + "\n(Unobtained)";
