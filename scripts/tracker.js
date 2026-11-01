@@ -1,12 +1,7 @@
 function createTracker() {
 
+    console.log(category_to_items);
     category_to_items = {...category_to_items, "Bounty": {"Bounty": []}};
-    if (!Object.keys(category_to_items).includes('Album')) {
-        category_to_items = {"Album": {}, ...category_to_items};
-        slot_data.enabled_albums.forEach(album => {
-            category_to_items["Album"][album] = [];
-        })
-    }
 
     const ap_tracker = document.getElementById("ap-tracker")
     ap_tracker.innerHTML = "";
@@ -15,7 +10,7 @@ function createTracker() {
         Object.keys(category_to_items[category]).forEach(item => {
             var it = document.createElement("div")
             var im = document.createElement("img")
-            im.src = `./tracker/${category}/${item.replace(/[<>:"\/\\|?*’]+/g, "")}.png`
+            im.src = category_to_items[category][item]['url'] || `./tracker/${category}/${item.replace(/[<>:"\/\\|?*’]+/g, "")}.png`;
             im.className = "charImage";
             im.id = item;
             im.title = item + "\n(Unobtained)";

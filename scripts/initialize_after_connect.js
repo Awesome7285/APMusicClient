@@ -1,16 +1,14 @@
 async function doConnect() {
-    let promises = Object.keys(slot_data.enabled_groups).map(group => {
-        return load_json(`./data/${slot_data.enabled_groups[group]}.json`)
-        .catch(() => {return load_json(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/locations/${slot_data.enabled_groups[group]}.json`)})
+    let temp_items = {}
+    let promises = Object.values(slot_data.enabled_groups).map(group => {
+        return load_json(`./data/${group}.json`)
+        .catch(() => {return load_json(`https://raw.githubusercontent.com/Awesome7285/Music-APWorld/refs/tags/${VERSION}/locations/${group}.json`)})
         .then(data => {
             locations.push(...data['locations']);
             locations.forEach(loc => {
                 locations_to_reqs[loc['name']] = loc['requires'];
             })
-            Object.keys(data['items']).forEach(cat => {
-                category_to_items[cat] = category_to_items[cat] || {};
-                category_to_items[cat] = {...category_to_items[cat], ...data['items'][cat]};
-            })
+            temp_items[parseInt(group.split(' ')[0])] = data['items'];
         })
     })
     
@@ -20,9 +18,13 @@ async function doConnect() {
 
     Promise.all(promises)
     .then(() => {
-        if (VERSION == "v1.1.0") { // Latest
-            createTracker();
-        }
+        Object.values(temp_items).forEach(items => {
+            Object.keys(items).forEach(cat => {
+                category_to_items[cat] = category_to_items[cat] || {};
+                category_to_items[cat] = {...category_to_items[cat], ...items[cat]};
+            })
+        })
+        createTracker();
     })
     
 

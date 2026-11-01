@@ -76,7 +76,7 @@ function get_enabled_games() {
         // AP Check
         item_obtained = document.getElementById(album);
         if (item_obtained !== null) {
-            img.src = `./tracker/Album/${item_obtained.id.replace(/[":]+/g, "")}.png`;
+            img.src = item_obtained.src;
             
             if (item_obtained.className == "charImageObtained") {
                 row.addEventListener('click', () => showSongs(album));
