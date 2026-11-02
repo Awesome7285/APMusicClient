@@ -1,33 +1,35 @@
 function createTracker() {
 
     console.log(category_to_items);
-    category_to_items = {...category_to_items, "Bounty": {"Bounty": []}};
+    category_to_items = {...category_to_items, "Bounty": {"Bounty": {}}};
 
     const ap_tracker = document.getElementById("ap-tracker")
     ap_tracker.innerHTML = "";
     Object.keys(category_to_items).forEach(category => {
         const tracker_section = document.createElement("div");
         Object.keys(category_to_items[category]).forEach(item => {
-            var it = document.createElement("div");
-            var im = document.createElement("img");
-            var imObj = new Image();
-            imObj.src = `./tracker/${category}/${item.replace(/[<>:"\/\\|?*’]+/g, "")}.png`;
-            im.src = imObj.src;
-            imObj.onerror = function () {
-                im.src = category_to_items[category][item]['url'];
+            if (slot_data.enabled_albums.includes(item) || Object.keys(slot_data.misc_prog).includes(item) || item == "Bounty") {
+                var it = document.createElement("div");
+                var im = document.createElement("img");
+                var imObj = new Image();
+                imObj.src = `./tracker/${category}/${item.replace(/[<>:"\/\\|?*’]+/g, "")}.png`;
+                im.src = imObj.src;
+                imObj.onerror = function () {
+                    im.src = category_to_items[category][item]['url'];
+                }
+                im.className = "charImage";
+                im.id = item;
+                im.title = item + "\n(Unobtained)";
+                // Item Count
+                var count = document.createElement("span")
+                count.textContent = 0;
+                count.id = item + "-count";
+                count.className = "item-count";
+                it.appendChild(im);
+                it.appendChild(count);
+                it.className = "tracker-item";
+                tracker_section.appendChild(it);
             }
-            im.className = "charImage";
-            im.id = item;
-            im.title = item + "\n(Unobtained)";
-            // Item Count
-            var count = document.createElement("span")
-            count.textContent = 0;
-            count.id = item + "-count";
-            count.className = "item-count";
-            it.appendChild(im);
-            it.appendChild(count);
-            it.className = "tracker-item";
-            tracker_section.appendChild(it);
         })
         ap_tracker.appendChild(tracker_section);
         ap_tracker.appendChild(document.createElement("br"))
